@@ -35,6 +35,10 @@ theme:
 plugins:
   - search:
       lang: fr
+  - glightbox:
+      zoomable: true
+      skip_classes:
+        - no-zoom
 
 markdown_extensions:
   - admonition
