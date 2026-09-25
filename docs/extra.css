@@ -1,0 +1,177 @@
+/* =========================================================
+   Charte graphique IMT Mines Alès
+   Bleu IMT #14223C · Rose École #F14862 · Cyan #00B8DE
+   Blanc #FFFFFF · Gris bleuté #EDF3F4
+   Aucune autre couleur n'est utilisée.
+   ========================================================= */
+:root, [data-md-color-scheme="default"] {
+  --imt-bleu: #14223c;
+  --imt-rose: #f14862;
+  --imt-cyan: #00b8de;
+  --imt-gris: #edf3f4;
+  --imt-blanc: #ffffff;
+
+  --md-primary-fg-color: var(--imt-bleu);
+  --md-primary-fg-color--light: var(--imt-bleu);
+  --md-primary-fg-color--dark: var(--imt-bleu);
+  --md-primary-bg-color: var(--imt-blanc);
+  --md-accent-fg-color: var(--imt-rose);
+  --md-typeset-a-color: var(--imt-bleu);
+  --md-code-bg-color: var(--imt-gris);
+}
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: var(--imt-bleu);
+  --md-primary-fg-color: var(--imt-bleu);
+  --md-accent-fg-color: var(--imt-rose);
+  --md-typeset-a-color: var(--imt-cyan);
+}
+
+/* Contenu plus large, pour des captures lisibles */
+.md-grid { max-width: 76rem; }
+
+/* Titre de page : bleu IMT avec un filet rose, comme la charte */
+.md-typeset h1 {
+  color: var(--imt-bleu);
+  font-weight: 700;
+  margin-bottom: 1.2em;
+}
+.md-typeset h1::after {
+  content: "";
+  display: block;
+  width: 3rem;
+  height: 4px;
+  margin-top: 0.4em;
+  background: var(--imt-rose);
+}
+.md-typeset h2 { color: var(--imt-bleu); font-weight: 700; }
+[data-md-color-scheme="slate"] .md-typeset h1,
+[data-md-color-scheme="slate"] .md-typeset h2 { color: var(--imt-blanc); }
+
+/* ---------- Étapes numérotées : pastilles roses ---------- */
+[dir=ltr] .md-typeset ol,
+.md-typeset ol {
+  list-style: none;
+  counter-reset: etape;
+  margin-left: 0;
+  padding-left: 0;
+}
+[dir=ltr] .md-typeset ol > li,
+.md-typeset ol > li {
+  counter-increment: etape;
+  position: relative;
+  margin: 0 0 1.4em 0;
+  padding-left: 2.8em;
+}
+.md-typeset ol > li::before {
+  content: counter(etape);
+  position: absolute;
+  left: 0;
+  top: -0.1em;
+  width: 1.9em;
+  height: 1.9em;
+  border-radius: 50%;
+  background: var(--imt-rose);
+  color: var(--imt-blanc);
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Captures : cadre discret, et version pleine largeur */
+.md-typeset img {
+  border: 1px solid var(--imt-gris);
+  border-radius: 0.3em;
+  margin-top: 0.4em;
+}
+.md-typeset ol > li img.capture-large {
+  width: calc(100% + 2.8em);
+  max-width: none;
+  margin-left: -2.8em;
+}
+.astuce-zoom {
+  font-size: 0.8rem;
+  color: var(--md-default-fg-color--light);
+}
+
+/* ---------- Repères "données" ---------- */
+.badge {
+  display: inline-block;
+  padding: 0.2em 0.7em;
+  margin: 0 0.3em 0.3em 0;
+  border-radius: 0.3em;
+  font-size: 0.75rem;
+  font-weight: 700;
+}
+.badge-souverain { background: var(--imt-bleu); color: var(--imt-blanc); }
+.badge-ue        { background: var(--imt-cyan); color: var(--imt-bleu); }
+.badge-hors-ue   { background: var(--imt-rose); color: var(--imt-bleu); }
+.badge-gratuit   { background: var(--imt-gris); color: var(--imt-bleu); border: 1px solid var(--imt-bleu); }
+[data-md-color-scheme="slate"] .badge-souverain { background: var(--imt-gris); color: var(--imt-bleu); }
+[data-md-color-scheme="slate"] .badge-gratuit { background: transparent; color: var(--imt-gris); border-color: var(--imt-gris); }
+
+.maj { color: var(--md-default-fg-color--light); font-size: 0.8rem; }
+
+/* ---------- Encadrés aux couleurs de la charte ---------- */
+.md-typeset .admonition.warning, .md-typeset details.warning { border-color: var(--imt-rose); }
+.md-typeset .warning > .admonition-title, .md-typeset .warning > summary { background-color: rgba(241, 72, 98, 0.12); }
+.md-typeset .warning > .admonition-title::before, .md-typeset .warning > summary::before { background-color: var(--imt-rose); }
+
+.md-typeset .admonition.tip, .md-typeset details.tip,
+.md-typeset .admonition.info, .md-typeset details.info { border-color: var(--imt-cyan); }
+.md-typeset .tip > .admonition-title, .md-typeset .tip > summary,
+.md-typeset .info > .admonition-title, .md-typeset .info > summary { background-color: rgba(0, 184, 222, 0.12); }
+.md-typeset .tip > .admonition-title::before, .md-typeset .tip > summary::before,
+.md-typeset .info > .admonition-title::before, .md-typeset .info > summary::before { background-color: var(--imt-cyan); }
+
+.md-typeset .admonition.note, .md-typeset details.note { border-color: var(--imt-bleu); }
+.md-typeset .note > .admonition-title, .md-typeset .note > summary { background-color: var(--imt-gris); }
+.md-typeset .note > .admonition-title::before, .md-typeset .note > summary::before { background-color: var(--imt-bleu); }
+[data-md-color-scheme="slate"] .md-typeset .admonition.note { border-color: var(--imt-gris); }
+[data-md-color-scheme="slate"] .md-typeset .note > .admonition-title { background-color: rgba(237, 243, 244, 0.1); }
+[data-md-color-scheme="slate"] .md-typeset .note > .admonition-title::before { background-color: var(--imt-gris); }
+
+/* Onglets des cas d'usage */
+.md-typeset .tabbed-labels > label:hover { color: var(--imt-rose); }
+.js .md-typeset .tabbed-labels::before { background: var(--imt-rose); }
+
+/* Cartes de la page d'accueil */
+.md-typeset .grid.cards > ul > li:hover { border-color: var(--imt-rose); }
+.md-typeset .grid.cards .lg { color: var(--imt-rose); }
+
+/* ---------- Pas à pas : une carte par étape ---------- */
+.md-typeset .etape {
+  border: 1px solid var(--imt-gris);
+  border-left: 4px solid var(--imt-rose);
+  border-radius: 0.4em;
+  padding: 0.2em 1.2em 1.2em;
+  margin: 1.2em 0;
+}
+.md-typeset .etape h3 {
+  display: flex;
+  align-items: center;
+  gap: 0.6em;
+  margin: 0.8em 0 0.6em;
+  color: var(--imt-bleu);
+  font-weight: 700;
+}
+[data-md-color-scheme="slate"] .md-typeset .etape h3 { color: var(--imt-blanc); }
+.md-typeset .etape-num {
+  flex: none;
+  width: 1.9em;
+  height: 1.9em;
+  border-radius: 50%;
+  background: var(--imt-rose);
+  color: var(--imt-blanc);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.85em;
+}
+.md-typeset .etape img {
+  display: block;
+  width: 100%;
+  margin: 0.4em 0 0;
+  background: var(--imt-gris);
+  cursor: zoom-in;
+}
