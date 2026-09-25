@@ -45,7 +45,7 @@ Un compte Google suffit. La version gratuite permet de créer jusqu'à **100 car
     signalées par les auteurs.
     ```
 
-    Dans le panneau **Studio**, le **Tableau de données** produit ce type de comparaison exportable vers Google Sheets, et le **Rapport** (document de synthèse) propose une note complète à retravailler.
+    Dans le panneau **Studio**, le **Tableau de données** produit ce type de comparaison exportable.
 
 === "Préparer un cours"
 
@@ -107,33 +107,86 @@ Un compte Google suffit. La version gratuite permet de créer jusqu'à **100 car
 
 ## Pas à pas
 
-1. Rendez-vous sur [notebooklm.google.com](https://notebooklm.google.com) et connectez-vous avec un compte Google. La page d'accueil affiche vos carnets existants.
+:material-magnify-plus-outline: Cliquez sur une capture pour l'agrandir.
+{ .astuce-zoom }
 
-    ![Page d'accueil de NotebookLM](images/notebooklm-01-accueil.png)
+<div class="etape" markdown>
 
-2. Cliquez sur **Créer un notebook**. Une fenêtre s'ouvre pour ajouter vos premières sources : glissez vos fichiers, collez un lien web ou YouTube, ou copiez du texte.
+### <span class="etape-num">1</span> Se connecter
 
-    ![Fenêtre d'ajout de sources](images/notebooklm-02-sources.png)
+Rendez-vous sur [notebooklm.google.com](https://notebooklm.google.com) et connectez-vous avec un compte Google. La page d'accueil affiche vos carnets existants.
 
-3. Découvrez l'interface en trois panneaux : vos **sources** à gauche, la **discussion** au centre, le **Studio** à droite. Décochez une source pour l'exclure temporairement des réponses.
+![Page d'accueil de NotebookLM](images/notebooklm-01-accueil.png)
 
-    ![Interface en trois panneaux](images/notebooklm-03-interface.png)
+</div>
 
-4. Posez vos questions dans la zone de discussion. Les numéros dans les réponses renvoient au passage cité : **cliquez dessus pour vérifier** la source.
+<div class="etape" markdown>
 
-    ![Réponse avec citations](images/notebooklm-04-citations.png)
+### <span class="etape-num">2</span> Créer un carnet et ajouter des sources
 
-5. Dans le panneau **Studio**, choisissez ce que vous voulez générer : résumé audio ou vidéo, carte mentale, rapport, fiches, quiz, infographie, présentation ou tableau de données.
+Cliquez sur **Créer un notebook**. Une fenêtre s'ouvre pour ajouter vos premières sources : glissez vos fichiers, collez un lien web ou YouTube, ou copiez du texte.
 
-    ![Panneau Studio](images/notebooklm-05-studio.png)
+![Fenêtre d'ajout de sources](images/notebooklm-02-sources.png)
 
-6. Pour adapter une génération à votre public, cliquez sur l'**icône crayon** à côté de l'outil et décrivez ce que vous attendez (niveau, durée, angle).
+</div>
 
-    ![Personnalisation d'une génération](images/notebooklm-06-personnaliser.png)
+<div class="etape" markdown>
 
-7. Enregistrez une réponse utile avec **Enregistrer dans une note**, puis partagez le carnet si besoin avec le bouton **Partager** en haut à droite.
+### <span class="etape-num">3</span> Découvrir l'interface
 
-    ![Partage d'un carnet](images/notebooklm-07-partage.png)
+L'écran se divise en trois panneaux : vos **sources** à gauche, la **discussion** au centre, le **Studio** à droite. Décochez une source pour l'exclure temporairement des réponses.
+
+![Interface en trois panneaux](images/notebooklm-03-interface.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">4</span> Interroger vos sources
+
+Posez vos questions dans la zone de discussion. Les numéros dans les réponses renvoient au passage cité : **cliquez dessus pour vérifier** la source.
+
+![Réponse avec citations](images/notebooklm-04-citations.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">5</span> Générer des contenus avec le Studio
+
+Dans le panneau **Studio**, choisissez ce que vous voulez générer : résumé audio ou vidéo, carte mentale, rapport, fiches, quiz, infographie, présentation ou tableau de données.
+
+![Panneau Studio](images/notebooklm-05-studio.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">6</span> Personnaliser une génération
+
+Pour adapter une génération à votre public, cliquez sur l'**icône crayon** à côté de l'outil et décrivez ce que vous attendez.
+
+![Personnalisation d'une génération](images/notebooklm-06-personnaliser.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">7</span> Prendre des notes
+
+Constituez vos fiches de prise de notes ou vos mémos : cliquez sur **Enregistrer dans une note** sous une réponse utile, ou sur **Ajouter une note** dans le panneau **Studio** pour rédiger la vôtre. Vous pouvez ensuite réutiliser une note comme mémo de cours, la copier dans vos supports ou la **convertir en source** pour que NotebookLM s'en serve dans ses prochaines générations.
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">8</span> Partager le carnet
+
+Pour travailler avec des collègues ou mettre le carnet à disposition d'étudiants, cliquez sur **Partager** en haut à droite, ajoutez les adresses e-mail des personnes concernées et choisissez leur rôle : **lecteur** (consultation et questions) ou **éditeur** (ajout de sources et modification).
+
+![Partage d'un carnet](images/notebooklm-07-partage.png)
+
+</div>
 
 ## Points de vigilance
 
