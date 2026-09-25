@@ -170,7 +170,7 @@
 }
 .md-typeset .etape img {
   display: block;
-  width: 100%;
+  width: %;
   margin: 0.4em 0 0;
   background: var(--imt-gris);
   cursor: zoom-in;
