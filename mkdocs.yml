@@ -63,7 +63,7 @@ nav:
   - Assistants conversationnels:
       - assistants/index.md
       - ILaaS: assistants/ilaas.md
-      - Le Chat (Mistral): assistants/le-chat.md
+      - Mistral Vibe (ex-Le Chat): assistants/le-chat.md
       - Claude: assistants/claude.md
       - ChatGPT: assistants/chatgpt.md
       - Gemini: assistants/gemini.md
