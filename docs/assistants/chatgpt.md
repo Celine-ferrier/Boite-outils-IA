@@ -101,13 +101,91 @@ Le compte gratuit permet de discuter avec ChatGPT sur le web, sur ordinateur et 
 :material-magnify-plus-outline: Cliquez sur une capture pour l'agrandir.
 { .astuce-zoom }
 
+
+<div class="etape" markdown>
+
+### <span class="etape-num">1</span> Créer un compte
+
+ChatGPT peut s'utiliser sans compte, mais de façon très limitée : sans compte, vous ne pouvez ni joindre de fichiers, ni retrouver vos conversations. Créez donc un compte gratuit.
+
+1. Rendez-vous sur [chatgpt.com](https://chatgpt.com). Si un bandeau **Nous utilisons des cookies** s'affiche en bas de l'écran, cliquez sur **Refuser les cookies non essentiels**.
+2. En haut à droite, cliquez sur **Inscription gratuite** (ou sur **Se connecter** si vous avez déjà un compte).
+
+    ![Page d'accueil de ChatGPT avant connexion](chatgpt-01-accueil.png)
+
+3. Dans la fenêtre **Connectez-vous ou inscrivez-vous**, saisissez votre **adresse e-mail de l'école** (@mines-ales.fr) dans le champ **Adresse e-mail**, puis cliquez sur **Continuer**. N'utilisez pas les boutons **Continuer avec Google**, **Continuer avec Apple** ou **Continuer avec un numéro de téléphone**, qui relient ChatGPT à un compte personnel.
+4. Suivez les indications à l'écran pour terminer l'inscription.
+
+![Fenêtre Connectez-vous ou inscrivez-vous](chatgpt-01-connexion.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">2</span> Découvrir l'interface
+
+L'écran se compose de deux parties.
+
+- **À gauche, la barre latérale** : **Nouveau chat** pour démarrer une conversation, **Images** pour créer et retrouver des images, **Bibliothèque** pour retrouver les fichiers que vous avez joints, **Projets** pour organiser votre travail par cours, puis **Planification**, **Plugins**, **Codex** et **Plus**. Sous **Récents** s'affiche la liste de vos conversations. La **loupe** en haut permet d'y chercher, et l'icône de **panneau** masque ou affiche la barre. Votre nom apparaît tout en bas, avec la mention **Free** (version gratuite).
+- **Au centre, la zone de saisie** (« Comment puis-je vous aider ? ») : le bouton **+** à gauche donne accès aux fichiers et aux outils, le bouton **Analyser** demande à ChatGPT une réponse plus réfléchie, et le **micro** permet de dicter votre demande. Le bouton rond à droite lance le **mode vocal** lorsque la zone est vide, et devient une **flèche** d'envoi dès que vous écrivez.
+
+Les boutons **Offre gratuite** (en haut à droite) et **Profiter de l'offre** (en bas à gauche) concernent les abonnements payants : vous n'en avez pas besoin.
+
+![Interface de ChatGPT](chatgpt-02-interface.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">3</span> Formuler une demande
+
+Cliquez dans la zone de saisie et décrivez ce que vous voulez obtenir en précisant le **résultat attendu**, le **public** visé et les **contraintes** (durée, format, niveau). Par exemple : « Propose 4 sujets de projets en génie de l'environnement pour des élèves ingénieurs de 1re année, réalisables en 6 semaines par groupes de 4. Pour chaque sujet, indique un titre, la problématique en deux phrases et les compétences mobilisées. »
+
+Appuyez sur **Entrée** ou cliquez sur la **flèche bleue**, à droite de la zone de saisie, pour envoyer. Poursuivez ensuite la conversation pour affiner le résultat : « plus court », « ajoute un sujet sur l'eau », « propose un calendrier semaine par semaine ».
+
+![Rédaction d'une demande](chatgpt-03-demande.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">4</span> Découvrir le menu +
+
+Cliquez sur le bouton **+** à gauche de la zone de saisie, au début d'une conversation ou en cours de route (la zone affiche alors « Poser une question »). Il regroupe ce que ChatGPT peut utiliser pour votre demande :
+
+| Option | À quoi elle sert |
+|---|---|
+| **Ajouter des photos et fichiers** | Joindre un document ou une image depuis votre ordinateur |
+| **Ajouter depuis la bibliothèque** | Réutiliser un fichier déjà joint dans une conversation précédente |
+| **Créer une image** | Générer une image à partir de votre description |
+| **Dessiner** | Dessiner à main levée et joindre le dessin à votre demande |
+| **Recherche sur le Web** | Permettre à ChatGPT de chercher des informations récentes sur le web |
+| **Recherche approfondie** | Obtenir un rapport détaillé, construit à partir de nombreuses sources |
+| **Visualize** | Créer des graphiques et des outils interactifs (intitulé affiché en anglais) |
+
+Tout en bas du menu, vous pouvez taper un mot pour retrouver un plugin ou un fichier.
+
+![Menu du bouton +](chatgpt-04-menu.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">5</span> Joindre un document
+
+1. Cliquez sur le bouton **+**, puis sur **Ajouter des photos et fichiers**.
+2. Choisissez le fichier sur votre ordinateur. Il s'affiche au-dessus de la zone de saisie, avec son nom et son format (par exemple **PDF**).
+3. Écrivez votre demande en vous référant au document, par exemple : « En t'appuyant uniquement sur ce guide, rédige une checklist semaine par semaine pour les étudiants : pour chaque semaine, les tâches à réaliser, le livrable attendu et un point de vigilance. »
+4. Envoyez votre demande.
+
+Les fichiers que vous joignez sont **automatiquement enregistrés dans votre Bibliothèque** : vous les retrouverez à gauche, sous **Bibliothèque**. Retirez donc toute donnée personnelle d'un document avant de le joindre.
+
+![Document joint à une demande](chatgpt-05-fichier.png)
+
+</div>
+
 <!--
-Étapes à rédiger à partir des captures (plan provisoire) :
- 1. Créer un compte (adresse @mines-ales.fr)
- 2. Découvrir l'interface
- 3. Formuler une demande
- 4. Découvrir le menu +
- 5. Joindre un document
+Étapes restant à rédiger à partir des captures (plan provisoire) :
  6. Rédiger dans le canevas
  7. Utiliser le mode vocal
  8. Créer un projet
