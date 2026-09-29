@@ -117,7 +117,7 @@ Juste sous la barre de recherche, utilisez les filtres de la barre grise : **Dom
 
 Chaque résultat affiche les auteurs, la discipline, la revue et la date de publication. Le petit cadre orange avec des guillemets indique le **nombre de citations** de l'article. Lorsque le début du résumé s'affiche sous le titre, cliquez sur **Développer** pour le lire en entier. Sinon, cliquez sur le **titre** : le résumé complet se trouve sur la fiche de l'article (étape suivante). Pour certains articles, surtout en informatique et en biologie, une étiquette **TLDR** propose aussi un résumé en une phrase. Le lien **Éditeur** (ou **PubMed**) ouvre l'article sur le site de la revue, où il peut être payant.
 
-![Résultat avec son résumé et son nombre de citations](images/semantic-scholar-04-resume.png)
+![Résultat avec son résumé et son nombre de citations](images/semantic-scholar-05-resultat.png)
 
 </div>
 
@@ -127,7 +127,7 @@ Chaque résultat affiche les auteurs, la discipline, la revue et la date de publ
 
 Cliquez sur le **titre** d'un article pour ouvrir sa fiche : vous y trouvez le résumé complet (cliquez sur **Développer**) et les boutons d'action. Plus bas, des onglets donnent accès aux **Références** (ce que cet article cite), aux **Citations** (les articles qui l'ont cité, lorsqu'il y en a) et aux **Articles connexes**. Dans ces listes, l'étiquette **Très influent** signale les travaux les plus significatifs, et le menu **Trier par les plus influents** les place en tête.
 
-![Fiche d'un article avec citations et références](images/semantic-scholar-05-fiche.png)
+![Fiche d'un article avec citations et références](images/semantic-scholar-06-fiche.png)
 
 </div>
 
