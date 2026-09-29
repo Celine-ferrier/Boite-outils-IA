@@ -21,7 +21,7 @@
 
 ## Version gratuite
 
-Le compte gratuit permet de discuter avec ChatGPT sur le web, sur ordinateur et sur mobile, sans limite pour les échanges courants. Il donne accès à la recherche web, à l'ajout de fichiers, à l'analyse de données, à la génération d'images, au mode vocal, au **canevas** (rédaction dans un panneau à part) et aux **projets**, mais chacun de ces outils a ses propres limites d'usage : ChatGPT vous prévient lorsque vous les atteignez. Les modèles les plus puissants, la **recherche approfondie** et le **mode agent** sont réservés aux abonnements payants (Go, Plus, Pro). Selon les pays, des publicités peuvent s'afficher dans la version gratuite.
+Le compte gratuit permet de discuter avec ChatGPT sur le web, sur ordinateur et sur mobile, sans limite pour les échanges courants. Il donne accès à la recherche web, à l'ajout de fichiers, à l'analyse de données, à la génération d'images, au mode vocal, au **canevas** (rédaction dans un panneau à part) et aux **projets**, mais chacun de ces outils a ses propres limites d'usage : ChatGPT vous prévient lorsque vous les atteignez. Les modèles les plus puissants, la **recherche approfondie** et le **mode agent** sont réservés aux abonnements payants (Go, Plus, Pro). Des publicités peuvent s'afficher dans la version gratuite ; leur réglage se trouve dans les paramètres, rubrique **Gestion des données**.
 
 ## Cas d'usage
 
@@ -184,14 +184,112 @@ Les fichiers que vous joignez sont **automatiquement enregistrés dans votre Bib
 
 </div>
 
+<div class="etape" markdown>
+
+### <span class="etape-num">6</span> Demander un document dans un canevas
+
+Le **canevas** est un panneau dans lequel ChatGPT rédige un document que vous pouvez ensuite modifier directement, comme dans un traitement de texte. Il n'y a pas de bouton pour l'ouvrir : demandez-le explicitement dans votre message, en commençant par exemple par « Rédige dans un canvas… ».
+
+Par exemple : « Rédige dans un canvas l'énoncé d'un TP de 3 heures sur la mesure de la consommation électrique d'une salle de cours, pour des élèves ingénieurs de 1re année : objectifs, matériel, protocole de mesure étape par étape, tableau de relevés à compléter et 3 questions d'analyse. »
+
+![Demande d'un document dans un canevas](chatgpt-06-canevas-demande.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">7</span> Modifier le document dans le canevas
+
+Le document s'affiche avec son titre en haut, par exemple « TP — Mesurer et analyser la consommation électrique d'une salle de cours ».
+
+1. Cliquez directement dans le texte pour le modifier : ajoutez, supprimez ou réécrivez un passage comme dans un traitement de texte. Par exemple, ajoutez une **consigne de sécurité** sous la liste du matériel.
+2. Pour une modification plus importante, écrivez votre demande dans la zone de saisie : « ajoute une colonne Incertitude au tableau de relevés », « simplifie le protocole pour une séance de 2 heures ».
+3. En haut à droite du canevas, l'icône **copier** copie tout le document, pour le coller ensuite dans Word ou sur Moodle, et l'icône en forme de **flèches** (entourée) l'affiche en plein écran.
+
+![Modification directe du texte dans le canevas](chatgpt-07-canevas-modifier.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">8</span> Dicter une demande
+
+Plutôt que de taper votre demande, vous pouvez la dicter.
+
+1. Cliquez sur le **micro**, à droite de la zone de saisie (au survol, l'info-bulle **Dicter** s'affiche, avec le raccourci **Ctrl + Maj + D**).
+2. Autorisez votre navigateur à utiliser le micro si la question vous est posée.
+3. Parlez : votre texte s'inscrit dans la zone de saisie. Relisez-le, corrigez-le si besoin, puis envoyez-le.
+
+Le bouton rond bleu, juste à droite, lance quant à lui le **mode vocal** : une conversation entièrement à l'oral, où ChatGPT vous répond à voix haute. C'est lui qu'utiliseront vos étudiants pour s'entraîner à l'oral (voir les cas d'usage).
+
+![Bouton Dicter](chatgpt-08-dicter.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">9</span> Créer un projet
+
+Un projet regroupe les conversations et les fichiers d'un même cours, avec des consignes communes.
+
+1. Dans la barre latérale, cliquez sur **Projets**. La page **Projets** s'ouvre, avec trois onglets : **Tous les projets**, **Créé par vous** et **Partagés avec vous**.
+2. En haut à droite, cliquez sur **Créer**.
+3. Donnez un nom à votre projet, par exemple « Projet de 1re année — Génie de l'environnement ».
+
+Vous retrouverez ensuite le projet sous **Projets**, dans la barre latérale.
+
+![Page Projets](chatgpt-09-projets.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">10</span> Donner des instructions permanentes à ChatGPT
+
+Vous pouvez indiquer une fois pour toutes qui vous êtes et comment vous souhaitez que ChatGPT vous réponde. Il en tiendra compte dans toutes vos conversations.
+
+1. Cliquez sur votre nom en bas à gauche, puis sur **Paramètres**. Une fenêtre s'ouvre, avec un menu à gauche.
+2. Dans ce menu, cliquez sur **Personnalisation**.
+3. Dans la zone des instructions personnalisées, décrivez votre situation et vos attentes, par exemple :
+
+    ```
+    Je suis enseignant-chercheur en génie des procédés dans une
+    école d'ingénieurs. J'enseigne à des élèves de bac+3 à bac+5
+    et je mène des recherches sur le traitement des eaux.
+    Réponds en français, de façon structurée et concise.
+    Distingue les faits établis des hypothèses, cite tes sources
+    quand c'est possible et signale toujours les points à
+    vérifier.
+    ```
+
+![Menu des paramètres, rubrique Personnalisation](chatgpt-10-personnalisation.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">11</span> Empêcher l'utilisation de vos conversations pour entraîner les modèles
+
+Par défaut, OpenAI peut utiliser vos conversations pour améliorer ses modèles. Désactivez ce réglage.
+
+1. Ouvrez les **Paramètres** comme à l'étape précédente (votre nom en bas à gauche, puis **Paramètres**).
+2. Dans le menu de gauche, cliquez sur **Gestion des données**.
+3. La ligne **Améliorer le modèle pour tous** indique **Activé** : cliquez dessus, puis désactivez l'option.
+
+Sur la même page, vous pouvez aussi :
+
+- laisser l'option **Localisation** désactivée (bouton **Activer** visible) ;
+- vérifier les conversations que vous avez partagées par lien (**Liens partagés**, bouton **Gérer**) ;
+- retrouver vos **Chats archivés**, **Supprimer tous les chats** ou **Exporter les données** ;
+- régler l'affichage des publicités (**Gestion des publicités**).
+
+![Page Gestion des données](chatgpt-11-donnees.png)
+
+</div>
+
 <!--
-Étapes restant à rédiger à partir des captures (plan provisoire) :
- 6. Rédiger dans le canevas
- 7. Utiliser le mode vocal
- 8. Créer un projet
- 9. Personnaliser ChatGPT (instructions personnalisées)
-10. Empêcher l'utilisation de vos conversations pour entraîner les modèles
-11. Utiliser une conversation temporaire
+Étape restant à rédiger (capture attendue) :
+12. Utiliser une conversation temporaire
 -->
 
 ## Ressources officielles
