@@ -21,7 +21,7 @@
 
 ## Version gratuite
 
-Le compte gratuit permet de discuter avec ChatGPT sur le web, sur ordinateur et sur mobile, sans limite pour les échanges courants. Il donne accès à la recherche web, à l'ajout de fichiers, à l'analyse de données, à la génération d'images, au mode vocal, au **canevas** (rédaction dans un panneau à part) et aux **projets**, mais chacun de ces outils a ses propres limites d'usage : ChatGPT vous prévient lorsque vous les atteignez. Les modèles les plus puissants, la **recherche approfondie** et le **mode agent** sont réservés aux abonnements payants (Go, Plus, Pro). Des publicités peuvent s'afficher dans la version gratuite ; leur réglage se trouve dans les paramètres, rubrique **Gestion des données**.
+Le compte gratuit permet de discuter avec ChatGPT sur le web, sur ordinateur et sur mobile, sans limite pour les échanges courants. Il donne accès à la recherche web, à l'ajout de fichiers, à l'analyse de données, à la génération d'images, au mode vocal, au **canevas** (rédaction dans un panneau à part), à la **recherche approfondie** et aux **projets**, mais chacun de ces outils a ses propres limites d'usage : ChatGPT vous prévient lorsque vous les atteignez. Les modèles les plus puissants, le mode **Work**, la **Planification** et **Codex** sont réservés aux abonnements payants (Go, Plus, Pro) : ils apparaissent à l'écran mais ne fonctionnent pas avec un compte gratuit. Des publicités peuvent s'afficher dans la version gratuite ; leur réglage se trouve dans les paramètres, rubrique **Gestion des données**.
 
 ## Cas d'usage
 
@@ -114,7 +114,7 @@ ChatGPT peut s'utiliser sans compte, mais de façon très limitée : sans compte
     ![Page d'accueil de ChatGPT avant connexion](chatgpt-01-accueil.png)
 
 3. Dans la fenêtre **Connectez-vous ou inscrivez-vous**, saisissez votre **adresse e-mail de l'école** (@mines-ales.fr) dans le champ **Adresse e-mail**, puis cliquez sur **Continuer**. N'utilisez pas les boutons **Continuer avec Google**, **Continuer avec Apple** ou **Continuer avec un numéro de téléphone**, qui relient ChatGPT à un compte personnel.
-4. Suivez les indications à l'écran pour terminer l'inscription.
+4. Vous recevez un **code** dans votre boîte mail : saisissez-le pour accéder à votre compte.
 
 ![Fenêtre Connectez-vous ou inscrivez-vous](chatgpt-01-connexion.png)
 
@@ -126,10 +126,10 @@ ChatGPT peut s'utiliser sans compte, mais de façon très limitée : sans compte
 
 L'écran se compose de deux parties.
 
-- **À gauche, la barre latérale** : **Nouveau chat** pour démarrer une conversation, **Images** pour créer et retrouver des images, **Bibliothèque** pour retrouver les fichiers que vous avez joints, **Projets** pour organiser votre travail par cours, puis **Planification**, **Plugins**, **Codex** et **Plus**. Sous **Récents** s'affiche la liste de vos conversations. La **loupe** en haut permet d'y chercher, et l'icône de **panneau** masque ou affiche la barre. Votre nom apparaît tout en bas, avec la mention **Free** (version gratuite).
+- **À gauche, la barre latérale** : **Nouveau chat** pour démarrer une conversation, **Images** pour créer et retrouver des images, **Bibliothèque** pour retrouver les fichiers que vous avez joints, **Projets** pour organiser votre travail par cours, puis **Plugins** et **Plus**. **Planification** et **Codex** ne fonctionnent pas avec un compte gratuit. Sous **Récents** s'affiche la liste de vos conversations. La **loupe** en haut permet d'y chercher, et l'icône de **panneau** masque ou affiche la barre. Votre nom apparaît tout en bas, avec la mention **Free** (version gratuite).
 - **Au centre, la zone de saisie** (« Comment puis-je vous aider ? ») : le bouton **+** à gauche donne accès aux fichiers et aux outils, le bouton **Analyser** demande à ChatGPT une réponse plus réfléchie, et le **micro** permet de dicter votre demande. Le bouton rond à droite lance le **mode vocal** lorsque la zone est vide, et devient une **flèche** d'envoi dès que vous écrivez.
 
-Les boutons **Offre gratuite** (en haut à droite) et **Profiter de l'offre** (en bas à gauche) concernent les abonnements payants : vous n'en avez pas besoin.
+En haut au centre, laissez le sélecteur sur **Chat** : le mode **Work**, à côté, ne fonctionne pas avec un compte gratuit.
 
 ![Interface de ChatGPT](chatgpt-02-interface.png)
 
@@ -160,7 +160,7 @@ Cliquez sur le bouton **+** à gauche de la zone de saisie, au début d'une conv
 | **Créer une image** | Générer une image à partir de votre description |
 | **Dessiner** | Dessiner à main levée et joindre le dessin à votre demande |
 | **Recherche sur le Web** | Permettre à ChatGPT de chercher des informations récentes sur le web |
-| **Recherche approfondie** | Obtenir un rapport détaillé, construit à partir de nombreuses sources |
+| **Recherche approfondie** | Obtenir un rapport détaillé, construit à partir de nombreuses sources (voir l'étape 6) |
 | **Visualize** | Créer des graphiques et des outils interactifs (intitulé affiché en anglais) |
 
 Tout en bas du menu, vous pouvez taper un mot pour retrouver un plugin ou un fichier.
@@ -186,19 +186,35 @@ Les fichiers que vous joignez sont **automatiquement enregistrés dans votre Bib
 
 <div class="etape" markdown>
 
-### <span class="etape-num">6</span> Demander un document dans un canevas
+### <span class="etape-num">6</span> Lancer une recherche approfondie
 
-Le **canevas** est un panneau dans lequel ChatGPT rédige un document que vous pouvez ensuite modifier directement, comme dans un traitement de texte. Il n'y a pas de bouton pour l'ouvrir : demandez-le explicitement dans votre message, en commençant par exemple par « Rédige dans un canvas… ».
+La recherche approfondie consulte de nombreuses sources sur le web et en tire un rapport structuré, avec les liens vers chaque source. Elle est utile pour faire un état des lieux sur un sujet que vous connaissez mal.
 
-Par exemple : « Rédige dans un canvas l'énoncé d'un TP de 3 heures sur la mesure de la consommation électrique d'une salle de cours, pour des élèves ingénieurs de 1re année : objectifs, matériel, protocole de mesure étape par étape, tableau de relevés à compléter et 3 questions d'analyse. »
+1. Cliquez sur le bouton **+**, puis sur **Recherche approfondie**. L'étiquette bleue **Recherche approfondie** s'affiche au début de la zone de saisie.
+2. Écrivez votre demande en précisant le sujet, la période, les sources attendues et la forme du résultat. Par exemple : « Fais un état des lieux des recommandations officielles sur l'usage de l'IA générative dans l'enseignement supérieur en France, et plus particulièrement dans les écoles d'ingénieurs, depuis 2024 : textes du ministère, position de la CTI, chartes publiées par des établissements. Présente le résultat sous forme de rapport structuré, avec un tableau récapitulatif (source, date, principales recommandations) et les liens vers chaque source. »
+3. Envoyez votre demande.
 
-![Demande d'un document dans un canevas](chatgpt-06-canevas-demande.png)
+La recherche prend plus de temps qu'une réponse ordinaire, et son nombre d'utilisations est limité dans la version gratuite. Ouvrez les liens fournis pour vérifier chaque source avant de réutiliser le rapport.
+
+![Demande de recherche approfondie](chatgpt-06-recherche-approfondie.png)
 
 </div>
 
 <div class="etape" markdown>
 
-### <span class="etape-num">7</span> Modifier le document dans le canevas
+### <span class="etape-num">7</span> Demander un document dans un canevas
+
+Le **canevas** est un panneau dans lequel ChatGPT rédige un document que vous pouvez ensuite modifier directement, comme dans un traitement de texte. Il n'y a pas de bouton pour l'ouvrir : demandez-le explicitement dans votre message, en commençant par exemple par « Rédige dans un canvas… ».
+
+Par exemple : « Rédige dans un canvas l'énoncé d'un TP de 3 heures sur la mesure de la consommation électrique d'une salle de cours, pour des élèves ingénieurs de 1re année : objectifs, matériel, protocole de mesure étape par étape, tableau de relevés à compléter et 3 questions d'analyse. »
+
+![Demande d'un document dans un canevas](chatgpt-07-canevas-demande.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">8</span> Modifier le document dans le canevas
 
 Le document s'affiche avec son titre en haut, par exemple « TP — Mesurer et analyser la consommation électrique d'une salle de cours ».
 
@@ -206,13 +222,13 @@ Le document s'affiche avec son titre en haut, par exemple « TP — Mesurer et a
 2. Pour une modification plus importante, écrivez votre demande dans la zone de saisie : « ajoute une colonne Incertitude au tableau de relevés », « simplifie le protocole pour une séance de 2 heures ».
 3. En haut à droite du canevas, l'icône **copier** copie tout le document, pour le coller ensuite dans Word ou sur Moodle, et l'icône en forme de **flèches** (entourée) l'affiche en plein écran.
 
-![Modification directe du texte dans le canevas](chatgpt-07-canevas-modifier.png)
+![Modification directe du texte dans le canevas](chatgpt-08-canevas-modifier.png)
 
 </div>
 
 <div class="etape" markdown>
 
-### <span class="etape-num">8</span> Dicter une demande
+### <span class="etape-num">9</span> Dicter une demande
 
 Plutôt que de taper votre demande, vous pouvez la dicter.
 
@@ -222,13 +238,13 @@ Plutôt que de taper votre demande, vous pouvez la dicter.
 
 Le bouton rond bleu, juste à droite, lance quant à lui le **mode vocal** : une conversation entièrement à l'oral, où ChatGPT vous répond à voix haute. C'est lui qu'utiliseront vos étudiants pour s'entraîner à l'oral (voir les cas d'usage).
 
-![Bouton Dicter](chatgpt-08-dicter.png)
+![Bouton Dicter](chatgpt-09-dicter.png)
 
 </div>
 
 <div class="etape" markdown>
 
-### <span class="etape-num">9</span> Créer un projet
+### <span class="etape-num">10</span> Créer un projet
 
 Un projet regroupe les conversations et les fichiers d'un même cours, avec des consignes communes.
 
@@ -238,13 +254,13 @@ Un projet regroupe les conversations et les fichiers d'un même cours, avec des 
 
 Vous retrouverez ensuite le projet sous **Projets**, dans la barre latérale.
 
-![Page Projets](chatgpt-09-projets.png)
+![Page Projets](chatgpt-10-projets.png)
 
 </div>
 
 <div class="etape" markdown>
 
-### <span class="etape-num">10</span> Donner des instructions permanentes à ChatGPT
+### <span class="etape-num">11</span> Donner des instructions permanentes à ChatGPT
 
 Vous pouvez indiquer une fois pour toutes qui vous êtes et comment vous souhaitez que ChatGPT vous réponde. Il en tiendra compte dans toutes vos conversations.
 
@@ -262,13 +278,13 @@ Vous pouvez indiquer une fois pour toutes qui vous êtes et comment vous souhait
     vérifier.
     ```
 
-![Menu des paramètres, rubrique Personnalisation](chatgpt-10-personnalisation.png)
+![Menu des paramètres, rubrique Personnalisation](chatgpt-11-personnalisation.png)
 
 </div>
 
 <div class="etape" markdown>
 
-### <span class="etape-num">11</span> Empêcher l'utilisation de vos conversations pour entraîner les modèles
+### <span class="etape-num">12</span> Empêcher l'utilisation de vos conversations pour entraîner les modèles
 
 Par défaut, OpenAI peut utiliser vos conversations pour améliorer ses modèles. Désactivez ce réglage.
 
@@ -283,13 +299,13 @@ Sur la même page, vous pouvez aussi :
 - retrouver vos **Chats archivés**, **Supprimer tous les chats** ou **Exporter les données** ;
 - régler l'affichage des publicités (**Gestion des publicités**).
 
-![Page Gestion des données](chatgpt-11-donnees.png)
+![Page Gestion des données](chatgpt-12-donnees.png)
 
 </div>
 
 <!--
 Étape restant à rédiger (capture attendue) :
-12. Utiliser une conversation temporaire
+13. Utiliser une conversation temporaire
 -->
 
 ## Ressources officielles
