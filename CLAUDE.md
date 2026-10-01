@@ -99,3 +99,9 @@ La taille des captures est fixée dans `docs/extra.css` par la règle suivante. 
 ```
 
 Si une image paraît trop grande ou trop petite, recadrer la capture plutôt que modifier cette règle.
+
+Comme toute capture est affichée à 60 % de la largeur, une capture étroite (un menu, une fenêtre) est agrandie et paraît énorme. Dans ce cas, **placer la capture au centre d'une marge gris bleuté `#EDF3F4`** (fichier image plus large que la capture), pour que son contenu s'affiche à une taille proche de sa taille réelle, sans rendre le texte illisible.
+
+### Cadre gris des captures
+
+Toutes les images ont un cadre gris pour ne pas se fondre dans le fond blanc. Il est défini dans `docs/extra.css` par la règle `.md-typeset img` (distincte de la règle de taille) : bordure de 6 px en gris bleuté (`var(--imt-gris)`) et liseré de bleu IMT transparent (`rgba(20, 34, 60, 0.15)`). Ne pas dessiner de cadre gris dans les fichiers image : il s'applique automatiquement.
