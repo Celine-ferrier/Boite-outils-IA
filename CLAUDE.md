@@ -79,3 +79,23 @@ Ton et contenu :
 - **Fiches Assistants** : images directement dans `docs/assistants/`, référencées par `nom.png`.
 - **Nommage** : `outil-NN-description.png`, où `NN` est le numéro de l'étape sur deux chiffres (règle appliquée depuis la fiche Claude ; les fiches plus anciennes peuvent ne pas la respecter).
 - Après tout ajout ou renommage, vérifier que chaque image référencée existe (`mkdocs build` signale les absentes).
+- Chaque image du pas à pas doit se trouver **à l'intérieur d'un bloc `<div class="etape" markdown>`** : sinon la règle de taille ci-dessous ne s'applique pas et l'image s'affiche trop grande.
+
+### Taille des images : règle à ne jamais modifier
+
+La taille des captures est fixée dans `docs/extra.css` par la règle suivante. Elle doit rester **présente et identique** : ne pas changer la largeur, ne pas la supprimer, ne pas la déplacer dans un autre fichier.
+
+```css
+.md-typeset .etape img {
+  display: block;
+  width: 60%;
+  margin: 0.4em auto 0;
+  background: var(--imt-gris);
+  cursor: zoom-in;
+}
+@media (max-width: 60em) {
+  .md-typeset .etape img { width: 100%; }
+}
+```
+
+Si une image paraît trop grande ou trop petite, recadrer la capture plutôt que modifier cette règle.
