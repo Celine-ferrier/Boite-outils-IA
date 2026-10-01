@@ -15,6 +15,7 @@
 
 - **Analyser des données** : tracer et commenter des mesures de TP à partir d'un tableur.
 - **Concevoir des études de cas** et des mises en situation professionnelles.
+- **Encadrer un projet** : sujets, calendrier, checklist de suivi pour les étudiants.
 - **Expliquer une notion autrement** : analogies, niveaux de difficulté, exemples concrets.
 - **S'entraîner à l'oral**, en français ou en anglais, grâce au mode vocal.
 - **Illustrer un support** : images, pictogrammes, visuels d'introduction.
@@ -53,6 +54,29 @@ Le compte gratuit permet de discuter avec ChatGPT sur le web, sur ordinateur et 
     la chronologie, les documents dont disposent les élèves,
     3 questions d'analyse et les éléments de réponse attendus
     dans un corrigé séparé.
+    ```
+
+=== "Encadrer un projet"
+
+    **Exemple** : un projet de groupe de 6 semaines en génie de l'environnement, en 1re année.
+
+    Commencez par demander des idées de sujets :
+
+    ```
+    Propose 4 sujets de projets en génie de l'environnement
+    pour des élèves ingénieurs de 1re année, réalisables en
+    6 semaines par groupes de 4. Pour chaque sujet, indique un
+    titre, la problématique en deux phrases et les compétences
+    mobilisées.
+    ```
+
+    Puis joignez votre guide de projet et demandez un outil de suivi pour les étudiants :
+
+    ```
+    En t'appuyant uniquement sur ce guide, rédige une checklist
+    semaine par semaine pour les étudiants : pour chaque
+    semaine, les tâches à réaliser, le livrable attendu et un
+    point de vigilance.
     ```
 
 === "Expliquer autrement"
@@ -264,21 +288,37 @@ Vous retrouverez ensuite le projet sous **Projets**, dans la barre latérale.
 
 Vous pouvez indiquer une fois pour toutes qui vous êtes et comment vous souhaitez que ChatGPT vous réponde. Il en tiendra compte dans toutes vos conversations.
 
-1. Cliquez sur votre nom en bas à gauche, puis sur **Paramètres**. Une fenêtre s'ouvre, avec un menu à gauche.
-2. Dans ce menu, cliquez sur **Personnalisation**.
-3. Dans la zone des instructions personnalisées, décrivez votre situation et vos attentes, par exemple :
+1. Cliquez sur votre nom en bas à gauche, puis sur **Personnalisation**.
+
+    ![Menu du compte, option Personnalisation](chatgpt-11-menu.png)
+
+2. La fenêtre des paramètres s'ouvre sur la page **Personnalisation**. Descendez jusqu'à la zone **Instructions personnalisées** et écrivez-y vos consignes, par exemple :
 
     ```
-    Je suis enseignant-chercheur en génie des procédés dans une
-    école d'ingénieurs. J'enseigne à des élèves de bac+3 à bac+5
-    et je mène des recherches sur le traitement des eaux.
-    Réponds en français, de façon structurée et concise.
-    Distingue les faits établis des hypothèses, cite tes sources
-    quand c'est possible et signale toujours les points à
-    vérifier.
+    Réponds en français, de façon structurée et concise, avec
+    un vocabulaire scientifique précis.
+    Pour mes enseignements : propose des contenus adaptés au
+    niveau indiqué, avec des objectifs d'apprentissage formulés
+    par des verbes d'action, des exemples tirés de cas
+    industriels réels et des activités qui font participer les
+    étudiants.
+    Pour la recherche : distingue clairement les faits établis,
+    les résultats discutés et tes propres hypothèses. Ne jamais
+    inventer de référence bibliographique : si tu n'es pas sûr
+    d'une source, dis-le.
+    Signale toujours les points à vérifier, en particulier les
+    calculs, les chiffres, les dates et les normes.
+    Si ma demande est ambiguë, pose-moi une question avant de
+    répondre.
+    N'hésite pas à me contredire ou à relever une faiblesse dans
+    mon raisonnement.
     ```
 
-![Menu des paramètres, rubrique Personnalisation](chatgpt-11-personnalisation.png)
+3. Cliquez sur **Enregistrer**.
+
+Plus haut sur la même page, la rubrique **Caractéristiques** permet aussi de régler la **Chaleur**, l'**Enthousiasme**, les **Titres et listes** et les **Émojis** des réponses (**Par défaut** si vous n'y touchez pas).
+
+![Zone Instructions personnalisées](chatgpt-11-personnalisation.png)
 
 </div>
 
@@ -288,9 +328,12 @@ Vous pouvez indiquer une fois pour toutes qui vous êtes et comment vous souhait
 
 Par défaut, OpenAI peut utiliser vos conversations pour améliorer ses modèles. Désactivez ce réglage.
 
-1. Ouvrez les **Paramètres** comme à l'étape précédente (votre nom en bas à gauche, puis **Paramètres**).
+1. Cliquez sur votre nom en bas à gauche, puis sur **Paramètres**. Une fenêtre s'ouvre, avec un menu à gauche.
+
+    ![Menu du compte, option Paramètres](chatgpt-12-menu.png)
+
 2. Dans le menu de gauche, cliquez sur **Gestion des données**.
-3. La ligne **Améliorer le modèle pour tous** indique **Activé** : cliquez dessus, puis désactivez l'option.
+3. Cliquez sur la ligne **Améliorer le modèle pour tous**, puis désactivez l'option. La ligne doit ensuite indiquer **Désactivé**.
 
 Sur la même page, vous pouvez aussi :
 
@@ -303,10 +346,21 @@ Sur la même page, vous pouvez aussi :
 
 </div>
 
-<!--
-Étape restant à rédiger (capture attendue) :
-13. Utiliser une conversation temporaire
--->
+<div class="etape" markdown>
+
+### <span class="etape-num">13</span> Utiliser un chat éphémère
+
+Pour une demande que vous ne souhaitez pas conserver, utilisez un **chat éphémère**. Il n'apparaît pas dans votre historique et n'est pas utilisé pour entraîner les modèles d'OpenAI. OpenAI peut toutefois le conserver jusqu'à 30 jours pour des raisons de sécurité.
+
+1. Dans la barre latérale, cliquez sur **Nouveau chat**.
+2. En haut à droite, cliquez sur l'icône en forme de cercle : l'info-bulle **Chat éphémère** s'affiche au survol.
+3. Écrivez votre demande comme d'habitude.
+
+Pensez à copier ce qui vous intéresse avant de fermer le chat éphémère : vous ne pourrez pas le retrouver ensuite.
+
+![Icône Chat éphémère](chatgpt-13-chat-ephemere.png)
+
+</div>
 
 ## Ressources officielles
 
