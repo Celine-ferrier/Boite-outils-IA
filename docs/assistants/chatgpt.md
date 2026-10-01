@@ -2,14 +2,11 @@
 
 <span class="badge badge-hors-ue">Hors UE</span> <span class="badge badge-gratuit">Gratuit, compte conseillé</span>
 
-<p class="maj">Dernière vérification : à compléter</p>
+<p class="maj">Dernière vérification : octobre 2026</p>
 
 **ChatGPT** est l'assistant conversationnel de l'entreprise américaine OpenAI, le plus utilisé au monde. Polyvalent, il rédige, explique, analyse des fichiers et des données, génère des images et peut converser à voix haute. Vos étudiants l'utilisent très probablement : le connaître vous aide aussi à concevoir des activités et des évaluations adaptées.
 
 [Ouvrir ChatGPT](https://chatgpt.com){ .md-button .md-button--primary }
-
-!!! info "Fiche en cours de rédaction"
-    Le tutoriel complet sera bientôt disponible.
 
 ## À quoi ça sert dans le supérieur
 
@@ -151,7 +148,7 @@ ChatGPT peut s'utiliser sans compte, mais de façon très limitée : sans compte
 L'écran se compose de deux parties.
 
 - **À gauche, la barre latérale** : **Nouveau chat** pour démarrer une conversation, **Images** pour créer et retrouver des images, **Bibliothèque** pour retrouver les fichiers que vous avez joints, **Projets** pour organiser votre travail par cours, puis **Plugins** et **Plus**. **Planification** et **Codex** ne fonctionnent pas avec un compte gratuit. Sous **Récents** s'affiche la liste de vos conversations. La **loupe** en haut permet d'y chercher, et l'icône de **panneau** masque ou affiche la barre. Votre nom apparaît tout en bas, avec la mention **Free** (version gratuite).
-- **Au centre, la zone de saisie** (« Comment puis-je vous aider ? ») : le bouton **+** à gauche donne accès aux fichiers et aux outils, le bouton **Analyser** demande à ChatGPT une réponse plus réfléchie, et le **micro** permet de dicter votre demande. Le bouton rond à droite lance le **mode vocal** lorsque la zone est vide, et devient une **flèche** d'envoi dès que vous écrivez.
+- **Au centre, la zone de saisie** (« Comment puis-je vous aider ? ») : le bouton **+** à gauche donne accès aux fichiers et aux outils, le bouton **Analyser** demande à ChatGPT une réponse plus réfléchie, et le **micro** permet de dicter votre demande. Le bouton rond à droite lance le **mode vocal** lorsque la zone est vide, et devient une **flèche** d'envoi dès que vous écrivez. Sous la zone de saisie, trois raccourcis vous aident à démarrer : **Créer une image ou un sticker**, **Écrire ou modifier** et **Rechercher sur le Web**.
 
 En haut au centre, laissez le sélecteur sur **Chat** : le mode **Work**, à côté, ne fonctionne pas avec un compte gratuit.
 
@@ -270,15 +267,21 @@ Le bouton rond bleu, juste à droite, lance quant à lui le **mode vocal** : une
 
 ### <span class="etape-num">10</span> Créer un projet
 
-Un projet regroupe les conversations et les fichiers d'un même cours, avec des consignes communes.
+Un projet regroupe en un seul endroit les chats, les fichiers et les instructions d'un même cours.
 
-1. Dans la barre latérale, cliquez sur **Projets**. La page **Projets** s'ouvre, avec trois onglets : **Tous les projets**, **Créé par vous** et **Partagés avec vous**.
-2. En haut à droite, cliquez sur **Créer**.
-3. Donnez un nom à votre projet, par exemple « Projet de 1re année — Génie de l'environnement ».
+1. Dans la barre latérale, cliquez sur **Projets**. La page **Projets** s'ouvre, avec trois onglets : **Tous les projets**, **Créé par vous** et **Partagés avec vous**. En haut à droite, cliquez sur **Créer**.
+
+    ![Page Projets](chatgpt-10-projets.png)
+
+2. Dans la fenêtre **Créer un projet**, saisissez le nom de votre cours dans le champ **Nom du projet**, par exemple « Structure des bâtiments ». Laissez l'option **Mémoire par défaut** telle quelle, puis cliquez sur **Créer un projet**.
+
+    ![Fenêtre Créer un projet](chatgpt-10-creer.png)
+
+3. La page du projet s'ouvre. Pour démarrer une conversation rattachée au projet, écrivez dans la zone **Nouveau chat dans…** (suivie du nom du projet). Vos conversations s'afficheront dessous, dans l'onglet **Chats**, à côté de l'onglet **Sources**.
 
 Vous retrouverez ensuite le projet sous **Projets**, dans la barre latérale.
 
-![Page Projets](chatgpt-10-projets.png)
+![Page d'un projet](chatgpt-10-projet.png)
 
 </div>
 
