@@ -191,12 +191,18 @@ Vos notebooks sont partagés entre Gemini et [NotebookLM](../recherche/notebookl
 
 1. Ouvrez la fenêtre **Ajouter un notebook** depuis le bouton **+**.
 2. La liste de vos notebooks s'affiche, avec pour chacun son nombre de sources et sa date de création. Cliquez sur le notebook voulu : une coche bleue apparaît et le bas de la fenêtre indique **1 sélectionné(s)**. Cliquez sur **Ajouter**.
+
+    ![Fenêtre Ajouter un notebook](gemini-06-notebook.png)
+
 3. Le notebook s'affiche sous forme de vignette au-dessus de la zone de saisie. Écrivez votre demande, par exemple : « À partir de mon carnet NotebookLM sur le béton auto-cicatrisant, crée un quiz d'entraînement de 10 questions à choix multiples pour des élèves ingénieurs de 2e année. Mélange des questions de mémorisation, de compréhension et d'application. Pour chaque question, donne la bonne réponse, une courte explication et la partie du cours concernée. »
+
+    ![Notebook joint à la demande](gemini-06-demande.png)
+
 4. Gemini peut répondre par un **quiz interactif**, qui s'ouvre dans un panneau à droite : une question à la fois, quatre réponses au choix, un **Indice** à déplier, les boutons **Retour** et **Suivant**, et le compte des bonnes et des mauvaises réponses. En haut du panneau, deux icônes permettent de **partager** le quiz et de le **fermer**. Pour obtenir le quiz sous forme de texte, cliquez sur **Réessayer sans quiz interactif** dans la conversation.
 
 Choisissez un notebook qui contient des sources : un notebook indiqué « 0 source » ne donnera à Gemini aucun document sur lequel s'appuyer.
 
-<!-- Captures attendues : gemini-06-notebook.png (fenêtre Ajouter un notebook, sans les autres notebooks), gemini-06-demande.png, gemini-06-quiz.png -->
+<!-- Capture attendue : gemini-06-quiz.png (quiz interactif) -->
 
 </div>
 
@@ -207,11 +213,14 @@ Choisissez un notebook qui contient des sources : un notebook indiqué « 0 sour
 Pour une question complexe (un calcul en plusieurs étapes, une démonstration, un problème ouvert), demandez à Gemini de prendre davantage de temps pour raisonner.
 
 1. Cliquez sur le sélecteur **Flash**, à droite de la zone de saisie. La liste des modes de réponse s'affiche : **3.5 Flash-Lite** (« Réponses les plus rapides »), **3.6 Flash** (« Aide polyvalente », choisi par défaut) et **3.1 Pro** (« Raisonnement avancé », dont l'accès est limité dans la version gratuite).
+
+    ![Menu des modes de réponse](gemini-07-modes.png)
+
 2. Sous ces modes, cliquez sur **Raisonnement étendu** (« Résolution de problèmes complexes »). Une coche apparaît devant l'option, et le sélecteur affiche désormais **Flash Extended**.
 
 Les réponses sont plus lentes, mais plus approfondies.
 
-<!-- Captures attendues : gemini-07-modes.png, gemini-07-raisonnement-etendu.png -->
+<!-- Capture attendue : gemini-07-raisonnement-etendu.png (option cochée, sélecteur « Flash Extended ») -->
 
 </div>
 
@@ -242,6 +251,9 @@ La recherche prend plusieurs minutes, et son nombre d'utilisations est limité d
 **Un Gem, qu'est-ce que c'est ?** C'est une version de Gemini que vous configurez une fois pour toutes pour une tâche précise. Vous lui donnez un nom, des instructions (son rôle, sa manière de répondre, ce qu'il doit éviter) et, si besoin, des documents de référence. Ensuite, chaque fois que vous l'ouvrez, il applique ces consignes sans que vous ayez à les répéter. Google les présente ainsi : « Les Gems sont des versions personnalisées de Gemini qui fournissent des réponses sur mesure. » Exemples : un tuteur qui guide vos étudiants sans donner les réponses, un relecteur de sujets d'examen, un assistant qui rédige vos courriels selon votre style.
 
 1. Cliquez sur la **roue dentée**, en bas à gauche, puis sur **Gems**.
+
+    ![Menu de la roue dentée, option Gems](gemini-10-reglages.png)
+
 2. La page **Gestionnaire de Gems** s'ouvre. La rubrique **Prédéfinis par Google** propose des Gems prêts à l'emploi (**Storybook**, **Assistant au brainstorming**, **Guide de carrière**, **Partenaire de code**). Sous **Mes Gems**, cliquez sur **Nouveau Gem**.
 3. Remplissez le formulaire :
     - **Nom** : par exemple « Tuteur méthodes numériques » (obligatoire) ;
@@ -255,7 +267,7 @@ La recherche prend plusieurs minutes, et son nombre d'utilisations est limité d
 !!! info "Les Gems deviennent des « compétences »"
     Une bannière de la page **Gestionnaire de Gems** l'annonce : à partir du 17 novembre 2026, Google migre automatiquement les Gems vers les **compétences**. Vous pouvez utiliser vos Gems jusqu'à leur migration.
 
-<!-- Captures attendues : gemini-10-reglages.png (menu de la roue dentée), gemini-10-gems.png, gemini-10-nouveau-gem.png -->
+<!-- Captures attendues : gemini-10-gems.png, gemini-10-nouveau-gem.png -->
 
 </div>
 
@@ -278,6 +290,9 @@ La recherche prend plusieurs minutes, et son nombre d'utilisations est limité d
 Vous pouvez indiquer une fois pour toutes comment vous souhaitez que Gemini vous réponde.
 
 1. Cliquez sur la **roue dentée**, en bas à gauche, puis sur **Contexte personnel**.
+
+    ![Menu de la roue dentée, option Contexte personnel](gemini-12-reglages.png)
+
 2. La page **Contexte personnel** comporte deux réglages :
     - **Mémoire** : lorsque l'interrupteur est activé, « Gemini apprend de vos anciennes discussions ». Vous pouvez le laisser désactivé ;
     - **Vos instructions pour Gemini** : vérifiez que l'interrupteur est activé (bleu, avec une coche).
