@@ -270,18 +270,17 @@ Le **Canvas** est un espace de travail à part, ouvert à droite de la conversat
     ![Page Gestionnaire de Gems](gemini-10-gems.png)
 
 3. Remplissez le formulaire :
-    - **Nom** : par exemple « Tuteur méthodes numériques » (obligatoire) ;
+    - **Nom** : le nom de votre Gem (obligatoire) ;
     - **Description** : à quoi sert le Gem ;
-    - **Instructions** : son rôle et sa façon de répondre (voir l'exemple dans les cas d'usage, onglet « Créer un Gem tuteur ») ;
+    - **Instructions** : son rôle et sa façon de répondre ;
     - **Outil par défaut** : laissez **Aucun outil par défaut** ;
-    - **Connaissances** : cliquez sur **+** pour ajouter des fichiers de référence, par exemple votre polycopié.
+    - **Connaissances** : cliquez sur **+** pour ajouter des fichiers de référence.
 4. Testez le Gem dans la partie **Prévisualiser**, à droite : elle devient utilisable dès que le Gem a un nom.
 5. Cliquez sur **Enregistrer**, en haut à droite.
 
 !!! info "Les Gems deviennent des « compétences »"
     Une bannière de la page **Gestionnaire de Gems** l'annonce : à partir du 17 novembre 2026, Google migre automatiquement les Gems vers les **compétences**. Vous pouvez utiliser vos Gems jusqu'à leur migration.
 
-<!-- Capture attendue : gemini-10-nouveau-gem.png (formulaire Nouveau Gem) -->
 
 </div>
 
@@ -313,19 +312,7 @@ Vous pouvez indiquer une fois pour toutes comment vous souhaitez que Gemini vous
 
     ![Page Contexte personnel](gemini-12-contexte.png)
 
-3. Cliquez sur **Ajouter**. Dans la fenêtre **Que voulez-vous que Gemini mémorise ?**, écrivez vos consignes, par exemple :
-
-    ```
-    Réponds en français, de façon structurée et concise, avec
-    un vocabulaire scientifique précis. Pour mes enseignements,
-    propose des contenus adaptés au niveau indiqué, avec des
-    objectifs d'apprentissage formulés par des verbes d'action
-    et des exemples tirés de cas industriels réels. Ne jamais
-    inventer de référence bibliographique. Signale toujours les
-    points à vérifier, en particulier les calculs, les chiffres
-    et les normes.
-    ```
-
+3. Cliquez sur **Ajouter**. Dans la fenêtre **Que voulez-vous que Gemini mémorise ?**, écrivez vos propres consignes : la langue de réponse, le niveau de vos étudiants, la forme que vous préférez (réponses brèves, listes à puces, etc.).
 4. Cliquez sur **Envoyer**.
 
 ![Fenêtre Que voulez-vous que Gemini mémorise ?](gemini-12-instructions.png)
