@@ -231,14 +231,19 @@ Les réponses sont plus lentes, mais plus approfondies.
 
 ### <span class="etape-num">8</span> Lancer une recherche approfondie
 
-La recherche approfondie consulte de nombreuses sources sur le web et en tire un rapport structuré, avec les liens vers chaque source.
+La recherche approfondie (**Deep Research**) consulte de nombreuses sources sur le web et en tire un rapport structuré, avec les liens vers chaque source.
 
-1. Cliquez sur le bouton **+**, puis sur **Deep Research**.
+1. Cliquez sur le bouton **+**, puis sur **Deep Research**. L'étiquette **Deep Research** s'affiche dans la zone de saisie, qui indique « Que souhaitez-vous rechercher ? ».
 2. Écrivez votre demande en précisant le sujet, la période, les sources attendues et la forme du résultat, puis envoyez-la.
+3. Gemini vous propose d'abord un **plan de recherche**. Lisez-le, puis cliquez sur **Modifier le plan** pour l'ajuster, ou sur **Commencer la recherche** pour le lancer. Gemini vous prévient : « Je vous ferai savoir quand vos recherches seront terminées. En attendant, vous pouvez quitter cette discussion. »
 
-La recherche prend plusieurs minutes, et son nombre d'utilisations est limité dans la version gratuite. Ouvrez les liens fournis pour vérifier chaque source avant de réutiliser le rapport.
+    ![Plan de recherche et bouton Commencer la recherche](gemini-08-plan.png)
 
-<!-- Capture attendue : gemini-08-deep-research.png -->
+4. Le rapport se construit dans un panneau à droite. Cliquez sur **Afficher le raisonnement** pour suivre les étapes de la recherche et voir les sources consultées, présentées sous forme de vignettes.
+
+La recherche prend plusieurs minutes, et son nombre d'utilisations est limité dans la version gratuite. Ouvrez les sources pour vérifier chaque information avant de réutiliser le rapport.
+
+![Rapport en cours de rédaction, avec le raisonnement et les sources](gemini-08-rapport.png)
 
 </div>
 
