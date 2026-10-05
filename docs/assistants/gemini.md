@@ -206,7 +206,7 @@ Vos notebooks sont partagés entre Gemini et [NotebookLM](../recherche/notebookl
 
 Choisissez un notebook qui contient des sources : un notebook indiqué « 0 source » ne donnera à Gemini aucun document sur lequel s'appuyer.
 
-<!-- Capture attendue : gemini-06-quiz.png (quiz interactif) -->
+![Quiz interactif créé à partir du notebook](gemini-06-quiz.png)
 
 </div>
 
