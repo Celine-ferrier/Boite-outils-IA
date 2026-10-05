@@ -4,7 +4,7 @@
 
 <p class="maj">Dernière vérification : à compléter</p>
 
-**Gemini** est l'assistant conversationnel de Google. Il se distingue par ses liens avec l'univers Google : il peut regarder une vidéo YouTube, transformer un document en **résumé audio** façon podcast, exporter ses réponses vers Google Docs et créer des **Gems**, des assistants personnalisés que vous pouvez partager avec vos étudiants.
+**Gemini** est l'assistant conversationnel de Google. Il se distingue par ses liens avec l'univers Google : il peut regarder une vidéo YouTube, transformer un document en **résumé audio** façon podcast, exporter ses réponses vers Google Docs, travailler avec vos **notebooks NotebookLM** et créer des **Gems**, des assistants personnalisés que vous pouvez partager avec vos étudiants.
 
 [Ouvrir Gemini](https://gemini.google.com){ .md-button .md-button--primary }
 
@@ -16,6 +16,7 @@
 - **Créer un assistant de cours** (Gem) qui guide les étudiants sans leur donner les réponses.
 - **Exploiter une vidéo** : résumer une conférence ou un tutoriel YouTube, en tirer des questions.
 - **Produire un résumé audio** d'un polycopié pour la révision.
+- **Prolonger le travail fait dans NotebookLM** : interroger les sources d'un notebook depuis Gemini, ou verser une conversation Gemini dans un notebook (voir la fiche [NotebookLM](../recherche/notebooklm.md)).
 - **Analyser une image** : photo de tableau, schéma de montage, graphique.
 - **Préparer des exercices à indices progressifs**, pour accompagner les étudiants pas à pas.
 
@@ -105,17 +106,18 @@ Avec un compte Google gratuit, vous accédez à Gemini sur le web et sur mobile,
  1. Se connecter avec un compte Google (adresse @mines-ales.fr)
  2. Découvrir l'interface
  3. Formuler une demande
- 4. Découvrir le menu des outils (+)
+ 4. Découvrir le menu des outils (+), dont l'accès à NotebookLM
  5. Joindre un document
- 6. Choisir le modèle
- 7. Lancer une recherche approfondie (Deep Research)
- 8. Rédiger dans le Canvas
- 9. Créer un résumé audio
-10. Créer un Gem
-11. Parler à Gemini (dictée, Gemini Live)
-12. Donner des instructions permanentes
-13. Désactiver l'enregistrement de l'activité
-14. Utiliser un chat temporaire
+ 6. Utiliser un notebook NotebookLM dans Gemini
+ 7. Choisir le modèle
+ 8. Lancer une recherche approfondie (Deep Research)
+ 9. Rédiger dans le Canvas
+10. Créer un résumé audio
+11. Créer un Gem
+12. Parler à Gemini (dictée, Gemini Live)
+13. Donner des instructions permanentes
+14. Désactiver l'enregistrement de l'activité
+15. Utiliser un chat temporaire
 -->
 
 ## Ressources officielles
@@ -123,6 +125,7 @@ Avec un compte Google gratuit, vous accédez à Gemini sur le web et sur mobile,
 - [Centre d'aide Gemini](https://support.google.com/gemini?hl=fr) : prise en main, fonctionnalités, confidentialité.
 - [Limites de la version gratuite et des abonnements](https://support.google.com/gemini/answer/16275805?hl=fr) : ce qui est inclus selon la formule.
 - [Gérer et supprimer votre activité](https://support.google.com/gemini/answer/13278892?hl=fr) : enregistrement des conversations, durée de conservation, chat temporaire.
+- [Organiser vos projets avec les notebooks](https://support.google.com/gemini/answer/16972047?hl=fr) : notebooks partagés entre Gemini et NotebookLM.
 - [Centre de confidentialité des applications Gemini](https://support.google.com/gemini/answer/13594961?hl=fr) : utilisation de vos données.
 
 ## Points de vigilance
