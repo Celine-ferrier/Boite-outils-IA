@@ -4,7 +4,7 @@
 
 <p class="maj">Dernière vérification : à compléter</p>
 
-**Gemini** est l'assistant conversationnel de Google. Il se distingue par ses liens avec l'univers Google : il peut regarder une vidéo YouTube, transformer un document en **résumé audio** façon podcast, exporter ses réponses vers Google Docs, travailler avec vos **notebooks NotebookLM** et créer des **Gems**, des assistants personnalisés que vous pouvez partager avec vos étudiants.
+**Gemini** est l'assistant conversationnel de Google. Il se distingue par ses liens avec l'univers Google : il peut regarder une vidéo YouTube, créer des diapositives dans son **Canvas**, exporter ses réponses vers Google Docs, travailler avec vos **notebooks NotebookLM** et créer des **Gems**, des assistants personnalisés que vous pouvez partager avec vos étudiants.
 
 [Ouvrir Gemini](https://gemini.google.com){ .md-button .md-button--primary }
 
@@ -15,14 +15,14 @@
 
 - **Créer un assistant de cours** (Gem) qui guide les étudiants sans leur donner les réponses.
 - **Exploiter une vidéo** : résumer une conférence ou un tutoriel YouTube, en tirer des questions.
-- **Produire un résumé audio** d'un polycopié pour la révision.
+- **Créer des diapositives** à partir d'un polycopié, dans le Canvas.
 - **Prolonger le travail fait dans NotebookLM** : interroger les sources d'un notebook depuis Gemini, ou verser une conversation Gemini dans un notebook (voir la fiche [NotebookLM](../recherche/notebooklm.md)).
 - **Analyser une image** : photo de tableau, schéma de montage, graphique.
 - **Préparer des exercices à indices progressifs**, pour accompagner les étudiants pas à pas.
 
 ## Version gratuite
 
-Avec un compte Google gratuit, vous accédez à Gemini sur le web et sur mobile, avec un modèle rapide et un accès limité au modèle le plus puissant. La version gratuite comprend la génération et la modification d'images, la **recherche approfondie** (Deep Research), le **Canvas**, les **Gems**, les **résumés audio** et la conversation à voix haute (**Gemini Live**). L'utilisation est limitée : le quota se renouvelle toutes les 5 heures, dans la limite d'un plafond hebdomadaire. Les documents trop longs peuvent aussi dépasser la capacité de lecture de la version gratuite. Les abonnements payants (Google AI Plus, Pro et Ultra) relèvent ces limites et ajoutent notamment la génération de vidéos.
+Avec un compte Google gratuit, vous accédez à Gemini sur le web et sur mobile, avec un modèle rapide et un accès limité au modèle le plus puissant. La version gratuite comprend la génération et la modification d'images, la **recherche approfondie** (Deep Research), le **Canvas**, les **Gems** et la conversation à voix haute (**Gemini Live**). L'utilisation est limitée : le quota se renouvelle toutes les 5 heures, dans la limite d'un plafond hebdomadaire. Les documents trop longs peuvent aussi dépasser la capacité de lecture de la version gratuite. Les abonnements payants (Google AI Plus, Pro et Ultra) relèvent ces limites et ajoutent notamment la génération de vidéos.
 
 ## Cas d'usage
 
@@ -58,20 +58,22 @@ Avec un compte Google gratuit, vous accédez à Gemini sur le web et sur mobile,
     5 questions de compréhension à poser en début de TD.
     ```
 
-=== "Résumé audio"
+=== "Diapositives avec Canvas"
 
-    **Exemple** : un chapitre de polycopié de mécanique des sols que vos étudiants pourront écouter pour réviser.
+    **Exemple** : un chapitre de polycopié de mécanique des sols, à transformer en support de cours.
 
-    Joignez le chapitre, puis demandez :
+    Cliquez sur **+**, puis sur **Canvas**, joignez le chapitre et demandez :
 
     ```
-    Génère un résumé audio de ce chapitre, sous forme de
-    dialogue entre deux personnes, pour des élèves ingénieurs
-    de 2e année qui révisent leur examen. Insiste sur les
-    notions de contrainte effective et de consolidation.
+    À partir de ce chapitre, crée un diaporama de 10
+    diapositives pour un cours de mécanique des sols en
+    2e année d'école d'ingénieurs : une idée par diapositive,
+    des phrases courtes, et une diapositive de synthèse avec
+    3 questions de vérification. Insiste sur les notions de
+    contrainte effective et de consolidation.
     ```
 
-    Écoutez le résumé en entier avant de le diffuser : il peut simplifier à l'excès ou se tromper.
+    Relisez chaque diapositive : Gemini peut simplifier à l'excès ou se tromper.
 
 === "Analyser une image"
 
@@ -105,7 +107,7 @@ Avec un compte Google gratuit, vous accédez à Gemini sur le web et sur mobile,
 
 <div class="etape" markdown>
 
-### <span class="etape-num">1</span> Se connecter avec un compte Google
+### <span class="etape-num">1</span> Se connecter avec votre compte Gmail
 
 1. Rendez-vous sur [gemini.google.com](https://gemini.google.com). La page de présentation de Gemini s'affiche : cliquez sur **Discuter avec Gemini**.
 
@@ -115,7 +117,9 @@ Avec un compte Google gratuit, vous accédez à Gemini sur le web et sur mobile,
 
     ![Fenêtre Conditions d'utilisation et règles de confidentialité](gemini-01-conditions.png)
 
-3. Dans la fenêtre **Sélectionnez un compte**, choisissez votre compte Google s'il apparaît dans la liste. Sinon, cliquez sur **Utiliser un autre compte** et suivez les indications pour vous connecter.
+3. Dans la fenêtre **Sélectionnez un compte**, choisissez votre compte **Gmail personnel** s'il apparaît dans la liste. Sinon, cliquez sur **Utiliser un autre compte**, puis saisissez votre adresse Gmail et votre mot de passe.
+
+Gemini s'utilise avec un compte Google : connectez-vous avec votre compte Gmail personnel, et réglez-le pour protéger vos données (voir les étapes 13 et 14).
 
 ![Fenêtre Sélectionnez un compte](gemini-01-compte.png)
 
@@ -161,7 +165,7 @@ Cliquez sur le bouton **+** à gauche de la zone de saisie : il se transforme en
 | **Plus d'importations** | D'autres sources, dont vos notebooks NotebookLM (voir l'étape 6) |
 | **Créer une image** | Générer une image à partir de votre description |
 | **Créer de la musique** | Générer un court morceau de musique |
-| **Canvas** | « Codez, écrivez ou créez des diapositives » dans un espace à part |
+| **Canvas** | « Codez, écrivez ou créez des diapositives » dans un espace à part (voir l'étape 9) |
 | **Deep Research** | Obtenir un rapport détaillé, construit à partir de nombreuses sources (voir l'étape 8) |
 | **Apprentissage guidé** | Comprendre une notion pas à pas : Gemini vous guide par des questions plutôt que de donner directement la réponse |
 
@@ -239,10 +243,18 @@ La recherche prend plusieurs minutes, et son nombre d'utilisations est limité d
 
 </div>
 
-<!--
-Étape restant à rédiger (capture attendue) :
- 9. Créer un résumé audio
--->
+<div class="etape" markdown>
+
+### <span class="etape-num">9</span> Créer dans le Canvas
+
+Le **Canvas** est un espace de travail à part, ouvert à droite de la conversation, dans lequel Gemini rédige un document, du code ou des diapositives que vous pouvez ensuite modifier.
+
+1. Cliquez sur le bouton **+**, puis sur **Canvas** (au survol, l'info-bulle indique « Codez, écrivez ou créez des diapositives »).
+2. Écrivez votre demande, par exemple celle de l'onglet « Diapositives avec Canvas » des cas d'usage, puis envoyez-la.
+
+<!-- Captures attendues : gemini-09-canvas.png (le Canvas ouvert) -->
+
+</div>
 
 <div class="etape" markdown>
 
