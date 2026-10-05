@@ -109,7 +109,7 @@ Avec un compte Google gratuit, vous accédez à Gemini sur le web et sur mobile,
  4. Découvrir le menu des outils (+), dont l'accès à NotebookLM
  5. Joindre un document
  6. Utiliser un notebook NotebookLM dans Gemini
- 7. Choisir le modèle
+ 7. Activer le raisonnement étendu
  8. Lancer une recherche approfondie (Deep Research)
  9. Rédiger dans le Canvas
 10. Créer un résumé audio
