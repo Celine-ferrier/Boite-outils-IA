@@ -183,7 +183,7 @@ Cliquez sur le bouton **+** à gauche de la zone de saisie : il se transforme en
 
 Retirez toute donnée personnelle d'un document avant de le joindre.
 
-<!-- Capture attendue : gemini-05-fichier.png -->
+![Option Importer des fichiers du menu +](gemini-05-fichier.png)
 
 </div>
 
@@ -224,7 +224,6 @@ Pour une question complexe (un calcul en plusieurs étapes, une démonstration, 
 
 Les réponses sont plus lentes, mais plus approfondies.
 
-<!-- Capture attendue : gemini-07-raisonnement-etendu.png (option cochée, sélecteur « Flash Extended ») -->
 
 </div>
 
@@ -267,6 +266,9 @@ Le **Canvas** est un espace de travail à part, ouvert à droite de la conversat
     ![Menu de la roue dentée, option Gems](gemini-10-reglages.png)
 
 2. La page **Gestionnaire de Gems** s'ouvre. La rubrique **Prédéfinis par Google** propose des Gems prêts à l'emploi (**Storybook**, **Assistant au brainstorming**, **Guide de carrière**, **Partenaire de code**). Sous **Mes Gems**, cliquez sur **Nouveau Gem**.
+
+    ![Page Gestionnaire de Gems](gemini-10-gems.png)
+
 3. Remplissez le formulaire :
     - **Nom** : par exemple « Tuteur méthodes numériques » (obligatoire) ;
     - **Description** : à quoi sert le Gem ;
@@ -279,7 +281,7 @@ Le **Canvas** est un espace de travail à part, ouvert à droite de la conversat
 !!! info "Les Gems deviennent des « compétences »"
     Une bannière de la page **Gestionnaire de Gems** l'annonce : à partir du 17 novembre 2026, Google migre automatiquement les Gems vers les **compétences**. Vous pouvez utiliser vos Gems jusqu'à leur migration.
 
-<!-- Captures attendues : gemini-10-gems.png, gemini-10-nouveau-gem.png -->
+<!-- Capture attendue : gemini-10-nouveau-gem.png (formulaire Nouveau Gem) -->
 
 </div>
 
@@ -291,7 +293,7 @@ Le **Canvas** est un espace de travail à part, ouvert à droite de la conversat
 2. Autorisez votre navigateur à utiliser le micro si la question vous est posée.
 3. Parlez : votre texte s'inscrit dans la zone de saisie. Relisez-le, corrigez-le si besoin, puis envoyez-le.
 
-<!-- Capture attendue : gemini-11-dicter.png -->
+![Micro de la zone de saisie](gemini-11-dicter.png)
 
 </div>
 
