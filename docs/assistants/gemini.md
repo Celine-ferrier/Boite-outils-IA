@@ -148,7 +148,7 @@ Cliquez dans la zone **Demander à Gemini** et décrivez ce que vous voulez obte
 
 Appuyez sur **Entrée** ou cliquez sur la **flèche**, dans le rond bleu à droite de la zone de saisie, pour envoyer. Poursuivez ensuite la conversation pour affiner le résultat.
 
-<!-- Capture attendue : gemini-03-demande.png (zone de saisie avec la demande) -->
+![Rédaction d'une demande](gemini-03-demande.png)
 
 </div>
 
@@ -252,7 +252,7 @@ Le **Canvas** est un espace de travail à part, ouvert à droite de la conversat
 1. Cliquez sur le bouton **+**, puis sur **Canvas** (au survol, l'info-bulle indique « Codez, écrivez ou créez des diapositives »).
 2. Écrivez votre demande, par exemple celle de l'onglet « Diapositives avec Canvas » des cas d'usage, puis envoyez-la.
 
-<!-- Captures attendues : gemini-09-canvas.png (le Canvas ouvert) -->
+![Option Canvas du menu +](gemini-09-canvas.png)
 
 </div>
 
@@ -308,6 +308,9 @@ Vous pouvez indiquer une fois pour toutes comment vous souhaitez que Gemini vous
 2. La page **Contexte personnel** comporte deux réglages :
     - **Mémoire** : lorsque l'interrupteur est activé, « Gemini apprend de vos anciennes discussions ». Vous pouvez le laisser désactivé ;
     - **Vos instructions pour Gemini** : vérifiez que l'interrupteur est activé (bleu, avec une coche).
+
+    ![Page Contexte personnel](gemini-12-contexte.png)
+
 3. Cliquez sur **Ajouter**. Dans la fenêtre **Que voulez-vous que Gemini mémorise ?**, écrivez vos consignes, par exemple :
 
     ```
@@ -323,7 +326,7 @@ Vous pouvez indiquer une fois pour toutes comment vous souhaitez que Gemini vous
 
 4. Cliquez sur **Envoyer**.
 
-<!-- Captures attendues : gemini-12-contexte.png, gemini-12-instructions.png -->
+![Fenêtre Que voulez-vous que Gemini mémorise ?](gemini-12-instructions.png)
 
 </div>
 
@@ -342,7 +345,7 @@ Pour une demande que vous ne souhaitez pas conserver, utilisez une **discussion 
 2. En haut à droite, cliquez sur l'icône de discussion temporaire : l'info-bulle **Activer les discussions temporaires** s'affiche au survol.
 3. Écrivez votre demande comme d'habitude.
 
-<!-- Capture attendue : gemini-14-temporaire.png -->
+![Icône des discussions temporaires](gemini-14-temporaire.png)
 
 </div>
 
