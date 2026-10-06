@@ -14,13 +14,14 @@
 ## À quoi ça sert dans le supérieur
 
 - **Produire rapidement un premier support de cours** à partir de votre plan, à retravailler ensuite.
+- **Transformer un document existant** (guide de projet, polycopié, compte rendu) en présentation.
 - **Rédiger une fiche de synthèse mise en page** pour vos étudiants (format document).
 - **Proposer un modèle de soutenance** à vos étudiants, avec la structure attendue.
 - **Créer une page web de présentation** d'un module, d'un projet ou d'une option.
 
 ## Version gratuite
 
-Le compte gratuit donne **400 crédits à l'inscription**. Chaque action d'IA (générer une présentation, réécrire une carte, créer une image) consomme des crédits, et **ces crédits ne se renouvellent pas** : une fois épuisés, il faut en gagner en parrainant d'autres personnes ou passer à un abonnement payant. La version gratuite génère **jusqu'à 10 cartes** par demande (vous pouvez en ajouter d'autres à la main), et les fichiers exportés portent la mention « Made with Gamma ». Les abonnements payants (Plus, Pro) donnent davantage de crédits, des présentations plus longues et retirent la mention « Made with Gamma ».
+Le compte gratuit donne **400 crédits à l'inscription**. Chaque action d'IA (générer une présentation, réécrire une carte, créer une image) consomme des crédits, et **ces crédits ne se renouvellent pas** : une fois épuisés, il faut en gagner en parrainant d'autres personnes ou passer à un abonnement payant. La version gratuite génère **jusqu'à 10 cartes** par demande (vous pouvez en ajouter d'autres à la main), et les fichiers exportés portent la mention « Made with Gamma ». À titre d'exemple, l'import d'un cours de 4 pages a consommé 32 crédits. Les abonnements payants (Plus, Pro) donnent davantage de crédits, des présentations plus longues et retirent la mention « Made with Gamma ».
 
 !!! warning "Économisez vos crédits"
     Préparez votre plan avant de lancer la génération, et retouchez les cartes à la main plutôt que de tout régénérer : avec 400 crédits qui ne se renouvellent pas, chaque génération compte.
@@ -41,6 +42,20 @@ Le compte gratuit donne **400 crédits à l'inscription**. Chaque action d'IA (g
     4) objectifs et organisation du cours. Style sobre, une
     idée par carte, phrases courtes.
     ```
+
+=== "Transformer un document"
+
+    **Exemple** : le guide d'un projet de 1re année, à présenter aux étudiants lors de la séance de lancement.
+
+    Cliquez sur **Importer**, puis choisissez votre fichier (voir l'étape 8 du pas à pas). Avant de générer, indiquez dans **Écrire pour…** et **Tonalité** :
+
+    ```
+    Écrire pour : étudiants de 1re année réalisant un projet de
+    diagnostic environnemental en groupe
+    Tonalité : pédagogue, clair et pratique
+    ```
+
+    Retirez du document toute donnée personnelle (noms d'étudiants, coordonnées) avant de l'importer.
 
 === "Fiche de synthèse"
 
@@ -156,15 +171,93 @@ Commencez par un petit nombre de diapositives : vous économiserez vos crédits 
 
 </div>
 
-<!--
-Étapes restant à rédiger à partir des captures (plan provisoire) :
- 5. Relire et modifier le plan proposé
- 6. Choisir un thème graphique
- 7. Générer et découvrir le résultat
- 8. Modifier une carte (texte, image, mise en page)
- 9. Présenter
-10. Partager et exporter
--->
+<div class="etape" markdown>
+
+### <span class="etape-num">5</span> Régler le contenu et lancer la génération
+
+Avant de générer, Gamma affiche votre contenu découpé en diapositives, avec un panneau de réglages à gauche.
+
+1. Sous **Contenu du texte**, choisissez ce que Gamma fait de votre texte : **Générer** (il rédige à partir de votre demande), **Condenser** (il résume votre texte) ou **Préserver** (il garde votre texte tel quel).
+2. Sous **Quantité de texte**, choisissez la densité des diapositives, de **Minimaliste** à **Détaillé**.
+3. Précisez le public dans **Écrire pour…** (par exemple « Étudiants de 1re année réalisant un projet de diagnostic environnemental ») et le ton dans **Tonalité** (par exemple « Pédagogue, clair et pratique »). Vérifiez la **Langue de sortie** : **Français**.
+4. Plus bas, dans **Visuels**, choisissez un **Thème** (cliquez sur **Voir plus** pour en afficher d'autres).
+
+    ![Panneau Contenu du texte et Visuels](gamma-05-reglages.png)
+
+5. Au centre, relisez le découpage : **Ajouter une diapositive** permet d'en créer une, et trois tirets `---` dans le texte marquent un changement de diapositive.
+6. En bas de l'écran, vérifiez le nombre de diapositives et vos crédits restants, puis cliquez sur **Générer**.
+
+![Bouton Générer et crédits restants](gamma-05-generer.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">6</span> Découvrir la présentation générée
+
+Après quelques secondes, la présentation s'ouvre dans l'éditeur.
+
+- **À gauche**, les **miniatures** de toutes les cartes : cliquez sur une miniature pour y accéder, faites-la glisser pour changer l'ordre, ou cliquez sur **Nouveau** pour ajouter une carte.
+- **Au centre**, les cartes s'affichent les unes sous les autres, avec leurs textes et leurs illustrations.
+- **En haut**, les boutons **Thème**, **Partager** et **Présenter** (voir les étapes 9 et 10).
+- **À droite**, une colonne d'icônes permet d'insérer du texte, des images, des graphiques ou des tableaux.
+
+![Éditeur de Gamma avec les miniatures des cartes](gamma-06-resultat.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">7</span> Modifier une carte
+
+1. Cliquez directement dans un texte pour le corriger ou le compléter, comme dans un traitement de texte.
+2. Lorsqu'un bloc est sélectionné, une **barre d'outils** apparaît au-dessus : style du bloc, couleurs, alignement du texte, taille, disposition en colonnes et **corbeille** (en rouge) pour le supprimer.
+3. Pour remplacer une illustration, cliquez dessus puis choisissez une autre image.
+
+Retouchez le texte à la main plutôt que de demander une nouvelle génération : c'est plus rapide et cela ne consomme aucun crédit.
+
+![Barre d'outils d'un bloc de texte](gamma-07-modifier.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">8</span> Importer un document existant
+
+Gamma peut aussi partir d'un document que vous avez déjà : un guide de projet, un polycopié, un compte rendu.
+
+1. Sur la page **Gammas**, cliquez sur **Importer**, puis choisissez votre fichier.
+2. La fenêtre **Importer un fichier** affiche « Envoi du fichier en cours… ». L'opération peut durer une ou deux minutes pour un fichier volumineux.
+3. Réglez ensuite le contenu comme à l'étape 5, puis cliquez sur **Générer**.
+
+L'import consomme des crédits : à titre d'exemple, un cours de 4 pages en a consommé 32. Retirez toute donnée personnelle du document avant de l'importer.
+
+![Fenêtre Importer un fichier](gamma-08-importer.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">9</span> Présenter
+
+En haut à droite de l'éditeur, cliquez sur **Présenter** : la présentation s'affiche en plein écran, carte par carte. Utilisez les flèches du clavier pour avancer, et la touche **Échap** pour revenir à l'éditeur.
+
+![Bouton Présenter](gamma-09-presenter.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">10</span> Partager et exporter
+
+1. Cliquez sur **Partager**, en haut de l'éditeur. La fenêtre de partage s'ouvre sur l'onglet **Partage**.
+2. Réglez l'accès : **Toute personne disposant du lien** peut **Voir** la présentation. La protection par **Mot de passe** est réservée à l'abonnement **PRO**.
+3. Cliquez sur **Copier le lien de partage** pour transmettre la présentation à vos étudiants, par exemple sur Moodle.
+4. Pour obtenir un fichier, cliquez sur **Exporter**, dans la colonne de gauche. Les fichiers exportés depuis la version gratuite portent la mention « Made with Gamma ».
+
+![Fenêtre de partage](gamma-10-partager.png)
+
+</div>
 
 ## Ressources officielles
 
