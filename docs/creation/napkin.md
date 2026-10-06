@@ -2,14 +2,11 @@
 
 <span class="badge badge-hors-ue">Hors UE</span> <span class="badge badge-gratuit">Gratuit, compte obligatoire</span>
 
-<p class="maj">Dernière vérification : à compléter</p>
+<p class="maj">Dernière vérification : octobre 2026</p>
 
 **Napkin** transforme un texte en **schéma** : étapes d'un procédé, comparaison, cycle, frise chronologique, carte d'idées. Vous écrivez ou collez votre texte, vous sélectionnez un passage, et Napkin propose plusieurs visuels au choix. Le schéma reste ensuite modifiable : textes, couleurs, icônes, disposition.
 
 [Ouvrir Napkin](https://www.napkin.ai){ .md-button .md-button--primary }
-
-!!! info "Fiche en cours de rédaction"
-    Le tutoriel complet sera bientôt disponible.
 
 ## À quoi ça sert dans le supérieur
 
@@ -21,7 +18,7 @@
 
 ## Version gratuite
 
-Le compte gratuit donne **500 crédits d'IA par semaine**, renouvelés chaque semaine. La génération coûte environ **un crédit par mot sélectionné** : un paragraphe de 100 mots consomme donc une centaine de crédits. La modification des visuels est illimitée, ainsi que l'import de fichiers (PowerPoint, Word, PDF, HTML, Markdown) et l'export aux formats **PNG** et **PDF**. Les exports aux formats **PowerPoint**, **Google Slides** et **SVG** (image modifiable) sont limités, et le retrait du logo de Napkin ainsi que les crédits supplémentaires sont réservés aux abonnements payants (Plus, Pro).
+Le compte gratuit donne **500 crédits d'IA par semaine**, renouvelés chaque semaine. La génération coûte environ **un crédit par mot sélectionné** : un paragraphe de 100 mots consomme donc une centaine de crédits. La modification des visuels est illimitée, ainsi que l'import de fichiers (PowerPoint, Word, PDF, HTML, Markdown) et l'export aux formats **PNG** et **PDF**. Les exports aux formats **PowerPoint**, **Google Slides** et **SVG** (image modifiable) sont limités à quelques exports gratuits, et le retrait du logo de Napkin ainsi que les crédits supplémentaires sont réservés aux abonnements payants (Plus, Pro).
 
 !!! tip "Sélectionnez court"
     Ne sélectionnez que le passage à illustrer, pas tout le document : vous obtiendrez un schéma plus lisible et vous économiserez vos crédits.
@@ -207,7 +204,7 @@ Vérifiez le visuel avant de l'utiliser : Napkin peut regrouper, résumer ou ré
 
     ![Fenêtre Exporter le visuel](napkin-08-formats.png)
 
-**PNG** et **PDF** sont disponibles sans limite avec le compte gratuit. **SVG**, **PowerPoint** et **Google Slides** sont marqués d'un petit chiffre (**3**) : leur usage est limité avec le compte gratuit. Le visuel exporté porte le logo de Napkin : le réglage **Napkin Logo** sur **Désactivé** est une « fonctionnalité premium », réservée aux abonnements payants.
+**PNG** et **PDF** sont disponibles sans limite avec le compte gratuit. **SVG**, **PowerPoint** et **Google Slides** sont marqués d'un petit chiffre (par exemple **3**) : c'est le nombre d'exports gratuits qu'il vous reste dans ce format. Le visuel exporté porte le logo de Napkin : le réglage **Napkin Logo** sur **Désactivé** est une « fonctionnalité premium », réservée aux abonnements payants.
 
 Pour exporter tout le document, utilisez le bouton **Exporter**, en haut à droite de l'éditeur.
 
@@ -215,11 +212,21 @@ Pour exporter tout le document, utilisez le bouton **Exporter**, en haut à droi
 
 </div>
 
-<!--
-Étapes restant à rédiger à partir des captures (plan provisoire) :
- 9. Partager le document
-10. Suivre ses crédits
--->
+<div class="etape" markdown>
+
+### <span class="etape-num">9</span> Choisir un style pour vos visuels
+
+Le **Brand Studio** fixe les couleurs et les polices de vos visuels, pour que tous les schémas d'un même cours aient la même apparence.
+
+1. En haut à droite de l'éditeur, cliquez sur **Brand Studio**. Le panneau du même nom s'ouvre.
+2. Sous **Styles intégrés**, parcourez les styles proposés (**Spectrum Lines**, **Soft Spectrum**, **Pastel Field**…) et cliquez sur celui qui vous convient : une coche bleue indique les styles disponibles.
+3. Le bouton **Ajouter une marque**, en haut du panneau, permet de créer votre propre style (par exemple aux couleurs de l'école). Il porte une petite icône bleue, qui signale en général une fonction réservée aux abonnements payants.
+
+Pour un cours projeté, préférez un style à fond clair : il reste lisible en vidéoprojection et à l'impression.
+
+![Panneau Brand Studio](napkin-09-style.png)
+
+</div>
 
 ## Ressources officielles
 
