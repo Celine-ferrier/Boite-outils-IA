@@ -20,7 +20,7 @@
 
 ## Version gratuite
 
-Le compte gratuit donne **400 crédits à l'inscription**. Chaque action d'IA (générer une présentation, réécrire une carte, créer une image) consomme des crédits, et **ces crédits ne se renouvellent pas** : une fois épuisés, il faut en gagner en parrainant d'autres personnes ou passer à un abonnement payant. La version gratuite génère **jusqu'à 10 cartes** par demande (vous pouvez en ajouter d'autres à la main), et les fichiers exportés portent la mention « Made with Gamma ». **L'import d'un fichier** (par exemple un cours en PDF ou en Word) pour le transformer en présentation est **réservé aux abonnements payants** : avec le compte gratuit, partez d'une demande ou de votre plan. Les abonnements payants (Plus, Pro) donnent davantage de crédits, des présentations plus longues et retirent la mention « Made with Gamma ».
+Le compte gratuit donne **400 crédits à l'inscription**. Chaque action d'IA (générer une présentation, réécrire une carte, créer une image) consomme des crédits, et **ces crédits ne se renouvellent pas** : une fois épuisés, il faut en gagner en parrainant d'autres personnes ou passer à un abonnement payant. La version gratuite génère **jusqu'à 10 cartes** par demande (vous pouvez en ajouter d'autres à la main), et les fichiers exportés portent la mention « Made with Gamma ». Les abonnements payants (Plus, Pro) donnent davantage de crédits, des présentations plus longues et retirent la mention « Made with Gamma ».
 
 !!! warning "Économisez vos crédits"
     Préparez votre plan avant de lancer la génération, et retouchez les cartes à la main plutôt que de tout régénérer : avec 400 crédits qui ne se renouvellent pas, chaque génération compte.
@@ -92,19 +92,78 @@ Le compte gratuit donne **400 crédits à l'inscription**. Chaque action d'IA (g
 :material-magnify-plus-outline: Cliquez sur une capture pour l'agrandir.
 { .astuce-zoom }
 
+<div class="etape" markdown>
+
+### <span class="etape-num">1</span> Créer un compte
+
+1. Rendez-vous sur [gamma.app](https://gamma.app), le site officiel de Gamma. La page de connexion s'affiche en anglais.
+2. Sous le bouton **Sign in**, cliquez sur **Sign up** (« Don't have an account? Sign up ») pour créer un compte.
+3. Saisissez votre **adresse e-mail de l'école** (@mines-ales.fr) et choisissez un mot de passe, puis suivez les indications à l'écran. N'utilisez pas **Continue with Google** ni **Continue with Apple**, qui relient Gamma à un compte personnel.
+
+!!! warning "Attention aux imitations"
+    Plusieurs sites reprennent le nom « Gamma » sans appartenir à son éditeur (par exemple gamma.com.ai). Vérifiez toujours que l'adresse affichée est bien **gamma.app** avant de vous inscrire ou de déposer un document.
+
+![Page de connexion de Gamma](gamma-01-connexion.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">2</span> Découvrir l'accueil
+
+Une fois connecté, vous arrivez sur la page **Gammas**, qui regroupe toutes vos créations.
+
+- En haut, le bouton **Créer** (avec la mention **AI**) lance une création avec l'IA (étape suivante). **Nouveau gamma** permet de partir d'une page vierge, et **Importer** d'ajouter un document existant.
+- En haut à droite, le nombre précédé d'une **étoile** indique vos **crédits restants**. Chaque génération par l'IA en consomme.
+- Dans la colonne de gauche, **Gammas**, **Recherche**, **Tous**, **Partagés avec vous** et **Sites** donnent accès à vos créations, et **Créer un dossier** permet de les ranger. La mention **Free**, sous le nom de votre espace, rappelle que vous utilisez la version gratuite.
+
+Les boutons **Passez à la version supérieure** et **Essayer Gamma 5** concernent les abonnements payants : vous n'en avez pas besoin.
+
+![Barre du haut de la page Gammas](gamma-02-accueil.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">3</span> Choisir comment créer avec l'IA
+
+Cliquez sur **Créer**. La page **Créer avec l'IA** propose quatre façons de commencer :
+
+| Option | À quoi elle sert |
+|---|---|
+| **Générer** | « Créez en quelques secondes à partir d'une simple invite » : vous décrivez ce que vous voulez en une phrase ou un paragraphe |
+| **Coller le texte** | « Créez à partir de notes, d'un plan ou d'un contenu existant » : vous collez votre propre texte |
+| **Créer à partir d'un modèle** | Reprendre la structure ou la mise en page d'un modèle |
+| **Importer depuis un fichier ou une URL** | Partir d'une présentation, d'une page web ou d'un document existant |
+
+Pour une première fois, cliquez sur **Générer**.
+
+![Page Créer avec l'IA](gamma-03-creer.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">4</span> Choisir le format et les réglages
+
+1. Sous « Qu'aimeriez-vous créer aujourd'hui ? », choisissez le format : **Présentation**, **Page Web**, **Document**, **Réseaux sociaux** ou **Graphique**.
+2. Réglez les options juste en dessous : le **nombre de diapositives** (par exemple **5 diapositives**), le style et la **langue** (**Français**).
+3. Écrivez votre demande dans la grande zone de texte. Précisez le sujet, le public, le niveau et le plan souhaité, comme dans les exemples des cas d'usage.
+
+Commencez par un petit nombre de diapositives : vous économiserez vos crédits et pourrez en ajouter ensuite.
+
+![Choix du format et des réglages](gamma-04-options.png)
+
+</div>
+
 <!--
-Étapes à rédiger à partir des captures (plan provisoire) :
- 1. Créer un compte (adresse @mines-ales.fr)
- 2. Découvrir l'accueil
- 3. Choisir de créer avec l'IA et le format (présentation, page web, document)
- 4. Rédiger la demande et régler les options (nombre de cartes, langue)
+Étapes restant à rédiger à partir des captures (plan provisoire) :
  5. Relire et modifier le plan proposé
  6. Choisir un thème graphique
  7. Générer et découvrir le résultat
  8. Modifier une carte (texte, image, mise en page)
  9. Présenter
 10. Partager et exporter
-11. Suivre ses crédits
 -->
 
 ## Ressources officielles
