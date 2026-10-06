@@ -2,14 +2,11 @@
 
 <span class="badge badge-hors-ue">Hors UE</span> <span class="badge badge-gratuit">Gratuit, compte Google</span>
 
-<p class="maj">Dernière vérification : à compléter</p>
+<p class="maj">Dernière vérification : octobre 2026</p>
 
 **Gemini** est l'assistant conversationnel de Google. Il se distingue par ses liens avec l'univers Google : il peut regarder une vidéo YouTube, créer des diapositives dans son **Canvas**, exporter ses réponses vers Google Docs, travailler avec vos **notebooks NotebookLM** et créer des **Gems**, des assistants personnalisés que vous pouvez partager avec vos étudiants.
 
 [Ouvrir Gemini](https://gemini.google.com){ .md-button .md-button--primary }
-
-!!! info "Fiche en cours de rédaction"
-    Le tutoriel complet sera bientôt disponible.
 
 ## À quoi ça sert dans le supérieur
 
@@ -324,10 +321,24 @@ Vous pouvez indiquer une fois pour toutes comment vous souhaitez que Gemini vous
 
 </div>
 
-<!--
-Étape restant à rédiger (capture attendue) :
-13. Désactiver l'enregistrement de l'activité (lien « Activité » en bas de la barre latérale)
--->
+<div class="etape" markdown>
+
+### <span class="etape-num">13</span> Désactiver l'enregistrement de l'activité
+
+Par défaut, le réglage **Conserver l'activité** est activé : vos discussions sont enregistrées dans votre compte Google et peuvent servir à améliorer les services de Google, y compris ses modèles d'IA. Désactivez-le.
+
+1. Cliquez sur **Activité**, en bas à gauche de la barre latérale (icône en forme d'horloge). La page **Activité dans les applications Gemini** s'ouvre.
+2. Dans la rubrique **Conserver l'activité**, cliquez sur le bouton **Activé**.
+3. Dans le menu qui s'ouvre, choisissez :
+    - **Désactiver** pour arrêter l'enregistrement à partir de maintenant ;
+    - ou **Désactiver et supprimer l'activité** pour supprimer aussi les discussions déjà enregistrées.
+4. Suivez les étapes indiquées pour confirmer.
+
+Une fois le réglage désactivé, vous ne pourrez plus reprendre vos anciennes discussions. Google conserve quand même chaque discussion pendant 72 heures « pour vous répondre et assurer la sécurité de Gemini ».
+
+![Réglage Conserver l'activité](gemini-13-activite.png)
+
+</div>
 
 <div class="etape" markdown>
 
