@@ -2,14 +2,11 @@
 
 <span class="badge badge-hors-ue">Hors UE</span> <span class="badge badge-gratuit">Gratuit, crédits limités</span>
 
-<p class="maj">Dernière vérification : à compléter</p>
+<p class="maj">Dernière vérification : octobre 2026</p>
 
 **Gamma** crée en quelques secondes une présentation, une page web ou un document mis en page, à partir d'une simple demande, d'un plan ou d'un texte existant. Chaque diapositive, appelée **carte**, se modifie ensuite librement : texte, images, mise en page, thème graphique. Le résultat se présente directement dans le navigateur, se partage par un lien ou s'exporte.
 
 [Ouvrir Gamma](https://gamma.app){ .md-button .md-button--primary }
-
-!!! info "Fiche en cours de rédaction"
-    Le tutoriel complet sera bientôt disponible.
 
 ## À quoi ça sert dans le supérieur
 
@@ -21,7 +18,7 @@
 
 ## Version gratuite
 
-Le compte gratuit donne **400 crédits à l'inscription**. Chaque action d'IA (générer une présentation, réécrire une carte, créer une image) consomme des crédits, et **ces crédits ne se renouvellent pas** : une fois épuisés, il faut en gagner en parrainant d'autres personnes ou passer à un abonnement payant. La version gratuite génère **jusqu'à 10 cartes** par demande (vous pouvez en ajouter d'autres à la main), et les fichiers exportés portent la mention « Made with Gamma ». À titre d'exemple, l'import d'un cours de 4 pages a consommé 32 crédits. Les abonnements payants (Plus, Pro) donnent davantage de crédits, des présentations plus longues et retirent la mention « Made with Gamma ».
+Le compte gratuit donne **400 crédits à l'inscription**. Chaque action d'IA (générer une présentation, réécrire une carte, créer une image) consomme des crédits, et **ces crédits ne se renouvellent pas** : une fois épuisés, il faut en gagner en parrainant d'autres personnes ou passer à un abonnement payant. La version gratuite génère **jusqu'à 10 cartes** par demande (vous pouvez en ajouter d'autres à la main), et les fichiers exportés portent la mention « Conçu avec Gamma ». À titre d'exemple, l'import d'un cours de 4 pages a consommé 32 crédits. Les abonnements payants (Plus, Pro) donnent davantage de crédits, des présentations plus longues et retirent la mention « Conçu avec Gamma ».
 
 !!! warning "Économisez vos crédits"
     Préparez votre plan avant de lancer la génération, et retouchez les cartes à la main plutôt que de tout régénérer : avec 400 crédits qui ne se renouvellent pas, chaque génération compte.
@@ -166,7 +163,7 @@ Pour une première fois, cliquez sur **Générer**.
 ### <span class="etape-num">4</span> Choisir le format et les réglages
 
 1. Sous « Qu'aimeriez-vous créer aujourd'hui ? », choisissez le format : **Présentation**, **Page Web**, **Document**, **Réseaux sociaux** ou **Graphique**.
-2. Réglez les options juste en dessous : le **nombre de diapositives** (par exemple **5 diapositives**), le style et la **langue** (**Français**).
+2. Réglez les options juste en dessous : le **nombre de diapositives** (par exemple **5 diapositives**), le **type de format** de la présentation (les deux menus **Classique**) et la **langue** (**Français**).
 3. Écrivez votre demande dans la grande zone de texte. Précisez le sujet, le public, le niveau et le plan souhaité, comme dans les exemples des cas d'usage.
 
 Commencez par un petit nombre de diapositives : vous économiserez vos crédits et pourrez en ajouter ensuite.
@@ -282,7 +279,15 @@ En haut à droite de l'éditeur, cliquez sur **Présenter** : la présentation s
 1. Cliquez sur **Partager**, en haut de l'éditeur. La fenêtre de partage s'ouvre sur l'onglet **Partage**.
 2. Réglez l'accès : **Toute personne disposant du lien** peut **Voir** la présentation. La protection par **Mot de passe** est réservée à l'abonnement **PRO**.
 3. Cliquez sur **Copier le lien de partage** pour transmettre la présentation à vos étudiants, par exemple sur Moodle.
-4. Pour obtenir un fichier, cliquez sur **Exporter**, dans la colonne de gauche. Les fichiers exportés depuis la version gratuite portent la mention « Made with Gamma ».
+4. Pour obtenir un fichier, cliquez sur **Exporter**, dans la colonne de gauche. Sous **Format d'exportation**, choisissez :
+    - **Exporter au format PDF** ;
+    - **Exporter au format PowerPoint** : le fichier est préparé en quelques instants, et vous pouvez fermer la fenêtre pendant ce temps ;
+    - **Exporter vers Google Slides** ;
+    - **Exporter au format PNG** (une image par carte).
+
+    ![Formats d'exportation](gamma-11-exporter.png)
+
+Tous ces exports fonctionnent avec le compte gratuit, mais les fichiers portent la mention « Conçu avec Gamma » : l'option **Masquer le logo « Conçu avec Gamma »** est réservée à l'abonnement **PLUS**. Gamma prévient aussi que « des décalages de mise en page peuvent survenir après l'exportation vers PowerPoint et Google Slides » : vérifiez votre fichier avant de l'utiliser en cours.
 
 ![Fenêtre de partage](gamma-11-partager.png)
 
