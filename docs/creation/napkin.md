@@ -21,7 +21,7 @@
 
 ## Version gratuite
 
-Le compte gratuit donne **500 crédits d'IA par semaine**, renouvelés chaque semaine. La génération coûte environ **un crédit par mot sélectionné** : un paragraphe de 100 mots consomme donc une centaine de crédits. La modification des visuels est illimitée, ainsi que l'import de fichiers (PowerPoint, Word, PDF, HTML, Markdown) et l'export aux formats **PNG** et **PDF**. L'export aux formats **PowerPoint** et **SVG** (image modifiable), ainsi que les crédits supplémentaires, sont réservés aux abonnements payants (Plus, Pro).
+Le compte gratuit donne **500 crédits d'IA par semaine**, renouvelés chaque semaine. La génération coûte environ **un crédit par mot sélectionné** : un paragraphe de 100 mots consomme donc une centaine de crédits. La modification des visuels est illimitée, ainsi que l'import de fichiers (PowerPoint, Word, PDF, HTML, Markdown) et l'export aux formats **PNG** et **PDF**. Les exports aux formats **PowerPoint**, **Google Slides** et **SVG** (image modifiable) sont limités, et le retrait du logo de Napkin ainsi que les crédits supplémentaires sont réservés aux abonnements payants (Plus, Pro).
 
 !!! tip "Sélectionnez court"
     Ne sélectionnez que le passage à illustrer, pas tout le document : vous obtiendrez un schéma plus lisible et vous économiserez vos crédits.
@@ -197,8 +197,17 @@ Vérifiez le visuel avant de l'utiliser : Napkin peut regrouper, résumer ou ré
 ### <span class="etape-num">8</span> Exporter le visuel
 
 1. Sélectionnez le visuel, puis cliquez sur la première icône de la colonne de droite (au survol : **Exporter le visuel**).
-2. Choisissez le format. Avec le compte gratuit, les formats **PNG** (image) et **PDF** sont disponibles sans limite. Les formats **PowerPoint** et **SVG** sont réservés aux abonnements payants.
-3. Insérez ensuite l'image dans votre support de cours (PowerPoint, Word, Moodle).
+2. La fenêtre **Exporter le visuel** propose cinq formats :
+    - **PNG** : « Image pixellisée. À utiliser dans les e-mails, documents ou sur le web » ;
+    - **SVG** : « Image vectorielle. Modifiable et redimensionnable » ;
+    - **PDF** : « Pour l'impression, l'archivage ou le partage universel » ;
+    - **PowerPoint** : « Diapositive PowerPoint modifiable et animable » ;
+    - **Google Slides** : « Fichier Google Slides modifiable, ajouté à votre Google Drive ».
+3. Cochez le format voulu, puis cliquez sur **Exporter**. Pour un support de cours, **PNG** (à insérer dans vos diapositives) ou **PowerPoint** (pour retoucher le visuel) sont les plus pratiques.
+
+    ![Fenêtre Exporter le visuel](napkin-08-formats.png)
+
+**PNG** et **PDF** sont disponibles sans limite avec le compte gratuit. **SVG**, **PowerPoint** et **Google Slides** sont marqués d'un petit chiffre (**3**) : leur usage est limité avec le compte gratuit. Le visuel exporté porte le logo de Napkin : le réglage **Napkin Logo** sur **Désactivé** est une « fonctionnalité premium », réservée aux abonnements payants.
 
 Pour exporter tout le document, utilisez le bouton **Exporter**, en haut à droite de l'éditeur.
 
