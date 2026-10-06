@@ -14,13 +14,13 @@
 ## À quoi ça sert dans le supérieur
 
 - **Produire rapidement un premier support de cours** à partir de votre plan, à retravailler ensuite.
-- **Transformer un document existant** (notes, polycopié, compte rendu) en présentation.
+- **Rédiger une fiche de synthèse mise en page** pour vos étudiants (format document).
 - **Proposer un modèle de soutenance** à vos étudiants, avec la structure attendue.
 - **Créer une page web de présentation** d'un module, d'un projet ou d'une option.
 
 ## Version gratuite
 
-Le compte gratuit donne **400 crédits à l'inscription**. Chaque action d'IA (générer une présentation, réécrire une carte, créer une image) consomme des crédits, et **ces crédits ne se renouvellent pas** : une fois épuisés, il faut en gagner en parrainant d'autres personnes ou passer à un abonnement payant. La version gratuite génère **jusqu'à 10 cartes** par demande (vous pouvez en ajouter d'autres à la main), et les fichiers exportés portent la mention « Made with Gamma ». Les abonnements payants (Plus, Pro) donnent davantage de crédits, des présentations plus longues et retirent cette mention.
+Le compte gratuit donne **400 crédits à l'inscription**. Chaque action d'IA (générer une présentation, réécrire une carte, créer une image) consomme des crédits, et **ces crédits ne se renouvellent pas** : une fois épuisés, il faut en gagner en parrainant d'autres personnes ou passer à un abonnement payant. La version gratuite génère **jusqu'à 10 cartes** par demande (vous pouvez en ajouter d'autres à la main), et les fichiers exportés portent la mention « Made with Gamma ». **L'import d'un fichier** (par exemple un cours en PDF ou en Word) pour le transformer en présentation est **réservé aux abonnements payants** : avec le compte gratuit, partez d'une demande ou de votre plan. Les abonnements payants (Plus, Pro) donnent davantage de crédits, des présentations plus longues et retirent cette mention.
 
 !!! warning "Économisez vos crédits"
     Préparez votre plan avant de lancer la génération, et retouchez les cartes à la main plutôt que de tout régénérer : avec 400 crédits qui ne se renouvellent pas, chaque génération compte.
@@ -42,18 +42,19 @@ Le compte gratuit donne **400 crédits à l'inscription**. Chaque action d'IA (g
     idée par carte, phrases courtes.
     ```
 
-=== "Transformer un document"
+=== "Fiche de synthèse"
 
-    **Exemple** : le compte rendu d'un projet de génie civil, à présenter en réunion pédagogique.
+    **Exemple** : la synthèse d'une séance de TD de thermodynamique, pour les étudiants absents ou pour la révision.
 
-    Choisissez l'option qui permet de **coller un texte** ou d'**importer un fichier**, puis indiquez :
+    Choisissez le format **document**, puis demandez :
 
     ```
-    Transforme ce compte rendu en présentation de 8 cartes
-    pour une réunion pédagogique : contexte, objectifs,
-    déroulement, résultats obtenus par les étudiants,
-    difficultés rencontrées et pistes d'amélioration.
-    Conserve les chiffres exacts du document.
+    Fiche de synthèse d'une séance de TD de thermodynamique
+    pour des élèves ingénieurs de 1re année, sur le premier
+    principe appliqué aux systèmes fermés : rappel des
+    notions clés, méthode de résolution en 5 étapes, une
+    erreur fréquente à éviter et deux exercices
+    d'entraînement sans corrigé.
     ```
 
 === "Modèle de soutenance"
@@ -101,10 +102,9 @@ Le compte gratuit donne **400 crédits à l'inscription**. Chaque action d'IA (g
  6. Choisir un thème graphique
  7. Générer et découvrir le résultat
  8. Modifier une carte (texte, image, mise en page)
- 9. Créer à partir d'un texte ou d'un fichier existant
-10. Présenter
-11. Partager et exporter
-12. Suivre ses crédits
+ 9. Présenter
+10. Partager et exporter
+11. Suivre ses crédits
 -->
 
 ## Ressources officielles
