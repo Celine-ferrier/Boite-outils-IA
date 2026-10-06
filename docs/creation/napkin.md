@@ -123,7 +123,16 @@ Cliquez sur **Non merci**. Vous pourrez modifier ce choix à tout moment dans le
     - **Présentations** (fonction en test, marquée **BETA**) : « Créer une présentation complète ».
 3. Cliquez sur **Visuels**.
 
-![Page Que voulez-vous créer aujourd'hui ?](napkin-03-creer.png)
+    ![Page Que voulez-vous créer aujourd'hui ?](napkin-03-creer.png)
+
+4. La page **Comment souhaitez-vous créer un visuel ?** propose quatre départs :
+    - **En collant mon texte** : « Créez à partir de notes, d'un plan ou d'un contenu existant » ;
+    - **En décrivant mon idée** : « Décrivez le visuel et le contenu textuel que vous avez en tête » ;
+    - **En important un fichier** : partir d'un document, d'une présentation ou d'une publication existante ;
+    - **Napkin vierge** : « Rédigez votre texte et visualisez-le à partir de zéro ».
+5. Pour commencer, cliquez sur **En collant mon texte** et collez votre texte, par exemple celui d'un des cas d'usage ci-dessus.
+
+![Page Comment souhaitez-vous créer un visuel ?](napkin-03-methode.png)
 
 </div>
 
@@ -142,15 +151,65 @@ Un Napkin se présente comme une page de texte, dans laquelle vous insérez des 
 
 </div>
 
+<div class="etape" markdown>
+
+### <span class="etape-num">5</span> Générer des visuels à partir d'un passage
+
+1. Cliquez dans le paragraphe à illustrer, ou sélectionnez le passage avec la souris. Un trait bleu, à gauche du texte, montre la partie prise en compte.
+2. Cliquez sur le rond bleu en forme d'**éclair**, à gauche du texte (au survol : **Générer des visuels**).
+
+Seul le passage sélectionné est utilisé, et il consomme des crédits : sélectionnez un passage court et structuré plutôt que tout le document.
+
+![Bouton Générer des visuels](napkin-05-generer.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">6</span> Choisir un visuel
+
+Le panneau **Suggestions IA** s'ouvre à gauche.
+
+1. En haut, Napkin propose quatre visuels construits à partir de votre texte. Cliquez sur **Plus** pour en voir d'autres.
+2. Si aucune proposition ne convient, cherchez une forme dans **Categories** : **Mindmap** (carte mentale), **Process** (étapes), **Data** (données), **Timelines** (frises chronologiques), **Comparison** (comparaisons) ou **Business Frameworks**. Le champ de recherche accepte un mot-clé, par exemple « Mindmap ».
+3. Cliquez sur un visuel : il s'insère dans votre document, sous le texte.
+
+![Panneau Suggestions IA](napkin-06-suggestions.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">7</span> Modifier le visuel
+
+Cliquez sur le visuel pour le sélectionner : un cadre bleu l'entoure, et une **colonne d'icônes** apparaît à sa droite. Elle permet notamment de changer les **couleurs** (palette), la **police**, le **texte** (T), de **dessiner** (crayon), d'ajouter des **éléments**, de **déplacer** le visuel ou d'en essayer une autre forme.
+
+Vous pouvez aussi cliquer directement sur un texte du visuel pour le corriger. Le message **Enregistré**, en bas à droite, confirme que vos modifications sont conservées, et **Annuler**, en haut, revient en arrière.
+
+Vérifiez le visuel avant de l'utiliser : Napkin peut regrouper, résumer ou réordonner votre texte.
+
+![Visuel sélectionné, avec la colonne d'icônes](napkin-07-modifier.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">8</span> Exporter le visuel
+
+1. Sélectionnez le visuel, puis cliquez sur la première icône de la colonne de droite (au survol : **Exporter le visuel**).
+2. Choisissez le format. Avec le compte gratuit, les formats **PNG** (image) et **PDF** sont disponibles sans limite. Les formats **PowerPoint** et **SVG** sont réservés aux abonnements payants.
+3. Insérez ensuite l'image dans votre support de cours (PowerPoint, Word, Moodle).
+
+Pour exporter tout le document, utilisez le bouton **Exporter**, en haut à droite de l'éditeur.
+
+![Bouton Exporter le visuel](napkin-08-exporter.png)
+
+</div>
+
 <!--
 Étapes restant à rédiger à partir des captures (plan provisoire) :
- 5. Sélectionner un passage et générer un visuel (bouton éclair)
- 6. Choisir parmi les visuels proposés
- 7. Modifier le visuel (textes, couleurs, icônes, style)
- 8. Importer un document existant
- 9. Exporter le visuel (PNG, PDF)
-10. Partager le document
-11. Suivre ses crédits
+ 9. Partager le document
+10. Suivre ses crédits
 -->
 
 ## Ressources officielles
