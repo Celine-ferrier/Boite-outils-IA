@@ -87,18 +87,70 @@ Le compte gratuit donne **500 crédits d'IA par semaine**, renouvelés chaque se
 :material-magnify-plus-outline: Cliquez sur une capture pour l'agrandir.
 { .astuce-zoom }
 
+<div class="etape" markdown>
+
+### <span class="etape-num">1</span> Créer un compte
+
+1. Rendez-vous sur [napkin.ai](https://www.napkin.ai). Si un bandeau **Nous utilisons des cookies** s'affiche, cliquez sur **Tout refuser**. En haut à droite, cliquez sur **Obtenir Napkin gratuitement** (ou sur **Se connecter** si vous avez déjà un compte).
+
+    ![Page d'accueil du site de Napkin](napkin-01-site.png)
+
+2. Sur la page **Bienvenue !**, cliquez sur **S'inscrire**, puis sur **Se connecter avec un e-mail** et saisissez votre **adresse e-mail de l'école** (@mines-ales.fr). N'utilisez pas **Se connecter avec Google**, qui relie Napkin à un compte personnel.
+
+![Page de connexion de Napkin](napkin-01-connexion.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">2</span> Refuser l'utilisation de vos visuels pour entraîner l'IA
+
+À la première utilisation, Napkin affiche la fenêtre **Aidez-nous à améliorer Napkin ?**. Elle demande l'autorisation d'« apprendre des visuels que vous créez, y compris ceux que vous avez déjà réalisés ».
+
+Cliquez sur **Non merci**. Vous pourrez modifier ce choix à tout moment dans les **Paramètres** (la **roue dentée**, en haut à droite de l'éditeur).
+
+![Fenêtre Aidez-nous à améliorer Napkin ?](napkin-02-entrainement.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">3</span> Créer un nouveau Napkin
+
+1. En haut à gauche, cliquez sur **Nouveau Napkin**.
+2. La page **Que voulez-vous créer aujourd'hui ?** propose deux choix :
+    - **Visuels** : « Transformez n'importe quel texte en visuel » ;
+    - **Présentations** (fonction en test, marquée **BETA**) : « Créer une présentation complète ».
+3. Cliquez sur **Visuels**.
+
+![Page Que voulez-vous créer aujourd'hui ?](napkin-03-creer.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">4</span> Découvrir l'éditeur
+
+Un Napkin se présente comme une page de texte, dans laquelle vous insérez des visuels.
+
+- **En haut à gauche** : **Bibliothèque** pour retrouver tous vos documents, et **Nouveau Napkin** pour en créer un autre.
+- **Dans la colonne de gauche** : les onglets **Mes Napkins** et **Récents** listent vos documents. La **loupe** permet d'y chercher, et les **doubles chevrons** masquent la colonne.
+- **En haut à droite** : **Exporter**, **Partager**, **Brand Studio** (pour enregistrer vos couleurs et vos polices) et la **roue dentée** des paramètres.
+- **Au centre** : votre texte. Lorsque vous cliquez dans un paragraphe, une petite **barre d'outils** apparaît à côté. Son premier bouton, en forme d'**éclair**, génère un visuel à partir du texte (étape suivante).
+
+![Éditeur de Napkin](napkin-04-editeur.png)
+
+</div>
+
 <!--
-Étapes à rédiger à partir des captures (plan provisoire) :
- 1. Créer un compte
- 2. Découvrir l'accueil et créer un nouveau document (Napkin)
- 3. Écrire ou coller son texte
- 4. Sélectionner un passage et générer un visuel
- 5. Choisir parmi les visuels proposés
- 6. Modifier le visuel (textes, couleurs, icônes, style)
- 7. Importer un document existant
- 8. Exporter le visuel (PNG, PDF)
- 9. Partager le document
-10. Suivre ses crédits
+Étapes restant à rédiger à partir des captures (plan provisoire) :
+ 5. Sélectionner un passage et générer un visuel (bouton éclair)
+ 6. Choisir parmi les visuels proposés
+ 7. Modifier le visuel (textes, couleurs, icônes, style)
+ 8. Importer un document existant
+ 9. Exporter le visuel (PNG, PDF)
+10. Partager le document
+11. Suivre ses crédits
 -->
 
 ## Ressources officielles
