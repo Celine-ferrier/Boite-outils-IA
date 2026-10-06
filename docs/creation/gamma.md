@@ -47,7 +47,7 @@ Le compte gratuit donne **400 crédits à l'inscription**. Chaque action d'IA (g
 
     **Exemple** : le guide d'un projet de 1re année, à présenter aux étudiants lors de la séance de lancement.
 
-    Cliquez sur **Importer**, puis choisissez votre fichier (voir l'étape 8 du pas à pas). Avant de générer, indiquez dans **Écrire pour…** et **Tonalité** :
+    Cliquez sur **Importer**, puis choisissez votre fichier (voir l'étape 9 du pas à pas). Avant de générer, indiquez dans **Écrire pour…** et **Tonalité** :
 
     ```
     Écrire pour : étudiants de 1re année réalisant un projet de
@@ -136,6 +136,10 @@ Les boutons **Passez à la version supérieure** et **Essayer Gamma 5** concerne
 
 ![Barre du haut de la page Gammas](gamma-02-accueil.png)
 
+La flèche à droite de **Nouveau gamma** ouvre le menu **Nouveau document vierge** : **Présentation**, **Document**, **Réseaux sociaux**, **Page Web** ou **Graphique**. Ces documents vierges se remplissent à la main, sans consommer de crédits.
+
+![Menu Nouveau document vierge](gamma-02-nouveau.png)
+
 </div>
 
 <div class="etape" markdown>
@@ -199,7 +203,7 @@ Après quelques secondes, la présentation s'ouvre dans l'éditeur.
 
 - **À gauche**, les **miniatures** de toutes les cartes : cliquez sur une miniature pour y accéder, faites-la glisser pour changer l'ordre, ou cliquez sur **Nouveau** pour ajouter une carte.
 - **Au centre**, les cartes s'affichent les unes sous les autres, avec leurs textes et leurs illustrations.
-- **En haut**, les boutons **Thème**, **Partager** et **Présenter** (voir les étapes 9 et 10).
+- **En haut**, les boutons **Thème**, **Partager** et **Présenter** (voir les étapes 8, 10 et 11).
 - **À droite**, une colonne d'icônes permet d'insérer du texte, des images, des graphiques ou des tableaux.
 
 ![Éditeur de Gamma avec les miniatures des cartes](gamma-06-resultat.png)
@@ -222,40 +226,65 @@ Retouchez le texte à la main plutôt que de demander une nouvelle génération 
 
 <div class="etape" markdown>
 
-### <span class="etape-num">8</span> Importer un document existant
+### <span class="etape-num">8</span> Changer le thème
+
+Le thème fixe les couleurs, les polices et l'arrière-plan de toutes les cartes à la fois.
+
+1. En haut de l'éditeur, cliquez sur **Thème** (au survol : « Modifier le thème »). Le panneau **Thème** s'ouvre à droite.
+2. Filtrez les thèmes avec les étiquettes **Sombre**, **Clair**, **Professionnel** ou **Coloré**, puis cliquez sur un thème, par exemple **Basic Light** : une coche indique le thème appliqué, et toute la présentation change aussitôt.
+3. Pour ne changer que le fond des cartes, cliquez sur **Modifier l'arrière-plan**, en bas du panneau.
+
+Pour un cours, préférez un thème clair et sobre : il reste lisible en vidéoprojection et à l'impression.
+
+![Panneau Thème](gamma-08-theme.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">9</span> Importer un document existant
 
 Gamma peut aussi partir d'un document que vous avez déjà : un guide de projet, un polycopié, un compte rendu.
 
-1. Sur la page **Gammas**, cliquez sur **Importer**, puis choisissez votre fichier.
-2. La fenêtre **Importer un fichier** affiche « Envoi du fichier en cours… ». L'opération peut durer une ou deux minutes pour un fichier volumineux.
-3. Réglez ensuite le contenu comme à l'étape 5, puis cliquez sur **Générer**.
+1. Sur la page **Gammas**, cliquez sur **Importer**. La fenêtre **Importer un fichier** propose trois possibilités :
+    - **Télécharger un fichier** : un document **Word** ou un **PDF** de votre ordinateur (cliquez sur **Parcourir les fichiers**) ;
+    - **Importer à partir de Drive** : un **Google Docs** ;
+    - **Importer depuis une URL** : une page web, un article ou un document Notion public.
+
+    ![Fenêtre Importer un fichier](gamma-09-importer.png)
+
+2. Choisissez votre fichier. La fenêtre affiche « Envoi du fichier en cours… » : l'opération peut durer une ou deux minutes pour un fichier volumineux.
+
+    ![Envoi du fichier en cours](gamma-09-envoi.png)
+
+3. Gamma transforme le document en cartes, qui reprennent ses titres et ses paragraphes. Vous pouvez ensuite les modifier comme à l'étape 7 et choisir un thème comme à l'étape 8.
 
 L'import consomme des crédits : à titre d'exemple, un cours de 4 pages en a consommé 32. Retirez toute donnée personnelle du document avant de l'importer.
 
-![Fenêtre Importer un fichier](gamma-08-importer.png)
+![Cours importé et transformé en cartes](gamma-09-resultat.png)
 
 </div>
 
 <div class="etape" markdown>
 
-### <span class="etape-num">9</span> Présenter
+### <span class="etape-num">10</span> Présenter
 
 En haut à droite de l'éditeur, cliquez sur **Présenter** : la présentation s'affiche en plein écran, carte par carte. Utilisez les flèches du clavier pour avancer, et la touche **Échap** pour revenir à l'éditeur.
 
-![Bouton Présenter](gamma-09-presenter.png)
+![Bouton Présenter](gamma-10-presenter.png)
 
 </div>
 
 <div class="etape" markdown>
 
-### <span class="etape-num">10</span> Partager et exporter
+### <span class="etape-num">11</span> Partager et exporter
 
 1. Cliquez sur **Partager**, en haut de l'éditeur. La fenêtre de partage s'ouvre sur l'onglet **Partage**.
 2. Réglez l'accès : **Toute personne disposant du lien** peut **Voir** la présentation. La protection par **Mot de passe** est réservée à l'abonnement **PRO**.
 3. Cliquez sur **Copier le lien de partage** pour transmettre la présentation à vos étudiants, par exemple sur Moodle.
 4. Pour obtenir un fichier, cliquez sur **Exporter**, dans la colonne de gauche. Les fichiers exportés depuis la version gratuite portent la mention « Made with Gamma ».
 
-![Fenêtre de partage](gamma-10-partager.png)
+![Fenêtre de partage](gamma-11-partager.png)
 
 </div>
 
