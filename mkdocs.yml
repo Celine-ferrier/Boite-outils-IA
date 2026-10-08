@@ -81,7 +81,6 @@ nav:
       - ResearchRabbit: recherche/researchrabbit.md
   - Traduction:
       - traduction/index.md
-      - eTranslation: traduction/etranslation.md
       - Traduire avec un assistant IA: traduction/assistant-ia.md
       - Sous-titres en direct PowerPoint: traduction/sous-titres-powerpoint.md
   - Bonnes pratiques: bonnes-pratiques.md
