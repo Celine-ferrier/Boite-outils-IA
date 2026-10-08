@@ -148,15 +148,63 @@ Pour vos vidéos, rien ne vous oblige à utiliser cet avatar ni cette voix : pr�
 
 </div>
 
+<div class="etape" markdown>
+
+### <span class="etape-num">5</span> Découvrir les applications
+
+La colonne de gauche donne accès aux grandes rubriques : **Accueil**, **Avatar** (vos avatars et vos voix), **Marque**, **Applications** et **Projets** (vos vidéos).
+
+Cliquez sur **Applications** : la **Bibliothèque d'applications** présente tous les outils de HeyGen, par exemple :
+
+| Application | À quoi elle sert |
+|---|---|
+| **AI Studio** | « Créez et produisez des vidéos d'avatar professionnelles » à partir de votre script |
+| **Agent vidéo** | « Décrivez votre vidéo et laissez un agent IA la scénariser et la créer » |
+| **PPT/PDF vers vidéo** | « Transformez des documents en vidéos attrayantes avec avatar » (étape suivante) |
+| **Traduire des vidéos** | « Convertir n'importe quelle vidéo en plus de 175 langues » |
+| **Podcast vidéo** | Générer une vidéo de podcast avec plusieurs avatars |
+
+![Bibliothèque d'applications](heygen-05-applications.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">6</span> Transformer une présentation en vidéo
+
+L'application **PPT/PDF vers vidéo** part d'un support de cours existant : chaque diapositive devient un plan de la vidéo, commenté par un avatar.
+
+1. Dans la **Bibliothèque d'applications**, cliquez sur **PPT/PDF vers vidéo**.
+2. Cliquez sur **Upload a Presentation** (téléverser une présentation) : un fichier PowerPoint donne des diapositives modifiables, un PDF des diapositives fixes, jusqu'à 50 Mo. L'option **Generate a Presentation** crée au contraire une présentation à partir d'une simple demande.
+3. Choisissez le fichier sur votre ordinateur.
+
+Retirez de votre présentation toute donnée personnelle et toute information confidentielle avant de la téléverser.
+
+![Application PPT/PDF vers vidéo](heygen-06-ppt.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">7</span> Choisir l'avatar et le script, puis créer la vidéo
+
+Votre fichier apparaît à droite (le bouton **Remplacer le fichier** permet d'en changer). Réglez la vidéo dans la colonne de gauche :
+
+1. **Avatar** : cliquez sur **+** pour choisir un avatar. Préférez un avatar prêt à l'emploi plutôt que votre propre avatar.
+2. **Options du script** : choisissez **Utiliser les notes du présentateur comme script** si vous avez rédigé le commentaire dans les notes de vos diapositives. C'est la meilleure solution : l'avatar dira exactement votre texte. Sinon, **Générer un script automatiquement** rédige le commentaire à partir des diapositives ; précisez alors :
+    - l'**Objectif du script**, par exemple « présenter le déroulement du module aux étudiants » ;
+    - la **Longueur du script** : **Court**, **Standard**, **Détaillé** ou **Long format**. Avec la version gratuite, limitée à une minute, choisissez **Court** ;
+    - l'**Audience** (par exemple « élèves ingénieurs de 1re année »), le **Ton** (par exemple « pédagogique ») et la **Langue** (**Français**).
+3. Cliquez sur **Create Video** (créer la vidéo).
+
+![Réglages de la vidéo](heygen-07-reglages.png)
+
+</div>
+
 <!--
 Étapes restant à rédiger à partir des captures (plan provisoire) :
- 5. Découvrir l'accueil
- 6. Créer une vidéo et choisir un avatar prêt à l'emploi
- 7. Écrire ou coller le script
- 8. Choisir la voix et la langue
- 9. Prévisualiser et générer la vidéo
-10. Télécharger ou partager la vidéo
-11. Régler la confidentialité (utilisation des données pour l'entraînement)
+ 8. Relire le script et générer la vidéo
+ 9. Télécharger ou partager la vidéo
 -->
 
 ## Ressources officielles
