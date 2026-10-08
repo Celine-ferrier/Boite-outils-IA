@@ -9,7 +9,7 @@
 [Ouvrir HeyGen](https://www.heygen.com){ .md-button .md-button--primary }
 
 !!! warning "N'utilisez pas votre propre voix"
-    HeyGen propose de cloner votre voix, et ce clone est réalisé par un autre fournisseur, ElevenLabs. Votre voix est une donnée biométrique : **ne l'enregistrez pas**. Lors de la création de votre avatar, **ignorez l'étape de la voix**, puis choisissez une **voix de synthèse** prête à l'emploi dans la **Bibliothèque HeyGen**.
+    HeyGen propose de cloner votre voix, et ce clone est réalisé par un autre fournisseur, ElevenLabs. Votre voix est une donnée biométrique : **ne l'enregistrez pas**. Lors de la création de votre avatar, **fermez la page de la voix** avec la croix, puis donnez à votre avatar une **voix de synthèse** choisie dans la bibliothèque (voir l'étape 4).
 
 ## À quoi ça sert dans le supérieur
 
@@ -124,7 +124,7 @@ La page **Que souhaitez-vous promouvoir ou soutenir avec HeyGen ?** sert uniquem
 
 ### <span class="etape-num">4</span> Créer votre avatar
 
-À la première connexion, HeyGen **oblige à créer un avatar à votre image** avant d'ouvrir la page d'accueil. La page **Créons votre avatar** annonce trois étapes : **Apparence**, **Mouvement** et **Voix**. Seule la photo est obligatoire : le mouvement et la voix peuvent être ignorés. Votre visage et votre voix sont des **données biométriques** : lisez chaque écran attentivement.
+À la première connexion, HeyGen **oblige à créer un avatar à votre image** avant d'ouvrir la page d'accueil. La page **Créons votre avatar** annonce trois étapes : **Apparence**, **Mouvement** et **Voix**. Seule la photo est obligatoire : le mouvement peut être ignoré, et la page de la voix peut être fermée. Votre visage et votre voix sont des **données biométriques** : lisez chaque écran attentivement.
 
 ![Page Créons votre avatar](heygen-04-avatar.png)
 
@@ -140,16 +140,20 @@ La page **Que souhaitez-vous promouvoir ou soutenir avec HeyGen ?** sert uniquem
 
     ![Fenêtre Le mouvement paraîtra moins réaliste](heygen-04-continuer.png)
 
-3. HeyGen vous propose ensuite d'enregistrer votre voix pour la **cloner**, c'est-à-dire créer une voix de synthèse qui imite la vôtre. **Ignorez cette étape** : n'enregistrez pas votre voix. Vous choisirez une voix de synthèse prête à l'emploi au moment de créer votre vidéo (voir l'étape 9).
+3. La page **Enregistrer votre voix** s'affiche : « Environ 30 secondes de votre voix suffisent pour créer votre clone vocal ». **N'enregistrez pas votre voix** : ne cliquez ni sur **Enregistrer l'audio**, ni sur **Enregistrer sur votre téléphone**, ni sur **Téléverser un audio**. Cliquez sur la **croix**, en haut à droite de l'écran, pour fermer cette page.
+
+    ![Page Enregistrer votre voix, croix pour fermer](heygen-04-fermer-voix.png)
+
+4. Vous revenez sur la page de votre avatar. Cliquez sur l'onglet **Voix**, puis sur **Parcourir la bibliothèque** (et non sur **Clonez votre voix**). Choisissez une voix de synthèse dans la bibliothèque : écoutez-en plusieurs avant de vous décider.
+
+    ![Onglet Voix de l'avatar, bouton Parcourir la bibliothèque](heygen-04-voix-bibliotheque.png)
 
     !!! warning "Ne clonez pas votre voix"
-        Votre voix est une donnée biométrique, et le clone est réalisé par un deuxième fournisseur, ElevenLabs. Si vous avez déjà enregistré votre voix par erreur, l'écran **Cloner votre voix à partir de cet enregistrement ?** s'affiche : ne cliquez pas sur **Créer un clone de voix**.
-
-    ![Page Cloner votre voix à partir de cet enregistrement ?](heygen-04-voix.png)
+        Votre voix est une donnée biométrique, et le clone est réalisé par un deuxième fournisseur, ElevenLabs. Ne cliquez jamais sur **Clonez votre voix**.
 
 Si un clone de voix a été créé malgré tout, il apparaît dans **Avatar**, puis **Voix**, onglet **Mes voix**, avec la mention **Clone de voix** et la description « ElevenLabs ». Supprimez-le : cliquez sur le bouton **…**, à droite de la voix, puis sur **Supprimer**.
 
-Pour vos vidéos, rien ne vous oblige à utiliser cet avatar ni cette voix : préférez les **avatars** et les **voix prêts à l'emploi** de HeyGen (onglet **Bibliothèque HeyGen**).
+Pour vos vidéos, rien ne vous oblige à utiliser cet avatar à votre image : vous pouvez aussi choisir un **avatar prêt à l'emploi** de HeyGen.
 
 ![Onglet Mes voix](heygen-04-mes-voix.png)
 
