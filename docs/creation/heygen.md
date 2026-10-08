@@ -8,6 +8,9 @@
 
 [Ouvrir HeyGen](https://www.heygen.com){ .md-button .md-button--primary }
 
+!!! warning "N'utilisez pas votre propre voix"
+    HeyGen propose de cloner votre voix, et ce clone est réalisé par un autre fournisseur, ElevenLabs. Votre voix est une donnée biométrique : **ne l'enregistrez pas**. Lors de la création de votre avatar, **ignorez l'étape de la voix**, puis choisissez une **voix de synthèse** prête à l'emploi dans la **Bibliothèque HeyGen**.
+
 ## À quoi ça sert dans le supérieur
 
 - **Présenter un module ou une consigne** en vidéo courte, à déposer sur Moodle.
@@ -133,11 +136,14 @@ La page **Que souhaitez-vous promouvoir ou soutenir avec HeyGen ?** sert uniquem
 
     ![Page Apprenez-lui vos mouvements, lien Ignorer](heygen-04-mouvement.png)
 
-3. HeyGen vous propose ensuite d'enregistrer votre voix pour la **cloner**, c'est-à-dire créer une voix de synthèse qui imite la vôtre. Cette étape est elle aussi **facultative** : vous pouvez l'**ignorer**. Si vous enregistrez votre voix, l'écran **Cloner votre voix à partir de cet enregistrement ?** propose **Créer un clone de voix** ou **Réenregistrer**.
+3. HeyGen vous propose ensuite d'enregistrer votre voix pour la **cloner**, c'est-à-dire créer une voix de synthèse qui imite la vôtre. **Ignorez cette étape** : n'enregistrez pas votre voix. Vous choisirez une voix de synthèse prête à l'emploi au moment de créer votre vidéo (voir l'étape 9).
+
+    !!! warning "Ne clonez pas votre voix"
+        Votre voix est une donnée biométrique, et le clone est réalisé par un deuxième fournisseur, ElevenLabs. Si vous avez déjà enregistré votre voix par erreur, l'écran **Cloner votre voix à partir de cet enregistrement ?** s'affiche : ne cliquez pas sur **Créer un clone de voix**.
 
     ![Page Cloner votre voix à partir de cet enregistrement ?](heygen-04-voix.png)
 
-Votre voix clonée apparaît ensuite dans **Avatar**, puis **Voix**, onglet **Mes voix**, avec la mention **Clone de voix**. Elle est produite par **ElevenLabs**, un autre fournisseur d'IA vocale, comme l'indique sa description. Si vous ne vous en servez pas, supprimez-la : cliquez sur le bouton **…**, à droite de la voix, puis sur **Supprimer**.
+Si un clone de voix a été créé malgré tout, il apparaît dans **Avatar**, puis **Voix**, onglet **Mes voix**, avec la mention **Clone de voix** et la description « ElevenLabs ». Supprimez-le : cliquez sur le bouton **…**, à droite de la voix, puis sur **Supprimer**.
 
 Pour vos vidéos, rien ne vous oblige à utiliser cet avatar ni cette voix : préférez les **avatars** et les **voix prêts à l'emploi** de HeyGen (onglet **Bibliothèque HeyGen**).
 
@@ -227,7 +233,7 @@ Surveillez la durée estimée, sous l'aperçu : avec la version gratuite, la vid
 ### <span class="etape-num">9</span> Choisir la voix
 
 1. Dans la colonne de droite, cliquez sur **Avatar**, puis sur la voix. Le panneau **Modifier La Voix** s'ouvre.
-2. Cliquez sur le bouton **lecture** pour écouter la voix actuelle (ici **Lisa**), puis sur **Basculer** pour en choisir une autre parmi les voix prêtes à l'emploi.
+2. Cliquez sur le bouton **lecture** pour écouter la voix actuelle (ici **Lisa**, une voix de synthèse), puis sur **Basculer** pour en choisir une autre parmi les voix prêtes à l'emploi. N'utilisez pas de clone de votre propre voix.
 3. Sous **Paramètres**, réglez la **Vitesse** et le **Volume**, puis choisissez la **Langue** et l'**Accent**.
 
 Écoutez le résultat sur une scène qui contient des termes techniques, des sigles ou des unités : leur prononciation est parfois fautive.
