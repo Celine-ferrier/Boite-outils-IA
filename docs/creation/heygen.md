@@ -201,10 +201,55 @@ Votre fichier apparaît à droite (le bouton **Remplacer le fichier** permet d'e
 
 </div>
 
+<div class="etape" markdown>
+
+### <span class="etape-num">8</span> Relire et modifier le script
+
+Après **Create Video**, la vidéo s'ouvre dans l'éditeur, sous forme de **scènes** : une scène par diapositive. Le **Script** est à gauche, l'aperçu au centre, les scènes en bas, et les outils (**Avatar**, **Marque**, **Outils IA**, **Médias**, **Sous-titres**…) dans la colonne de droite.
+
+1. Relisez le script scène par scène : chaque paragraphe numéroté correspond à une scène, et c'est le texte que l'avatar dira.
+2. Pour corriger un paragraphe, **cliquez deux fois** dessus, puis modifiez le texte.
+3. Une scène marquée **Aucun script** n'a pas de commentaire : cliquez dans la ligne **Saisissez votre script**, puis écrivez votre texte. Le bouton **Rédacteur de script** propose un texte, et **Téléverser de l'audio** permet d'utiliser votre propre enregistrement.
+
+    ![Panneau Script](heygen-08-script.png)
+
+    ![Scène marquée Aucun script](heygen-08-scenes.png)
+
+4. Le menu en forme de **trois traits**, en haut à gauche, propose aussi **Téléverser le script**, **Télécharger le script** et **Traduire le script** (fonction en test, marquée **Bêta**).
+
+Surveillez la durée estimée, sous l'aperçu : avec la version gratuite, la vidéo ne doit pas dépasser une minute. Raccourcissez le script ou supprimez des scènes si besoin.
+
+![Menu de l'éditeur](heygen-08-menu.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">9</span> Choisir la voix
+
+1. Dans la colonne de droite, cliquez sur **Avatar**, puis sur la voix. Le panneau **Modifier La Voix** s'ouvre.
+2. Cliquez sur le bouton **lecture** pour écouter la voix actuelle (ici **Lisa**), puis sur **Basculer** pour en choisir une autre parmi les voix prêtes à l'emploi.
+3. Sous **Paramètres**, réglez la **Vitesse** et le **Volume**, puis choisissez la **Langue** et l'**Accent**.
+
+Écoutez le résultat sur une scène qui contient des termes techniques, des sigles ou des unités : leur prononciation est parfois fautive.
+
+![Panneau Modifier La Voix](heygen-09-voix.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">10</span> Générer la vidéo
+
+Lorsque le script et la voix vous conviennent, cliquez sur **Générer**, en haut à droite de l'éditeur. La génération prend quelques minutes, et chaque vidéo générée compte dans les 3 vidéos gratuites du mois.
+
+![Bouton Générer](heygen-10-generer.png)
+
+</div>
+
 <!--
-Étapes restant à rédiger à partir des captures (plan provisoire) :
- 8. Relire le script et générer la vidéo
- 9. Télécharger ou partager la vidéo
+Étape restant à rédiger à partir des captures :
+11. Télécharger ou partager la vidéo
 -->
 
 ## Ressources officielles
