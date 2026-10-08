@@ -80,17 +80,67 @@ Le compte gratuit permet de créer **jusqu'à 3 vidéos par mois**, d'**une minu
 :material-magnify-plus-outline: Cliquez sur une capture pour l'agrandir.
 { .astuce-zoom }
 
+<div class="etape" markdown>
+
+### <span class="etape-num">1</span> Créer un compte
+
+1. Rendez-vous sur [heygen.com](https://www.heygen.com). Si le bandeau **Gérer les cookies** s'affiche, cliquez sur **Refuser les Cookies**. Cliquez ensuite sur **Commencez gratuitement** (ou sur **Se connecter** si vous avez déjà un compte).
+
+    ![Page d'accueil du site de HeyGen](heygen-01-site.png)
+
+2. Sur la page de connexion, cliquez sur **Utiliser l'e-mail** et saisissez votre **adresse e-mail de l'école** (@mines-ales.fr). N'utilisez pas **Se connecter avec Google** ni **Se connecter avec Apple**, qui relient HeyGen à un compte personnel.
+
+HeyGen indique en anglais qu'une inscription avec une adresse professionnelle donne droit à deux fois plus de vidéos gratuites (« Sign up with a business email and get 2x free videos »).
+
+![Page de connexion de HeyGen](heygen-01-connexion.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">2</span> Choisir l'offre gratuite
+
+À la première connexion, HeyGen vous fait passer par trois écrans : **Choisir une offre**, **Personnaliser** et **Créer un avatar**.
+
+Sur la page **Choisissez l'offre idéale pour vous**, laissez l'onglet **Individuel** et cliquez sur **Choisir Free**, dans la colonne de gauche. L'offre **Free** comprend : « 3 vidéos par mois », « Des vidéos jusqu'à 1 minute chacune », l'accès à Avatar IV et Video Agent, plus de 500 présentateurs prêts à l'emploi et plus de 30 langues.
+
+Les offres **Creator** et **Pro** sont payantes : ne les choisissez pas.
+
+![Page Choisissez l'offre idéale pour vous](heygen-02-offre.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">3</span> Répondre à la question de personnalisation
+
+La page **Que souhaitez-vous promouvoir ou soutenir avec HeyGen ?** sert uniquement à adapter les suggestions de HeyGen. Choisissez l'option la plus proche de votre usage, par exemple **Autre chose**, puis cliquez sur **Continuer**.
+
+![Page Que souhaitez-vous promouvoir ou soutenir avec HeyGen ?](heygen-03-personnaliser.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">4</span> Ne pas créer d'avatar à votre image
+
+La page **Créons votre avatar** propose de créer un avatar à votre image : « Téléversez une photo, puis enregistrez vos mouvements et votre voix pour créer votre avatar ». Le visage et la voix sont des **données biométriques** : HeyGen peut les utiliser pour entraîner ses modèles si vous y consentez.
+
+Ne cliquez pas sur **Commencer**. Fermez plutôt cette page avec la **croix**, en haut à droite de l'écran, et utilisez les avatars prêts à l'emploi proposés par HeyGen.
+
+![Page Créons votre avatar](heygen-04-avatar.png)
+
+</div>
+
 <!--
-Étapes à rédiger à partir des captures (plan provisoire) :
- 1. Créer un compte
- 2. Découvrir l'accueil
- 3. Créer une vidéo
- 4. Choisir un avatar
- 5. Écrire ou coller le script
- 6. Choisir la voix et la langue
- 7. Prévisualiser et générer la vidéo
- 8. Télécharger ou partager la vidéo
- 9. Régler la confidentialité (utilisation des données pour l'entraînement)
+Étapes restant à rédiger à partir des captures (plan provisoire) :
+ 5. Découvrir l'accueil
+ 6. Créer une vidéo et choisir un avatar prêt à l'emploi
+ 7. Écrire ou coller le script
+ 8. Choisir la voix et la langue
+ 9. Prévisualiser et générer la vidéo
+10. Télécharger ou partager la vidéo
+11. Régler la confidentialité (utilisation des données pour l'entraînement)
 -->
 
 ## Ressources officielles
