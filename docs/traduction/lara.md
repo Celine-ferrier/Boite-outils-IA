@@ -145,17 +145,43 @@ Dans l'onglet **Texte** :
 2. Choisissez la langue de traduction, à droite de **Détecter la langue**.
 3. Cliquez sur **Parcourir les fichiers** et sélectionnez votre fichier, ou faites-le glisser dans la zone grise.
 
+La traduction démarre aussitôt : le message **Traduction en cours** s'affiche à côté du nom du fichier.
+
 En version gratuite, chaque document est limité à **5 pages** et **10 Mo**.
 
 ![Onglet Documents : bouton Parcourir les fichiers et limites de la version gratuite](lara-05-documents.png)
 
+![Traduction en cours vers l'anglais](lara-05-en-cours.png)
+
 </div>
 
-<!--
-Étapes restant à rédiger (captures à recevoir) :
- 6. Télécharger le document traduit
- 7. Lancer une session Interprète
--->
+<div class="etape" markdown>
+
+### <span class="etape-num">6</span> Télécharger le document traduit
+
+Quand le message **Traduction terminée** s'affiche, cliquez sur **Télécharger**. Le document traduit s'enregistre sur votre ordinateur, avec la même mise en page que l'original.
+
+Le téléchargement n'est disponible que **pendant 1 heure** : ensuite, le document est effacé. Pour traduire un autre fichier, cliquez sur **Traduction de nouveaux documents**.
+
+![Traduction terminée : bouton Télécharger et durée de conservation d'une heure](lara-06-telecharger.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">7</span> Lancer une session Interprète
+
+1. Cliquez sur l'onglet **Interprète**.
+2. Votre navigateur demande l'accès au micro : cliquez sur **Autoriser pendant la visite du site**.
+3. Choisissez les deux langues de l'échange, par exemple **Français** et **Anglais**.
+4. Si vous le souhaitez, changez la voix de lecture dans le menu **Voix**.
+5. Maintenez le bouton du micro, en bas, pendant que vous parlez, puis relâchez-le : Lara lit la traduction à voix haute et l'affiche à l'écran. Votre interlocuteur fait de même pour vous répondre.
+
+En version gratuite, l'Interprète ne permet que **2 à 3 minutes par mois** : réservez-le à de courts échanges.
+
+![Onglet Interprète : autorisation du micro, choix des langues et de la voix, bouton du micro](lara-07-interprete.png)
+
+</div>
 ## Ressources officielles
 
 - [Lara Translate](https://laratranslate.com) : site officiel.
