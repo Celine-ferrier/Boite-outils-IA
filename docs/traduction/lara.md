@@ -20,6 +20,13 @@
 - **Échanger à l'oral avec un interlocuteur étranger** grâce à la session interprète : rendez-vous avec un étudiant en échange, visite d'un partenaire.
 - **Comprendre un document reçu dans une autre langue** : article, norme, cahier des charges.
 
+!!! tip "Les petits plus de Lara"
+    Cette fiche se concentre sur la traduction de textes et de documents. Lara sait aussi :
+
+    - traduire le texte d'une **image** (onglet **Images**) ou un fichier **audio** (onglet **Audio**) ;
+    - traduire une page web ou un passage sélectionné sans quitter votre navigateur, grâce à l'**extension Edge** ou à l'**extension Chrome** (menu **Plus d'outils**) ;
+    - fonctionner sur **téléphone** (application iOS ou Android), pratique pour utiliser l'**Interprète** lors d'un échange en face à face.
+
 ## Version gratuite
 
 La version gratuite donne droit à **60 000 caractères par mois**, partagés entre toutes les fonctions (texte, documents, session interprète). Cela représente environ **25 à 30 pages** de cours.
