@@ -32,7 +32,7 @@
 La version gratuite donne droit à **60 000 caractères par mois**, partagés entre toutes les fonctions (texte, documents, session interprète). Cela représente environ **25 à 30 pages** de cours.
 
 - **Traduction de texte** : incluse.
-- **Traduction de documents** (Word, PowerPoint, PDF…) : incluse, dans la limite des caractères du mois.
+- **Traduction de documents** (Word, PowerPoint, PDF…) : incluse, mais limitée à **5 fichiers de 10 Mo maximum, et 5 pages par document**. Pour un long polycopié, découpez-le en plusieurs fichiers.
 - **Session interprète** : incluse, mais elle consomme très vite le quota (environ 400 caractères par seconde de parole, soit **2 à 3 minutes par mois**). Réservez-la à de courts échanges.
 - **Mode navigation privée** : inclus. Les textes ne sont alors ni conservés ni utilisés pour entraîner l'IA.
 - Un volume plus important et davantage de minutes d'interprète sont **payants** (offre Pro).
@@ -78,17 +78,84 @@ La version gratuite donne droit à **60 000 caractères par mois**, partagés en
 :material-magnify-plus-outline: Cliquez sur une capture pour l'agrandir.
 { .astuce-zoom }
 
-<!--
-Étapes à rédiger à partir des captures (plan provisoire) :
- 1. Créer un compte gratuit
- 2. Découvrir l'interface
- 3. Activer le mode navigation privée
- 4. Traduire un texte (langues, style, contexte)
- 5. Traduire un document PowerPoint
- 6. Télécharger le document traduit
- 7. Lancer une session interprète
--->
+<div class="etape" markdown>
 
+### <span class="etape-num">1</span> Créer un compte gratuit
+
+1. Ouvrez [laratranslate.com](https://laratranslate.com), puis cliquez sur **S'inscrire**, en haut à droite.
+
+    ![Bouton S'inscrire en haut à droite de la page d'accueil de Lara](lara-01-sinscrire.png)
+
+2. Remplissez **Nom complet**, **Adresse e-mail** (votre adresse de l'école) et **Mot de passe**.
+3. Cochez la case **J'accepte les Conditions d'utilisation**.
+4. Cliquez sur **Créer un compte**.
+
+![Formulaire Créer un compte : adresse e-mail, case des conditions d'utilisation et bouton Créer un compte](lara-01-formulaire.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">2</span> Découvrir l'interface
+
+En haut de la page, des onglets permettent de choisir ce que vous voulez traduire :
+
+- **Texte** : un texte saisi ou collé ;
+- **Documents** : un fichier Word, PowerPoint, PDF… ;
+- **Interprète** : un échange à l'oral, en direct.
+
+À droite, l'interrupteur **Mode navigation privée** protège vos textes (étape suivante).
+
+![Interface de Lara : onglets Texte, Documents, Images, Audio, Interprète et interrupteur Mode navigation privée](lara-02-interface.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">3</span> Activer le mode navigation privée
+
+Cliquez sur l'interrupteur **Mode navigation privée**, en haut à droite. Vos textes et documents ne sont alors ni conservés ni utilisés pour entraîner l'IA.
+
+Prenez l'habitude de vérifier qu'il est activé avant chaque traduction.
+
+![Interrupteur Mode navigation privée](lara-03-navigation-privee.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">4</span> Traduire un texte
+
+Dans l'onglet **Texte** :
+
+1. Collez votre texte dans la zone **Saisissez ou collez votre texte ici**. La langue est reconnue automatiquement (**Détecter la langue**).
+2. Choisissez la langue de traduction en cliquant sur **Français (France)**, à droite.
+3. Pour une traduction plus juste, cliquez sur **Ajouter un contexte** et décrivez votre public (voir l'exemple dans les cas d'usage).
+4. Choisissez le style de traduction dans le menu **Fidèle**.
+
+![Zone de traduction de texte : Détecter la langue, Ajouter un contexte, langue cible et menu Fidèle](lara-04-texte.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">5</span> Traduire un document PowerPoint
+
+1. Cliquez sur l'onglet **Documents**.
+2. Choisissez la langue de traduction, à droite de **Détecter la langue**.
+3. Cliquez sur **Parcourir les fichiers** et sélectionnez votre fichier, ou faites-le glisser dans la zone grise.
+
+En version gratuite, chaque document est limité à **5 pages** et **10 Mo**.
+
+![Onglet Documents : bouton Parcourir les fichiers et limites de la version gratuite](lara-05-documents.png)
+
+</div>
+
+<!--
+Étapes restant à rédiger (captures à recevoir) :
+ 6. Télécharger le document traduit
+ 7. Lancer une session Interprète
+-->
 ## Ressources officielles
 
 - [Lara Translate](https://laratranslate.com) : site officiel.
