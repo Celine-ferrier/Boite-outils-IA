@@ -2,14 +2,11 @@
 
 <span class="badge badge-ue">Entreprise UE</span> <span class="badge badge-gratuit">Version gratuite</span>
 
-<p class="maj">Dernière vérification : à compléter</p>
+<p class="maj">Dernière vérification : octobre 2026</p>
 
 **Lara Translate** est un outil de traduction par IA créé par **Translated**, une entreprise italienne spécialisée dans la traduction professionnelle. Il traduit un **texte**, un **document entier** (Word, **PowerPoint**, PDF…) en conservant sa mise en page, et propose une **session interprète** pour traduire à l'oral, en direct. Il suffit d'un compte gratuit créé avec une adresse e-mail.
 
 [Ouvrir Lara Translate](https://laratranslate.com){ .md-button .md-button--primary }
-
-!!! info "Fiche en cours de rédaction"
-    Le tutoriel complet sera bientôt disponible.
 
 ## À quoi ça sert dans le supérieur
 
@@ -29,10 +26,10 @@
 
 ## Version gratuite
 
-La version gratuite donne droit à **60 000 caractères par mois**, partagés entre toutes les fonctions (texte, documents, session interprète). Cela représente environ **25 à 30 pages** de cours.
+D'après le centre d'aide de Lara, la version gratuite donne droit à **60 000 caractères par mois**, partagés entre toutes les fonctions (texte, documents, session interprète), soit environ **25 à 30 pages** de cours.
 
 - **Traduction de texte** : incluse.
-- **Traduction de documents** (Word, PowerPoint, PDF…) : incluse, mais limitée à **5 fichiers de 10 Mo maximum, et 5 pages par document**. Pour un long polycopié, découpez-le en plusieurs fichiers.
+- **Traduction de documents** (Word, PowerPoint, PDF…) : incluse, mais limitée à **5 fichiers de 10 Mo maximum**, **5 pages** et **20 000 caractères par document** (environ 8 à 10 pages de texte). Au-delà, Lara affiche **Quota dépassé** et refuse le fichier : découpez un long polycopié ou un gros diaporama en plusieurs fichiers.
 - **Session interprète** : incluse, mais elle consomme très vite le quota (environ 400 caractères par seconde de parole, soit **2 à 3 minutes par mois**). Réservez-la à de courts échanges.
 - **Mode navigation privée** : inclus. Les textes ne sont alors ni conservés ni utilisés pour entraîner l'IA.
 - Un volume plus important et davantage de minutes d'interprète sont **payants** (offre Pro).
@@ -89,6 +86,7 @@ La version gratuite donne droit à **60 000 caractères par mois**, partagés en
 2. Remplissez **Nom complet**, **Adresse e-mail** (votre adresse de l'école) et **Mot de passe**.
 3. Cochez la case **J'accepte les Conditions d'utilisation**.
 4. Cliquez sur **Créer un compte**.
+5. Ouvrez l'e-mail envoyé par Lara et cliquez sur le lien de confirmation pour activer votre compte.
 
 ![Formulaire Créer un compte : adresse e-mail, case des conditions d'utilisation et bouton Créer un compte](lara-01-formulaire.png)
 
@@ -147,7 +145,7 @@ Dans l'onglet **Texte** :
 
 La traduction démarre aussitôt : le message **Traduction en cours** s'affiche à côté du nom du fichier.
 
-En version gratuite, chaque document est limité à **5 pages** et **10 Mo**.
+En version gratuite, chaque document est limité à **5 pages**, **10 Mo** et **20 000 caractères**. Si le fichier est trop long, le message **Quota dépassé** s'affiche : cliquez sur **Tout interrompre**, puis découpez votre document.
 
 ![Onglet Documents : bouton Parcourir les fichiers et limites de la version gratuite](lara-05-documents.png)
 
@@ -175,7 +173,7 @@ Le téléchargement n'est disponible que **pendant 1 heure** : ensuite, le docum
 2. Votre navigateur demande l'accès au micro : cliquez sur **Autoriser pendant la visite du site**.
 3. Choisissez les deux langues de l'échange, par exemple **Français** et **Anglais**.
 4. Si vous le souhaitez, changez la voix de lecture dans le menu **Voix**.
-5. Maintenez le bouton du micro, en bas, pendant que vous parlez, puis relâchez-le : Lara lit la traduction à voix haute et l'affiche à l'écran. Votre interlocuteur fait de même pour vous répondre.
+5. Cliquez une fois sur le bouton du micro, en bas, puis parlez : Lara lit la traduction à voix haute et l'affiche à l'écran. Votre interlocuteur fait de même pour vous répondre.
 
 En version gratuite, l'Interprète ne permet que **2 à 3 minutes par mois** : réservez-le à de courts échanges.
 
