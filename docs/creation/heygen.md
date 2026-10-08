@@ -136,6 +136,10 @@ La page **Que souhaitez-vous promouvoir ou soutenir avec HeyGen ?** sert uniquem
 
     ![Page Apprenez-lui vos mouvements, lien Ignorer](heygen-04-mouvement.png)
 
+    La fenêtre **Le mouvement paraîtra moins réaliste** vous incite alors à enregistrer 30 secondes de vidéo : « Sans enregistrement, votre avatar utilise des expressions et des gestes génériques au lieu des vôtres ». Ne cliquez pas sur **Enregistrer 30s** : cliquez sur **Continuer quand même**.
+
+    ![Fenêtre Le mouvement paraîtra moins réaliste](heygen-04-continuer.png)
+
 3. HeyGen vous propose ensuite d'enregistrer votre voix pour la **cloner**, c'est-à-dire créer une voix de synthèse qui imite la vôtre. **Ignorez cette étape** : n'enregistrez pas votre voix. Vous choisirez une voix de synthèse prête à l'emploi au moment de créer votre vidéo (voir l'étape 9).
 
     !!! warning "Ne clonez pas votre voix"
