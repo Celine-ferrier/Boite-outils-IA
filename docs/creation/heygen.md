@@ -2,14 +2,11 @@
 
 <span class="badge badge-hors-ue">Hors UE</span> <span class="badge badge-gratuit">Gratuit, très limité</span>
 
-<p class="maj">Dernière vérification : à compléter</p>
+<p class="maj">Dernière vérification : octobre 2026</p>
 
 **HeyGen** produit des vidéos dans lesquelles un **avatar**, un personnage de synthèse, lit votre texte avec une voix de synthèse. Vous choisissez un avatar parmi des centaines de modèles, vous écrivez ou collez votre script, et HeyGen génère la vidéo, dans plus de 30 langues.
 
 [Ouvrir HeyGen](https://www.heygen.com){ .md-button .md-button--primary }
-
-!!! info "Fiche en cours de rédaction"
-    Le tutoriel complet sera bientôt disponible.
 
 ## À quoi ça sert dans le supérieur
 
@@ -247,10 +244,27 @@ Lorsque le script et la voix vous conviennent, cliquez sur **Générer**, en hau
 
 </div>
 
-<!--
-Étape restant à rédiger à partir des captures :
-11. Télécharger ou partager la vidéo
--->
+<div class="etape" markdown>
+
+### <span class="etape-num">11</span> Télécharger ou partager la vidéo
+
+Une fois générée, la vidéo s'ouvre sur sa propre page. Vous la retrouverez ensuite dans **Projets**, dans la colonne de gauche.
+
+1. En haut à droite, cliquez sur la **flèche vers le bas** pour **télécharger** la vidéo, puis déposez-la sur Moodle comme n'importe quelle vidéo. C'est la solution la plus sûre : la vidéo reste sous votre contrôle.
+2. Le bouton **Partager** ouvre la fenêtre **Partager cette vidéo** :
+    - par défaut, l'accès est réglé sur **Toute personne avec le lien** : « Toute personne sur internet avec le lien peut voir. Pas de connexion requise ». Le menu à côté permet de restreindre cet accès ;
+    - **Exiger le mot de passe** protège la vidéo par un mot de passe ;
+    - **Copier le lien** copie l'adresse de la vidéo, et **Intégrer** donne un code pour l'insérer dans une page web.
+
+    ![Boutons Télécharger et Partager](heygen-11-boutons.png)
+
+    ![Fenêtre Partager cette vidéo](heygen-11-partager.png)
+
+3. Le panneau de droite, onglet **Éditer**, propose d'autres actions : **Nouvelle révision dans AI Studio** pour modifier la vidéo, **Traduire** (fonction en test, marquée **BÊTA**), **Changer la vignette**. **Supprimer le filigrane** est « Disponible avec le plan Créateur », c'est-à-dire payant : avec la version gratuite, la vidéo garde le logo HeyGen.
+
+![Panneau Éditer de la vidéo](heygen-11-modifier.png)
+
+</div>
 
 ## Ressources officielles
 
