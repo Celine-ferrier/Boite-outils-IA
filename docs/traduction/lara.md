@@ -27,7 +27,7 @@ La version gratuite donne droit à **60 000 caractères par mois**, partagés en
 - **Traduction de texte** : incluse.
 - **Traduction de documents** (Word, PowerPoint, PDF…) : incluse, dans la limite des caractères du mois.
 - **Session interprète** : incluse, mais elle consomme très vite le quota (environ 400 caractères par seconde de parole, soit **2 à 3 minutes par mois**). Réservez-la à de courts échanges.
-- **Mode incognito** : inclus. Les textes ne sont alors ni conservés ni utilisés pour entraîner l'IA.
+- **Mode navigation privée** : inclus. Les textes ne sont alors ni conservés ni utilisés pour entraîner l'IA.
 - Un volume plus important et davantage de minutes d'interprète sont **payants** (offre Pro).
 
 ## Cas d'usage
@@ -75,7 +75,7 @@ La version gratuite donne droit à **60 000 caractères par mois**, partagés en
 Étapes à rédiger à partir des captures (plan provisoire) :
  1. Créer un compte gratuit
  2. Découvrir l'interface
- 3. Activer le mode incognito
+ 3. Activer le mode navigation privée
  4. Traduire un texte (langues, style, contexte)
  5. Traduire un document PowerPoint
  6. Télécharger le document traduit
@@ -92,7 +92,7 @@ La version gratuite donne droit à **60 000 caractères par mois**, partagés en
 ## Points de vigilance
 
 !!! warning "Données"
-    Activez le **mode incognito** avant de traduire un document de cours : vos textes ne sont alors ni conservés ni utilisés pour entraîner l'IA. Même ainsi, ne déposez jamais de données personnelles d'étudiants (copies, notes, listes) ni de documents confidentiels (sujets d'examen non publiés, données de partenaires industriels).
+    Activez le **Mode navigation privée** avant de traduire un document de cours : vos textes ne sont alors ni conservés ni utilisés pour entraîner l'IA. Même ainsi, ne déposez jamais de données personnelles d'étudiants (copies, notes, listes) ni de documents confidentiels (sujets d'examen non publiés, données de partenaires industriels).
 
 !!! tip "Fiabilité"
     Faites relire les termes de votre discipline, et vérifiez les nombres, les unités et les formules après traduction.
