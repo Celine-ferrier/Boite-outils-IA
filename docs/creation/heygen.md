@@ -124,17 +124,27 @@ La page **Que souhaitez-vous promouvoir ou soutenir avec HeyGen ?** sert uniquem
 
 ### <span class="etape-num">4</span> Créer votre avatar
 
-À la première connexion, HeyGen **oblige à créer un avatar à votre image** avant d'ouvrir la page d'accueil. La page **Créons votre avatar** explique la démarche : « Téléversez une photo, puis enregistrez vos mouvements et votre voix pour créer votre avatar ».
-
-Votre visage et votre voix sont des **données biométriques**. Avant de cliquer sur **Commencer** :
-
-- lisez chaque écran et **refusez** toute option qui autorise HeyGen à utiliser vos images ou votre voix pour entraîner ses modèles ;
-- utilisez une photo prise dans un cadre neutre, sans élément personnel ni autre personne à l'image ;
-- n'utilisez jamais la photo ou la voix d'une autre personne, collègue ou étudiant.
-
-Une fois l'accueil ouvert, vous pourrez utiliser les **avatars prêts à l'emploi** de HeyGen pour vos vidéos, plutôt que le vôtre.
+À la première connexion, HeyGen **oblige à créer un avatar à votre image** avant d'ouvrir la page d'accueil. La page **Créons votre avatar** annonce trois étapes : **Apparence**, **Mouvement** et **Voix**. Votre visage et votre voix sont des **données biométriques** : lisez chaque écran attentivement.
 
 ![Page Créons votre avatar](heygen-04-avatar.png)
+
+1. Cliquez sur **Commencer**. Sur la page **Choisissez le premier look de votre avatar**, cliquez sur **Téléverser votre photo préférée** pour choisir une photo sur votre ordinateur (ou sur **Importer depuis le téléphone** ou **Prendre une maintenant**). Choisissez une photo prise dans un cadre neutre, sans autre personne ni élément personnel à l'image. N'utilisez jamais la photo d'une autre personne.
+
+    ![Page Choisissez le premier look de votre avatar](heygen-04-apparence.png)
+
+2. La page **Apprenez-lui vos mouvements** propose d'enregistrer une courte vidéo de vous. Cette étape est facultative : cliquez sur **Ignorer**, en bas de la page.
+
+    ![Page Apprenez-lui vos mouvements, lien Ignorer](heygen-04-mouvement.png)
+
+3. HeyGen vous demande ensuite d'enregistrer votre voix, puis affiche **Cloner votre voix à partir de cet enregistrement ?**. Le bouton **Créer un clone de voix** crée une voix de synthèse qui imite la vôtre ; **Réenregistrer** permet de recommencer l'enregistrement.
+
+    ![Page Cloner votre voix à partir de cet enregistrement ?](heygen-04-voix.png)
+
+Votre voix clonée apparaît ensuite dans **Avatar**, puis **Voix**, onglet **Mes voix**, avec la mention **Clone de voix**. Elle est produite par **ElevenLabs**, un autre fournisseur d'IA vocale, comme l'indique sa description. Le bouton **…**, à droite, ouvre les options de la voix.
+
+Pour vos vidéos, rien ne vous oblige à utiliser cet avatar ni cette voix : préférez les **avatars** et les **voix prêts à l'emploi** de HeyGen (onglet **Bibliothèque HeyGen**).
+
+![Onglet Mes voix](heygen-04-mes-voix.png)
 
 </div>
 
@@ -159,7 +169,7 @@ Une fois l'accueil ouvert, vous pourrez utiliser les **avatars prêts à l'emplo
 ## Points de vigilance
 
 !!! warning "Données et droit à l'image"
-    HeyGen est une entreprise américaine : vos contenus sont traités hors de l'Union européenne. Sauf pour les clients entreprise, HeyGen peut utiliser les vidéos et les traits du visage pour entraîner ses modèles si vous y avez consenti. HeyGen oblige à créer un avatar à votre image à la première connexion : votre visage et votre voix sont des **données biométriques**. Refusez leur utilisation pour l'entraînement, ne créez jamais d'avatar ni de clone de voix à partir d'une autre personne, et utilisez de préférence les avatars prêts à l'emploi pour vos vidéos.
+    HeyGen est une entreprise américaine : vos contenus sont traités hors de l'Union européenne. Sauf pour les clients entreprise, HeyGen peut utiliser les vidéos et les traits du visage pour entraîner ses modèles si vous y avez consenti. HeyGen oblige à créer un avatar à votre image à la première connexion : votre visage et votre voix sont des **données biométriques**. Le clone de voix est produit par un autre fournisseur, ElevenLabs. Refusez toute utilisation de vos données pour l'entraînement si elle vous est proposée, supprimez votre clone de voix si vous ne vous en servez pas, ne créez jamais d'avatar ni de clone de voix à partir d'une autre personne, et utilisez de préférence les avatars prêts à l'emploi pour vos vidéos.
 
 !!! tip "Fiabilité"
     HeyGen lit exactement le texte que vous lui donnez, y compris ses erreurs. Relisez votre script et écoutez la vidéo en entier : la prononciation des sigles, des unités et des termes techniques est parfois fautive.
