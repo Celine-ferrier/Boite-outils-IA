@@ -122,11 +122,17 @@ La page **Que souhaitez-vous promouvoir ou soutenir avec HeyGen ?** sert uniquem
 
 <div class="etape" markdown>
 
-### <span class="etape-num">4</span> Ne pas créer d'avatar à votre image
+### <span class="etape-num">4</span> Créer votre avatar
 
-La page **Créons votre avatar** propose de créer un avatar à votre image : « Téléversez une photo, puis enregistrez vos mouvements et votre voix pour créer votre avatar ». Le visage et la voix sont des **données biométriques** : HeyGen peut les utiliser pour entraîner ses modèles si vous y consentez.
+À la première connexion, HeyGen **oblige à créer un avatar à votre image** avant d'ouvrir la page d'accueil. La page **Créons votre avatar** explique la démarche : « Téléversez une photo, puis enregistrez vos mouvements et votre voix pour créer votre avatar ».
 
-Ne cliquez pas sur **Commencer**. Fermez plutôt cette page avec la **croix**, en haut à droite de l'écran, et utilisez les avatars prêts à l'emploi proposés par HeyGen.
+Votre visage et votre voix sont des **données biométriques**. Avant de cliquer sur **Commencer** :
+
+- lisez chaque écran et **refusez** toute option qui autorise HeyGen à utiliser vos images ou votre voix pour entraîner ses modèles ;
+- utilisez une photo prise dans un cadre neutre, sans élément personnel ni autre personne à l'image ;
+- n'utilisez jamais la photo ou la voix d'une autre personne, collègue ou étudiant.
+
+Une fois l'accueil ouvert, vous pourrez utiliser les **avatars prêts à l'emploi** de HeyGen pour vos vidéos, plutôt que le vôtre.
 
 ![Page Créons votre avatar](heygen-04-avatar.png)
 
@@ -153,7 +159,7 @@ Ne cliquez pas sur **Commencer**. Fermez plutôt cette page avec la **croix**, e
 ## Points de vigilance
 
 !!! warning "Données et droit à l'image"
-    HeyGen est une entreprise américaine : vos contenus sont traités hors de l'Union européenne. Sauf pour les clients entreprise, HeyGen peut utiliser les vidéos et les traits du visage pour entraîner ses modèles si vous y avez consenti. **Ne créez jamais d'avatar ni de clone de voix à partir de votre visage, de votre voix ou de ceux d'une autre personne** sans avoir mesuré ce que cela implique : ce sont des données biométriques. Utilisez de préférence les avatars prêts à l'emploi.
+    HeyGen est une entreprise américaine : vos contenus sont traités hors de l'Union européenne. Sauf pour les clients entreprise, HeyGen peut utiliser les vidéos et les traits du visage pour entraîner ses modèles si vous y avez consenti. HeyGen oblige à créer un avatar à votre image à la première connexion : votre visage et votre voix sont des **données biométriques**. Refusez leur utilisation pour l'entraînement, ne créez jamais d'avatar ni de clone de voix à partir d'une autre personne, et utilisez de préférence les avatars prêts à l'emploi pour vos vidéos.
 
 !!! tip "Fiabilité"
     HeyGen lit exactement le texte que vous lui donnez, y compris ses erreurs. Relisez votre script et écoutez la vidéo en entier : la prononciation des sigles, des unités et des termes techniques est parfois fautive.
