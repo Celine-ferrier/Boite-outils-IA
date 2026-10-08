@@ -121,7 +121,7 @@ La page **Que souhaitez-vous promouvoir ou soutenir avec HeyGen ?** sert uniquem
 
 ### <span class="etape-num">4</span> Créer votre avatar
 
-À la première connexion, HeyGen **oblige à créer un avatar à votre image** avant d'ouvrir la page d'accueil. La page **Créons votre avatar** annonce trois étapes : **Apparence**, **Mouvement** et **Voix**. Votre visage et votre voix sont des **données biométriques** : lisez chaque écran attentivement.
+À la première connexion, HeyGen **oblige à créer un avatar à votre image** avant d'ouvrir la page d'accueil. La page **Créons votre avatar** annonce trois étapes : **Apparence**, **Mouvement** et **Voix**. Seule la photo est obligatoire : le mouvement et la voix peuvent être ignorés. Votre visage et votre voix sont des **données biométriques** : lisez chaque écran attentivement.
 
 ![Page Créons votre avatar](heygen-04-avatar.png)
 
@@ -133,15 +133,17 @@ La page **Que souhaitez-vous promouvoir ou soutenir avec HeyGen ?** sert uniquem
 
     ![Page Apprenez-lui vos mouvements, lien Ignorer](heygen-04-mouvement.png)
 
-3. HeyGen vous demande ensuite d'enregistrer votre voix, puis affiche **Cloner votre voix à partir de cet enregistrement ?**. Le bouton **Créer un clone de voix** crée une voix de synthèse qui imite la vôtre ; **Réenregistrer** permet de recommencer l'enregistrement.
+3. HeyGen vous propose ensuite d'enregistrer votre voix pour la **cloner**, c'est-à-dire créer une voix de synthèse qui imite la vôtre. Cette étape est elle aussi **facultative** : vous pouvez l'**ignorer**. Si vous enregistrez votre voix, l'écran **Cloner votre voix à partir de cet enregistrement ?** propose **Créer un clone de voix** ou **Réenregistrer**.
 
     ![Page Cloner votre voix à partir de cet enregistrement ?](heygen-04-voix.png)
 
-Votre voix clonée apparaît ensuite dans **Avatar**, puis **Voix**, onglet **Mes voix**, avec la mention **Clone de voix**. Elle est produite par **ElevenLabs**, un autre fournisseur d'IA vocale, comme l'indique sa description. Le bouton **…**, à droite, ouvre les options de la voix.
+Votre voix clonée apparaît ensuite dans **Avatar**, puis **Voix**, onglet **Mes voix**, avec la mention **Clone de voix**. Elle est produite par **ElevenLabs**, un autre fournisseur d'IA vocale, comme l'indique sa description. Si vous ne vous en servez pas, supprimez-la : cliquez sur le bouton **…**, à droite de la voix, puis sur **Supprimer**.
 
 Pour vos vidéos, rien ne vous oblige à utiliser cet avatar ni cette voix : préférez les **avatars** et les **voix prêts à l'emploi** de HeyGen (onglet **Bibliothèque HeyGen**).
 
 ![Onglet Mes voix](heygen-04-mes-voix.png)
+
+![Menu de la voix, option Supprimer](heygen-04-supprimer-voix.png)
 
 </div>
 
