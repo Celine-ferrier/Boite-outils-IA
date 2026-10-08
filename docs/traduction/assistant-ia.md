@@ -119,7 +119,7 @@ Le choix dépend surtout de la **confidentialité** du texte à traduire.
 
 ## Pas à pas
 
-La méthode est la même quel que soit l'assistant choisi.
+La méthode est la même quel que soit l'assistant choisi. Les captures ci-dessous ont été réalisées avec [Claude](../assistants/claude.md), à partir du cas d'usage « Garder le vocabulaire technique ».
 
 <div class="etape" markdown>
 
@@ -172,6 +172,16 @@ Collez votre texte à la fin du message, après la mention « Texte : », puis e
 
 Pour un long document, procédez **par parties** (une section ou quelques diapositives à la fois) : la traduction sera plus soignée et plus facile à vérifier. Vous pouvez aussi joindre le fichier, mais la mise en page ne sera pas conservée : pour traduire un fichier entier, préférez [Lara Translate](lara.md).
 
+![Consigne de traduction complète collée dans Claude : rôle, langue, public, consignes de vocabulaire et texte](assistant-ia-04-consigne.png)
+
+L'assistant affiche la traduction, puis le tableau des termes techniques demandé dans la consigne :
+
+![Traduction en anglais britannique et glossaire français-anglais des termes techniques](assistant-ia-04-traduction.png)
+
+Il peut aussi ajouter des remarques utiles, ici sur l'usage des termes dans l'Eurocode 2 :
+
+![Remarques de l'assistant sur la terminologie employée](assistant-ia-04-remarques.png)
+
 </div>
 
 <div class="etape" markdown>
@@ -183,6 +193,14 @@ Poursuivez la conversation pour ajuster le résultat, par exemple :
 - « Simplifie les phrases de la deuxième partie. »
 - « Liste les termes dont tu n'es pas sûr. »
 - « Propose deux traductions possibles pour ce paragraphe. »
+
+Par exemple, écrivez dans la zone de réponse :
+
+![Message de relance : lister les termes incertains et proposer une variante simple de niveau B1](assistant-ia-05-relance.png)
+
+L'assistant détaille alors ses doutes et propose des variantes plus simples. Ces explications vous aident à trancher, mais la décision finale vous revient :
+
+![Tableau des termes incertains : traduction retenue, doute et variante simple](assistant-ia-05-termes.png)
 
 </div>
 
