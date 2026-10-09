@@ -6,7 +6,7 @@
 
 **noScribe** est un logiciel gratuit et open source qui **transcrit un enregistrement audio** (réunion, entretien) en texte, **directement sur votre ordinateur** : aucun fichier n'est envoyé sur internet. Il a été conçu par un chercheur en sciences sociales pour transcrire des entretiens. Il **distingue les différents intervenants** (« qui a dit quoi ») et fournit un éditeur pour relire et corriger la transcription en réécoutant l'enregistrement.
 
-[Télécharger noScribe](https://github.com/kaixxx/noScribe){ .md-button .md-button--primary }
+[Télécharger noScribe](https://noscribe.de){ .md-button .md-button--primary }
 
 !!! info "Fiche en cours de rédaction"
     Le tutoriel complet sera bientôt disponible.
@@ -99,7 +99,8 @@ Deux limites à connaître :
 
 ## Ressources officielles
 
-- [noScribe sur GitHub](https://github.com/kaixxx/noScribe) : téléchargement, mode d'emploi et questions fréquentes (en anglais).
+- [Site officiel de noScribe](https://noscribe.de) : téléchargement, installation et mode d'emploi.
+- [noScribe sur GitHub](https://github.com/kaixxx/noScribe) : code source et suivi des versions (en anglais).
 
 ## Points de vigilance
 
