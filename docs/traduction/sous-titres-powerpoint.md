@@ -2,12 +2,9 @@
 
 <span class="badge badge-hors-ue">Hors UE</span> <span class="badge badge-gratuit">Inclus avec le compte école</span>
 
-<p class="maj">Dernière vérification : à compléter</p>
+<p class="maj">Dernière vérification : octobre 2026</p>
 
 **PowerPoint** peut afficher des **sous-titres en direct** pendant que vous présentez : il écoute votre voix avec le micro de l'ordinateur et affiche, sous vos diapositives, le texte de ce que vous dites. Il peut aussi le **traduire en temps réel** dans une autre langue, par exemple en anglais pour des étudiants internationaux. PowerPoint sait aussi **traduire une partie du texte** d'une diapositive (un titre, une légende, une consigne) grâce à l'outil **Traduire**. Ces deux fonctions sont incluses dans PowerPoint (Microsoft 365), avec votre compte de l'école : rien à installer.
-
-!!! info "Fiche en cours de rédaction"
-    Les captures d'écran du tutoriel seront bientôt ajoutées.
 
 ## À quoi ça sert dans le supérieur
 
@@ -151,13 +148,20 @@ En dehors du diaporama, l'outil **Traduire** de PowerPoint traduit le texte que 
 
 ### <span class="etape-num">8</span> Choisir la langue et insérer la traduction
 
-1. Dans le volet **Traducteur**, laissez **Langue source** sur **Détection automatique**, puis choisissez la langue de traduction dans **Langue cible**.
-2. Relisez la traduction proposée.
-3. Cliquez sur **Insérer** : la traduction remplace le texte sélectionné dans la diapositive.
+1. Dans le volet **Traducteur**, cliquez sur la langue affichée à côté de **Langue cible**, puis choisissez la langue de traduction, par exemple **Anglais**. Laissez **Langue source** sur **Détection automatique** : PowerPoint reconnaît seul la langue du texte.
 
-Pour une diapositive bilingue, copiez plutôt la traduction et collez-la dans une nouvelle zone de texte, sous le texte d'origine.
+    ![Volet Traducteur : liste des langues ouverte à côté de Langue cible, Anglais sélectionné](sous-titres-08-langue-cible.png)
 
-<!-- capture : sous-titres-08-inserer.png -->
+2. Le texte sélectionné s'affiche en haut du volet, et sa traduction en bas. S'il n'apparaît pas, sélectionnez-le de nouveau dans la diapositive.
+3. Relisez la traduction, puis cliquez sur **Insérer**.
+
+    ![Texte sélectionné dans la diapositive, traduction en anglais dans le volet et bouton Insérer](sous-titres-08-inserer.png)
+
+La traduction remplace le texte d'origine dans la diapositive, en gardant sa mise en forme :
+
+![Texte de la diapositive remplacé par sa traduction en anglais](sous-titres-08-resultat.png)
+
+Pour une diapositive bilingue, copiez plutôt la traduction depuis le volet et collez-la dans une nouvelle zone de texte, sous le texte d'origine. Pensez à vérifier la ponctuation : les guillemets français « » ne sont pas toujours convertis correctement.
 
 </div>
 
