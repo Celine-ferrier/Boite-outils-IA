@@ -4,7 +4,7 @@
 
 <p class="maj">Dernière vérification : à compléter</p>
 
-**PowerPoint** peut afficher des **sous-titres en direct** pendant que vous présentez : il écoute votre voix avec le micro de l'ordinateur et affiche, sous vos diapositives, le texte de ce que vous dites. Il peut aussi le **traduire en temps réel** dans une autre langue, par exemple en anglais pour des étudiants internationaux. Cette fonction est incluse dans PowerPoint (Microsoft 365), avec votre compte de l'école : rien à installer.
+**PowerPoint** peut afficher des **sous-titres en direct** pendant que vous présentez : il écoute votre voix avec le micro de l'ordinateur et affiche, sous vos diapositives, le texte de ce que vous dites. Il peut aussi le **traduire en temps réel** dans une autre langue, par exemple en anglais pour des étudiants internationaux. PowerPoint sait aussi **traduire une partie du texte** d'une diapositive (un titre, une légende, une consigne) grâce à l'outil **Traduire**. Ces deux fonctions sont incluses dans PowerPoint (Microsoft 365), avec votre compte de l'école : rien à installer.
 
 !!! info "Fiche en cours de rédaction"
     Les captures d'écran du tutoriel seront bientôt ajoutées.
@@ -15,6 +15,7 @@
 - **Enseigner en anglais** en affichant des sous-titres en français, pour aider les étudiants qui débutent.
 - **Améliorer l'accessibilité** pour les étudiants sourds ou malentendants (sous-titres dans la même langue que l'oral).
 - **Aider tous les étudiants** à suivre le vocabulaire technique, qu'ils voient écrit en même temps qu'ils l'entendent.
+- **Traduire un passage précis** d'une diapositive (titre, légende de schéma, consigne d'exercice) sans traduire toute la présentation.
 
 !!! tip "Interprète de Lara ou sous-titres PowerPoint ?"
     - Pour **tout un cours** devant un amphithéâtre : les **sous-titres PowerPoint**, sans limite de durée.
@@ -126,14 +127,48 @@ Cochez la case **Toujours utiliser les sous-titres**, dans le groupe **Sous-titr
 
 </div>
 
+## Traduire une partie du texte d'une diapositive
+
+En dehors du diaporama, l'outil **Traduire** de PowerPoint traduit le texte que vous sélectionnez : un titre, une légende de schéma, une consigne. Pratique pour créer une version bilingue d'une diapositive, ou pour vérifier un terme.
+
+<div class="etape" markdown>
+
+### <span class="etape-num">7</span> Sélectionner le texte et ouvrir l'outil Traduire
+
+1. Sélectionnez le texte à traduire dans votre diapositive (un mot, une phrase ou toute une zone de texte).
+2. Cliquez sur l'onglet **Révision**.
+3. Cliquez sur **Traduire**. Le volet **Traducteur** s'ouvre à droite de l'écran.
+
+<!-- capture : sous-titres-07-traduire.png -->
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">8</span> Choisir la langue et insérer la traduction
+
+1. Dans le volet **Traducteur**, vérifiez la langue d'origine (en haut), puis choisissez la langue de traduction (en bas).
+2. Relisez la traduction proposée.
+3. Cliquez sur **Insérer** : la traduction remplace le texte sélectionné dans la diapositive.
+
+Pour une diapositive bilingue, copiez plutôt la traduction et collez-la dans une nouvelle zone de texte, sous le texte d'origine.
+
+<!-- capture : sous-titres-08-inserer.png -->
+
+</div>
+
+!!! tip "Pour traduire toute la présentation"
+    L'outil **Traduire** convient à quelques passages. Pour traduire un diaporama entier en gardant sa mise en page, utilisez [Lara Translate](lara.md).
+
 ## Ressources officielles
 
 - [Présenter avec des sous-titres automatiques en temps réel dans PowerPoint](https://support.microsoft.com/fr-FR/PowerPoint/present-with-real-time-automatic-captions-or-subtitles-in-powerpoint) : aide officielle de Microsoft, avec la liste des langues disponibles.
+- [Traduire du texte dans une autre langue](https://support.microsoft.com/fr-fr/office/traduire-du-texte-dans-une-autre-langue-287380e4-a56c-48a1-9977-f2dca89ce93f) : aide officielle de Microsoft sur l'outil Traduire.
 
 ## Points de vigilance
 
 !!! warning "Données"
-    Votre voix est envoyée aux serveurs de Microsoft (hors Union européenne) pour être transcrite. Évitez de citer des informations personnelles ou confidentielles pendant une présentation sous-titrée (noms d'étudiants, notes, données de partenaires industriels).
+    Votre voix, comme le texte que vous traduisez avec l'outil **Traduire**, est envoyée aux serveurs de Microsoft (hors Union européenne). Évitez de citer des informations personnelles ou confidentielles pendant une présentation sous-titrée (noms d'étudiants, notes, données de partenaires industriels).
 
 !!! tip "Testez avant le cours"
     Faites un essai dans la salle, avec le micro que vous utiliserez : la qualité des sous-titres dépend beaucoup du micro, du bruit ambiant et de votre débit de parole. Parlez distinctement et pas trop vite.
