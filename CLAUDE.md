@@ -21,7 +21,7 @@ Ce dépôt contient le site « Boîte à outils IA » destiné aux enseignants d
 - **Menu du site** : section `nav` de `mkdocs.yml`. Toute nouvelle fiche doit y être ajoutée.
 - **Pages** :
   - `docs/index.md` (accueil) et `docs/bonnes-pratiques.md` ;
-  - quatre catégories, chacune avec sa page `index.md` : `docs/assistants`, `docs/creation`, `docs/recherche`, `docs/traduction`.
+  - cinq catégories, chacune avec sa page `index.md` : `docs/assistants`, `docs/creation`, `docs/recherche`, `docs/traduction`, `docs/comptes-rendus`.
 - **Feuille de style** : `docs/extra.css`, déclarée dans `mkdocs.yml` sous `extra_css: - extra.css`. C'est le seul fichier CSS utilisé par le site.
 
 ## Charte graphique
@@ -77,7 +77,7 @@ Ton et contenu :
 
 - **Fiches Recherche** : images dans `docs/recherche/images/`, référencées par `images/nom.png`.
 - **Fiches Assistants** : images directement dans `docs/assistants/`, référencées par `nom.png`.
-- **Fiches Création et Traduction** : images directement dans `docs/creation/` ou `docs/traduction/`, référencées par `nom.png` (même règle que les Assistants).
+- **Fiches Création, Traduction et Comptes rendus** : images directement dans `docs/creation/`, `docs/traduction/` ou `docs/comptes-rendus/`, référencées par `nom.png` (même règle que les Assistants).
 - **Nommage** : `outil-NN-description.png`, où `NN` est le numéro de l'étape sur deux chiffres (règle appliquée depuis la fiche Claude ; les fiches plus anciennes peuvent ne pas la respecter).
 - Après tout ajout ou renommage, vérifier que chaque image référencée existe (`mkdocs build` signale les absentes).
 - Chaque image du pas à pas doit se trouver **à l'intérieur d'un bloc `<div class="etape" markdown>`** : sinon la règle de taille ci-dessous ne s'applique pas et l'image s'affiche trop grande.
