@@ -1,10 +1,10 @@
 # Teams
 
-<span class="badge badge-hors-ue">Hors UE</span> <span class="badge badge-gratuit">Inclus avec le compte école</span>
+<span class="badge badge-hors-ue">Hors UE</span> <span class="badge badge-gratuit">Inclus avec le compte enseignant</span>
 
 <p class="maj">Dernière vérification : à compléter</p>
 
-**Microsoft Teams**, l'outil de visioconférence de l'école, peut **transcrire une réunion en direct** : chaque intervention s'affiche par écrit, avec le nom de la personne qui parle. À la fin de la réunion, la transcription reste disponible et peut être téléchargée, puis utilisée pour rédiger le compte rendu. Rien à installer : la fonction est incluse avec votre compte de l'école.
+**Microsoft Teams**, l'outil de visioconférence de l'école, peut **transcrire une réunion en direct** : chaque intervention s'affiche par écrit, avec le nom de la personne qui parle. À la fin de la réunion, la transcription reste disponible et peut être téléchargée, puis utilisée pour rédiger le compte rendu. Tous les enseignants disposent de la suite Office (Microsoft 365) avec leur compte enseignant : la fonction est déjà disponible, rien à installer.
 
 !!! info "Fiche en cours de rédaction"
     Les captures d'écran du tutoriel seront bientôt ajoutées.
@@ -17,11 +17,11 @@
 
 ## Version gratuite
 
-La transcription est **incluse** dans Teams avec votre compte Microsoft 365 de l'école.
+La transcription est **incluse** dans Teams avec votre compte enseignant (suite Office Microsoft 365) : aucun abonnement supplémentaire n'est nécessaire.
 
 - La transcription est lancée par l'organisateur ou un participant de l'école ; **tous les participants sont prévenus** par un bandeau.
 - Le **résumé automatique** de la réunion par Copilot (« récapitulatif intelligent ») est une fonction **payante**, non incluse : vous rédigerez le compte rendu vous-même ou avec un assistant IA (voir les cas d'usage).
-- Si l'option de transcription n'apparaît pas ou est grisée, elle n'est peut-être pas activée pour votre compte : renseignez-vous auprès de la DSI de l'école.
+- La transcription téléchargée s'ouvre dans **Word**, inclus dans la même suite Office : vous pouvez la relire et la corriger avant de rédiger le compte rendu.
 
 ## Cas d'usage
 
