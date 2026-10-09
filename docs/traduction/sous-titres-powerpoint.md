@@ -66,9 +66,9 @@ Les sous-titres en direct sont **inclus** dans PowerPoint avec votre compte Micr
 
 1. Ouvrez votre présentation dans PowerPoint.
 2. Cliquez sur l'onglet **Diaporama**.
-3. À droite du ruban, dans le groupe **Sous-titres et légendes**, cliquez sur **Paramètres des sous-titres**.
+3. À droite du ruban, dans le groupe **Sous-titres en direct**, cliquez sur **Paramètres des sous-titres**. Un menu s'ouvre.
 
-<!-- capture : sous-titres-01-parametres.png -->
+![Onglet Diaporama : bouton Paramètres des sous-titres et son menu](sous-titres-01-parametres.png)
 
 </div>
 
@@ -76,9 +76,9 @@ Les sous-titres en direct sont **inclus** dans PowerPoint avec votre compte Micr
 
 ### <span class="etape-num">2</span> Choisir la langue parlée
 
-Dans le menu **Paramètres des sous-titres**, cliquez sur **Langue parlée**, puis choisissez la langue dans laquelle **vous allez parler** (par exemple **Français (France)**).
+Dans le menu **Paramètres des sous-titres**, pointez **Langue parlée**, puis choisissez dans la liste la langue dans laquelle **vous allez parler** (par exemple **Français (France)**). La langue choisie s'affiche ensuite dans le menu.
 
-<!-- capture : sous-titres-02-langue-parlee.png -->
+![Menu Paramètres des sous-titres : ligne Langue parlée](sous-titres-02-langue-parlee.png)
 
 </div>
 
@@ -86,11 +86,11 @@ Dans le menu **Paramètres des sous-titres**, cliquez sur **Langue parlée**, pu
 
 ### <span class="etape-num">3</span> Choisir la langue des sous-titres
 
-Cliquez sur **Langue des sous-titres**, puis choisissez la langue dans laquelle les sous-titres **s'afficheront** (par exemple **Anglais (Royaume-Uni)**).
+Pointez **Langue des sous-titres**, puis choisissez la langue dans laquelle les sous-titres **s'afficheront** (par exemple **Anglais**).
 
 Si vous choisissez la même langue que la langue parlée, PowerPoint transcrit simplement vos paroles, sans les traduire.
 
-<!-- capture : sous-titres-03-langue-sous-titres.png -->
+![Menu Paramètres des sous-titres : Langue des sous-titres réglée sur Anglais](sous-titres-03-langue-sous-titres.png)
 
 </div>
 
@@ -98,10 +98,12 @@ Si vous choisissez la même langue que la langue parlée, PowerPoint transcrit s
 
 ### <span class="etape-num">4</span> Choisir le micro et la position des sous-titres
 
-1. Dans **Microphone**, choisissez le micro que vous utiliserez pendant le cours.
-2. Choisissez où s'affichent les sous-titres, par exemple **Sous la diapositive** : ils ne cachent alors pas le contenu de vos diapositives.
+1. Pointez **Microphone**, puis choisissez le micro que vous utiliserez pendant le cours.
+2. Choisissez où s'affichent les sous-titres :
+    - **Sous la diapositive** ou **Au-dessus de la diapositive** : les sous-titres ne cachent pas le contenu de vos diapositives ;
+    - **En bas (superposés)** ou **En haut (superposés)** : les sous-titres s'affichent par-dessus la diapositive.
 
-<!-- capture : sous-titres-04-micro-position.png -->
+![Menu Paramètres des sous-titres : Microphone et position Sous la diapositive](sous-titres-04-micro-position.png)
 
 </div>
 
@@ -109,9 +111,9 @@ Si vous choisissez la même langue que la langue parlée, PowerPoint transcrit s
 
 ### <span class="etape-num">5</span> Activer les sous-titres
 
-Cochez la case **Toujours utiliser les sous-titres**, dans le groupe **Sous-titres et légendes** de l'onglet **Diaporama**. Les sous-titres s'afficheront automatiquement à chaque lancement du diaporama.
+Cochez la case **Toujours utiliser les sous-titres**, dans le groupe **Sous-titres en direct** de l'onglet **Diaporama**. Les sous-titres s'afficheront automatiquement à chaque lancement du diaporama.
 
-<!-- capture : sous-titres-05-activer.png -->
+![Case Toujours utiliser les sous-titres cochée](sous-titres-05-activer.png)
 
 </div>
 
@@ -123,7 +125,9 @@ Cochez la case **Toujours utiliser les sous-titres**, dans le groupe **Sous-titr
 2. Parlez normalement : les sous-titres s'affichent quelques instants après vos paroles.
 3. Pour masquer ou réafficher les sous-titres pendant la présentation, cliquez sur le bouton des sous-titres dans la barre d'outils, en bas à gauche de l'écran.
 
-<!-- capture : sous-titres-06-diaporama.png -->
+Dans l'exemple ci-dessous, la présentation se fait en français et les sous-titres s'affichent en anglais, en bas de la diapositive :
+
+![Diaporama en cours avec des sous-titres en anglais affichés en bas de la diapositive](sous-titres-06-diaporama.png)
 
 </div>
 
@@ -137,9 +141,9 @@ En dehors du diaporama, l'outil **Traduire** de PowerPoint traduit le texte que 
 
 1. Sélectionnez le texte à traduire dans votre diapositive (un mot, une phrase ou toute une zone de texte).
 2. Cliquez sur l'onglet **Révision**.
-3. Cliquez sur **Traduire**. Le volet **Traducteur** s'ouvre à droite de l'écran.
+3. Cliquez sur **Traduire**, dans le groupe **Langue**. Le volet **Traducteur** s'ouvre à droite de l'écran.
 
-<!-- capture : sous-titres-07-traduire.png -->
+![Onglet Révision : bouton Traduire et volet Traducteur ouvert à droite](sous-titres-07-traduire.png)
 
 </div>
 
@@ -147,7 +151,7 @@ En dehors du diaporama, l'outil **Traduire** de PowerPoint traduit le texte que 
 
 ### <span class="etape-num">8</span> Choisir la langue et insérer la traduction
 
-1. Dans le volet **Traducteur**, vérifiez la langue d'origine (en haut), puis choisissez la langue de traduction (en bas).
+1. Dans le volet **Traducteur**, laissez **Langue source** sur **Détection automatique**, puis choisissez la langue de traduction dans **Langue cible**.
 2. Relisez la traduction proposée.
 3. Cliquez sur **Insérer** : la traduction remplace le texte sélectionné dans la diapositive.
 
