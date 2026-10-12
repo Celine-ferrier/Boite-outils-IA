@@ -68,9 +68,26 @@ La transcription est **incluse** dans Teams avec votre compte enseignant (suite 
  2. Enregistrer et transcrire > Démarrer la transcription
  3. Vérifier la langue parlée
  4. Arrêter la transcription
- 5. Retrouver la transcription après la réunion
+ 5. Retrouver la transcription (selon le mode de lancement)
  6. Télécharger la transcription
 -->
+
+## Retrouver une transcription après la réunion
+
+La transcription reste disponible après la fin de la réunion, mais **son emplacement dépend de la façon dont la réunion a été lancée** :
+
+| Comment la réunion a été lancée | Où retrouver la transcription |
+|---|---|
+| **Réunion planifiée** dans le **Calendrier** de Teams ou depuis Outlook | **Calendrier** : ouvrez la réunion passée, puis l'onglet **Récapitulatif**. Elle se trouve aussi dans la **Conversation** de la réunion. |
+| **Réunion instantanée** (**Réunion maintenant**) | Elle n'apparaît pas dans le Calendrier. Ouvrez **Conversation**, puis la conversation qui porte le nom de la réunion. |
+| **Réunion lancée depuis une conversation** de groupe | Dans **cette même conversation**, à la suite des messages. |
+| **Réunion lancée dans le canal d'une équipe** | Dans le **canal** de l'équipe, dans la publication de la réunion. |
+
+Dans tous les cas, vous pouvez aussi taper le nom de la réunion dans la barre de **Recherche**, en haut de Teams.
+
+!!! tip "Deux bons réflexes"
+    - **Donnez un titre clair** à la réunion (par exemple « Équipe pédagogique génie des procédés – 12 octobre ») : vous la retrouverez plus facilement.
+    - **Téléchargez la transcription juste après la réunion** : elle n'est conservée que pendant une durée limitée, fixée par l'école.
 
 ## Ressources officielles
 
