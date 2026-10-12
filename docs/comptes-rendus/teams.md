@@ -62,13 +62,66 @@ La transcription est **incluse** dans Teams avec votre compte enseignant (suite 
 :material-magnify-plus-outline: Cliquez sur une capture pour l'agrandir.
 { .astuce-zoom }
 
+<div class="etape" markdown>
+
+### <span class="etape-num">1</span> Lancer la réunion
+
+Pour une réunion planifiée, rejoignez-la comme d'habitude depuis le **Calendrier**. Pour lancer une réunion tout de suite :
+
+1. Cliquez sur **Calendrier**, dans la barre de gauche de Teams, puis sur **Réunion instantanée**, en haut à droite.
+
+    ![Calendrier Teams : bouton Réunion instantanée](teams-01-reunion-instantanee.png)
+
+2. Dans **Nom de la réunion**, remplacez le nom proposé par un titre clair, par exemple « Équipe pédagogique génie des procédés – 12 octobre » : c'est grâce à lui que vous retrouverez la transcription.
+3. Cliquez sur **Commencer la réunion**.
+
+    ![Fenêtre Démarrer une réunion maintenant : champ Nom de la réunion et bouton Commencer la réunion](teams-01-nom-reunion.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">2</span> Démarrer la transcription
+
+1. Dans la barre d'outils de la réunion, cliquez sur **Autres**.
+2. Pointez **Enregistrer et transcrire**, puis cliquez sur **Démarrer la transcription**.
+3. Si Teams vous le demande, vérifiez la **langue parlée** pendant la réunion (par exemple **Français**), puis confirmez.
+
+Tous les participants sont prévenus par un message que la réunion est transcrite.
+
+![Barre d'outils de la réunion : bouton Autres](teams-02-autres.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">3</span> Suivre la transcription
+
+Le volet **Transcript** s'ouvre à droite de la fenêtre. Chaque intervention s'y affiche avec le **nom de la personne** qui parle et l'**heure**. Teams rappelle que le contenu généré par l'IA peut être inexact.
+
+Vous pouvez fermer ce volet avec la croix : la transcription continue en arrière-plan.
+
+![Volet Transcript : interventions transcrites avec l'heure, noms des participants masqués](teams-03-transcript.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">4</span> Arrêter la transcription
+
+1. Cliquez de nouveau sur **Autres**.
+2. Pointez **Enregistrer et transcrire**, puis cliquez sur **Arrêter la transcription**.
+
+Le message **La transcription a pris fin** s'affiche. Vous pouvez la redémarrer à tout moment. Si vous quittez la réunion sans l'arrêter, la transcription s'arrête automatiquement.
+
+![Message La transcription a pris fin](teams-04-fin.png)
+
+</div>
+
 <!--
-Étapes à rédiger à partir des captures (plan provisoire) :
- 1. Pendant la réunion, ouvrir le menu Plus d'actions
- 2. Enregistrer et transcrire > Démarrer la transcription
- 3. Vérifier la langue parlée
- 4. Arrêter la transcription
- 5. Retrouver la transcription (selon le mode de lancement)
+Étapes restant à rédiger (captures à recevoir) :
+ - menu Autres > Enregistrer et transcrire ouvert (étapes 2 et 4)
+ 5. Retrouver la transcription après la réunion (planifiée / instantanée)
  6. Télécharger la transcription
 -->
 
