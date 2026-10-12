@@ -154,7 +154,7 @@ Sous une réponse, cliquez sur l'icône **Bifurcation** :material-source-fork: (
 
 Dans la zone de saisie, cliquez sur le menu **Recherche** pour choisir le type de recherche : simple pour une question factuelle, avancée pour une question complexe. En version gratuite, les recherches avancées sont limitées : réservez-les aux questions qui le justifient. Le bouton **Computer**, juste à côté, correspond à une fonction payante (voir plus bas).
 
-![Menu du mode de recherche](images/perplexity-07-modes.png)
+![Zone de saisie : menu Recherche](images/perplexity-07-modes.png)
 
 </div>
 
@@ -164,7 +164,7 @@ Dans la zone de saisie, cliquez sur le menu **Recherche** pour choisir le type d
 
 Dans le menu de gauche, la rubrique **Sessions** liste toutes vos recherches, de la plus récente à la plus ancienne. Cliquez sur une session pour la rouvrir et la poursuivre, ou sur les **trois points** à droite de son titre pour la renommer ou la supprimer. La rubrique **Projets**, juste au-dessus, permet de regrouper les sessions d'un même cours.
 
-![Rubriques Sessions et Projets](images/perplexity-08-sessions.png)
+![Rubrique Sessions : trois points à droite d'une session et menu Renommer, Supprimer](images/perplexity-08-sessions.png)
 
 </div>
 
@@ -173,6 +173,8 @@ Dans le menu de gauche, la rubrique **Sessions** liste toutes vos recherches, de
 ### <span class="etape-num">9</span> Partager une recherche
 
 En haut à droite de la page, cliquez sur **Partager**, puis sur **Copier le lien**. Collez ce lien dans un courriel ou sur Moodle pour transmettre la recherche à un collègue ou à des étudiants.
+
+![Bouton Partager en haut à droite de la page](images/perplexity-09-partager.png)
 
 </div>
 
