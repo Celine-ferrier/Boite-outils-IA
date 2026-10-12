@@ -2,12 +2,9 @@
 
 <span class="badge badge-hors-ue">Hors UE</span> <span class="badge badge-gratuit">Inclus avec le compte enseignant</span>
 
-<p class="maj">Dernière vérification : à compléter</p>
+<p class="maj">Dernière vérification : octobre 2026</p>
 
 **Microsoft Teams**, l'outil de visioconférence de l'école, peut **transcrire une réunion en direct** : chaque intervention s'affiche par écrit, avec le nom de la personne qui parle. À la fin de la réunion, la transcription reste disponible et peut être téléchargée, puis utilisée pour rédiger le compte rendu. Tous les enseignants disposent de la suite Office (Microsoft 365) avec leur compte enseignant : la fonction est déjà disponible, rien à installer.
-
-!!! info "Fiche en cours de rédaction"
-    Les captures d'écran du tutoriel seront bientôt ajoutées.
 
 ## À quoi ça sert dans le supérieur
 
@@ -138,7 +135,7 @@ Le message **La transcription a pris fin** s'affiche. Vous pouvez la redémarrer
 Dans la fenêtre du récapitulatif, la partie **Transcript** affiche toute la transcription.
 
 1. Cliquez sur **Télécharger**.
-2. Choisissez le format **Word (.docx)** : le fichier s'ouvre dans Word, avec le nom des intervenants et l'heure de chaque intervention.
+2. Le fichier est téléchargé au format **.docx** : il s'ouvre dans Word, avec le nom des intervenants et l'heure de chaque intervention.
 
 Si la transcription a été arrêtée puis relancée pendant la réunion, elle est découpée en plusieurs parties (**Partie 1**, **Partie 2**…) : téléchargez chacune d'elles.
 
@@ -154,8 +151,8 @@ La transcription reste disponible après la fin de la réunion, mais **son empla
 
 | Comment la réunion a été lancée | Où retrouver la transcription |
 |---|---|
-| **Réunion planifiée** dans le **Calendrier** de Teams ou depuis Outlook | **Calendrier** : ouvrez la réunion passée, puis l'onglet **Récapitulatif**. Elle se trouve aussi dans la **Conversation** de la réunion. |
-| **Réunion instantanée** (**Réunion maintenant**) | Elle n'apparaît pas dans le Calendrier. Ouvrez **Conversation**, puis la conversation qui porte le nom de la réunion. |
+| **Réunion planifiée** dans le **Calendrier** de Teams ou depuis Outlook | **Conversation** : ouvrez la conversation qui porte le nom de la réunion. La transcription n'apparaît **pas** dans le Calendrier. |
+| **Réunion instantanée** (**Réunion instantanée** dans le Calendrier) | **Conversation** : ouvrez la conversation qui porte le nom de la réunion. |
 | **Réunion lancée depuis une conversation** de groupe | Dans **cette même conversation**, à la suite des messages. |
 | **Réunion lancée dans le canal d'une équipe** | Dans le **canal** de l'équipe, dans la publication de la réunion. |
 
