@@ -61,7 +61,6 @@ Chaque fiche indique où vont vos données. Ce repère vous aide à choisir l'ou
 | <span class="badge badge-souverain">Souverain ESR</span> | Hébergé par l'enseignement supérieur et la recherche | Documents de travail internes |
 | <span class="badge badge-ue">Entreprise UE</span> | Entreprise européenne, soumise au RGPD | Supports de cours publiables |
 | <span class="badge badge-hors-ue">Hors UE</span> | Données hébergées hors de l'Union européenne | Contenus déjà publics, sans données personnelles |
-| <span class="badge badge-souverain">Sur votre ordinateur</span> | Logiciel installé sur votre poste, sans envoi en ligne | Documents et enregistrements sensibles |
 
 !!! warning "Règle d'or"
     Ne déposez jamais de données personnelles d'étudiants (noms, notes, copies nominatives) dans un outil d'IA, quel qu'il soit. Consultez la page [Bonnes pratiques](bonnes-pratiques.md).
