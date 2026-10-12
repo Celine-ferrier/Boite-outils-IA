@@ -4,7 +4,7 @@
 
 <p class="maj">Dernière vérification : octobre 2026</p>
 
-Les assistants conversationnels présentés sur ce site (ILaaS, Mistral Vibe, Claude, ChatGPT, Gemini) savent aussi traduire. Contrairement à un outil de traduction comme [Lara Translate](lara.md), vous pouvez **dialoguer** avec eux : leur imposer le vocabulaire de votre discipline, leur demander d'adapter le niveau de langue, de créer un glossaire ou de relire une traduction existante.
+Les assistants conversationnels présentés sur ce site (Mistral Vibe, Claude, ChatGPT, Gemini) savent aussi traduire. Contrairement à un outil de traduction comme [Lara Translate](lara.md), vous pouvez **dialoguer** avec eux : leur imposer le vocabulaire de votre discipline, leur demander d'adapter le niveau de langue, de créer un glossaire ou de relire une traduction existante.
 
 **La bonne méthode combine les deux outils :** Lara traduit vite un fichier entier en gardant sa mise en page ; l'assistant IA vous aide ensuite à retravailler le texte et le vocabulaire technique.
 
@@ -28,8 +28,7 @@ Le choix dépend surtout de la **confidentialité** du texte à traduire.
 
 | Assistant | Hébergement | Pour quels textes ? |
 |---|---|---|
-| [ILaaS](../assistants/ilaas.md) | <span class="badge badge-souverain">Souverain ESR</span> | Documents de travail internes, textes non publiés |
-| [Mistral Vibe](../assistants/le-chat.md) | <span class="badge badge-ue">Entreprise UE</span> | Supports de cours, documents pédagogiques |
+| [Mistral Vibe](../assistants/le-chat.md) | <span class="badge badge-ue">Entreprise UE</span> | Supports de cours, documents pédagogiques, documents de travail internes |
 | [Claude](../assistants/claude.md), [ChatGPT](../assistants/chatgpt.md), [Gemini](../assistants/gemini.md) | <span class="badge badge-hors-ue">Hors UE</span> | Textes publics ou déjà diffusés |
 
 ## Cas d'usage
@@ -127,8 +126,7 @@ La méthode est la même quel que soit l'assistant choisi. Les captures ci-desso
 
 Choisissez votre assistant selon la confidentialité du texte (voir le tableau [Choisir son assistant](#choisir-son-assistant)) :
 
-- document interne ou non publié : **ILaaS** ;
-- support de cours : **Mistral Vibe** ;
+- support de cours ou document de travail interne : **Mistral Vibe** ;
 - texte public : l'assistant de votre choix.
 
 Ouvrez une **nouvelle conversation**, pour que l'assistant ne mélange pas votre traduction avec un échange précédent.
@@ -227,7 +225,7 @@ En cas de doute, faites relire le passage par un collègue qui maîtrise la lang
 ## Points de vigilance
 
 !!! warning "Données"
-    Ne collez jamais de données personnelles d'étudiants (copies, notes, listes) dans un assistant. Pour les documents internes ou confidentiels (sujets d'examen non publiés, données de partenaires industriels), utilisez **ILaaS**, hébergé dans l'enseignement supérieur.
+    Ne collez jamais de données personnelles d'étudiants (copies, notes, listes) dans un assistant. Ne traduisez pas non plus de documents confidentiels (sujets d'examen non publiés, données de partenaires industriels) avec un assistant en ligne ; pour les documents de travail internes, privilégiez **Mistral Vibe**, entreprise européenne soumise au RGPD.
 
 !!! tip "Fiabilité"
     Un assistant peut « inventer » un terme technique qui sonne juste mais n'est pas employé dans la discipline. Demandez-lui de lister les termes incertains, et vérifiez-les dans un dictionnaire spécialisé ou une norme.
