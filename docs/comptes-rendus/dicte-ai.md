@@ -60,7 +60,7 @@ L'application est **gratuite** sur iPhone et Android, avec des **achats intégr�
     Informez toujours les participants avant d'enregistrer et obtenez leur accord. Supprimez l'enregistrement de l'application une fois le compte rendu validé.
 
 !!! warning "Données"
-    Les enregistrements sont envoyés sur les serveurs de l'éditeur pour être transcrits. Vérifiez la politique de confidentialité dans l'application avant un premier usage. Pour une réunion sensible (jury, situation d'un étudiant), préférez [noScribe](noscribe.md), qui fonctionne sur votre ordinateur.
+    Les enregistrements sont envoyés sur les serveurs de l'éditeur pour être transcrits. Vérifiez la politique de confidentialité dans l'application avant un premier usage. Pour une réunion sensible (jury, situation d'un étudiant), n'enregistrez pas : privilégiez une prise de notes classique.
 
 !!! tip "Fiabilité"
     Relisez toujours le compte rendu généré : l'IA peut mal attribuer une parole, oublier un point ou reformuler une décision de façon inexacte.

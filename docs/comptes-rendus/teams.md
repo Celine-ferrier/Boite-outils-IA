@@ -82,7 +82,7 @@ La transcription est **incluse** dans Teams avec votre compte enseignant (suite 
     Annoncez la transcription en début de réunion, même si Teams affiche un bandeau d'information. Chaque participant peut choisir de masquer son nom dans la transcription.
 
 !!! warning "Données"
-    La transcription est réalisée et stockée par Microsoft (hors Union européenne). Pour une réunion sensible (jury, situation d'un étudiant), préférez enregistrer et transcrire avec [noScribe](noscribe.md), sur votre ordinateur.
+    La transcription est réalisée et stockée par Microsoft (hors Union européenne). Pour une réunion sensible (jury, situation d'un étudiant), n'activez pas la transcription : privilégiez une prise de notes classique.
 
 !!! tip "Fiabilité"
     Relisez la transcription avant de l'utiliser : les noms propres, les sigles et le vocabulaire technique sont souvent mal transcrits, surtout quand plusieurs personnes parlent en même temps.
