@@ -4,7 +4,7 @@
 
 <p class="maj">Dernière vérification : septembre 2026</p>
 
-Perplexity est un **moteur de recherche conversationnel** : vous posez une question en langage courant, il interroge le web et rédige une réponse synthétique en **citant ses sources**. Contrairement à NotebookLM, qui travaille sur vos propres documents, Perplexity va chercher l'information à l'extérieur.
+Perplexity est un **moteur de recherche conversationnel** : vous posez une question en langage courant, il interroge le web et rédige une réponse synthétique en **citant ses sources**. Contrairement à Gemini Notebook, qui travaille sur vos propres documents, Perplexity va chercher l'information à l'extérieur.
 
 [Ouvrir Perplexity](https://www.perplexity.ai){ .md-button .md-button--primary }
 

@@ -4,7 +4,7 @@ Ces outils aident à trouver, trier et exploiter la littérature. Ils ne remplac
 
 | Outil | Usage principal | Hébergement |
 |---|---|---|
-| [NotebookLM](notebooklm.md) | Interroger ses propres documents | <span class="badge badge-hors-ue">Hors UE</span> |
+| [Gemini Notebook (ex-NotebookLM)](notebooklm.md) | Interroger ses propres documents | <span class="badge badge-hors-ue">Hors UE</span> |
 | [Perplexity](perplexity.md) | Recherche web avec sources citées | <span class="badge badge-hors-ue">Hors UE</span> |
 | [Semantic Scholar](semantic-scholar.md) | Trouver des articles scientifiques | <span class="badge badge-hors-ue">Hors UE</span> |
 | [ResearchRabbit](researchrabbit.md) | Cartographier une littérature | <span class="badge badge-hors-ue">Hors UE</span> |

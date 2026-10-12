@@ -75,7 +75,7 @@ nav:
       - HeyGen: creation/heygen.md
   - Recherche documentaire:
       - recherche/index.md
-      - NotebookLM: recherche/notebooklm.md
+      - Gemini Notebook (ex-NotebookLM): recherche/notebooklm.md
       - Perplexity: recherche/perplexity.md
       - Semantic Scholar: recherche/semantic-scholar.md
       - ResearchRabbit: recherche/researchrabbit.md

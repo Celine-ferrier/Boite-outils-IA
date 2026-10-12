@@ -4,7 +4,7 @@
 
 <p class="maj">Dernière vérification : octobre 2026</p>
 
-**Gemini** est l'assistant conversationnel de Google. Il se distingue par ses liens avec l'univers Google : il peut regarder une vidéo YouTube, créer des diapositives dans son **Canvas**, exporter ses réponses vers Google Docs, travailler avec vos **notebooks NotebookLM** et créer des **Gems**, des assistants personnalisés que vous pouvez partager avec vos étudiants.
+**Gemini** est l'assistant conversationnel de Google. Il se distingue par ses liens avec l'univers Google : il peut regarder une vidéo YouTube, créer des diapositives dans son **Canvas**, exporter ses réponses vers Google Docs, travailler avec vos notebooks **Gemini Notebook** (ex-NotebookLM) et créer des **Gems**, des assistants personnalisés que vous pouvez partager avec vos étudiants.
 
 [Ouvrir Gemini](https://gemini.google.com){ .md-button .md-button--primary }
 
@@ -13,7 +13,7 @@
 - **Créer un assistant de cours** (Gem) qui guide les étudiants sans leur donner les réponses.
 - **Exploiter une vidéo** : résumer une conférence ou un tutoriel YouTube, en tirer des questions.
 - **Créer des diapositives** à partir d'un polycopié, dans le Canvas.
-- **Prolonger le travail fait dans NotebookLM** : interroger les sources d'un notebook depuis Gemini, ou verser une conversation Gemini dans un notebook (voir la fiche [NotebookLM](../recherche/notebooklm.md)).
+- **Prolonger le travail fait dans Gemini Notebook** : interroger les sources d'un notebook depuis Gemini, ou verser une conversation Gemini dans un notebook (voir la fiche [Gemini Notebook](../recherche/notebooklm.md)).
 - **Analyser une image** : photo de tableau, schéma de montage, graphique.
 - **Préparer des exercices à indices progressifs**, pour accompagner les étudiants pas à pas.
 
@@ -128,7 +128,7 @@ Gemini s'utilise avec un compte Google : connectez-vous avec votre compte Gmail 
 
 L'écran se compose de deux parties.
 
-- **À gauche, la barre latérale** : **Nouvelle discussion** pour démarrer une conversation, **Rechercher dans les discussions**, **Images** pour créer et retrouver des images, **Bibliothèque** pour retrouver vos fichiers. La rubrique **Notebooks** regroupe vos notebooks, partagés avec NotebookLM (**Nouveau notebook** pour en créer un), et la rubrique **Récentes** liste vos conversations. Tout en bas se trouvent **Activité** (l'historique de vos conversations, voir l'étape 13), votre nom et une **roue dentée** qui ouvre les réglages. Gemini y affiche aussi la ville d'où vous vous connectez, déduite de votre adresse IP. L'icône de **panneau**, en haut, réduit la barre à une colonne d'icônes.
+- **À gauche, la barre latérale** : **Nouvelle discussion** pour démarrer une conversation, **Rechercher dans les discussions**, **Images** pour créer et retrouver des images, **Bibliothèque** pour retrouver vos fichiers. La rubrique **Notebooks** regroupe vos notebooks, partagés avec Gemini Notebook (**Nouveau notebook** pour en créer un), et la rubrique **Récentes** liste vos conversations. Tout en bas se trouvent **Activité** (l'historique de vos conversations, voir l'étape 13), votre nom et une **roue dentée** qui ouvre les réglages. Gemini y affiche aussi la ville d'où vous vous connectez, déduite de votre adresse IP. L'icône de **panneau**, en haut, réduit la barre à une colonne d'icônes.
 - **Au centre, la zone de saisie** (« Demander à Gemini ») : le bouton **+** à gauche donne accès aux fichiers et aux outils, le sélecteur **Flash** permet de choisir le mode de réponse (voir l'étape 7) et le **micro** sert à dicter votre demande.
 
 En haut à droite, l'icône de **discussion temporaire** permet d'ouvrir une conversation qui ne sera pas conservée (voir l'étape 14).
@@ -159,7 +159,7 @@ Cliquez sur le bouton **+** à gauche de la zone de saisie : il se transforme en
 |---|---|
 | **Importer des fichiers** | Joindre un document ou une image depuis votre ordinateur |
 | **Ajouter depuis Drive** | Joindre un fichier enregistré dans votre Google Drive |
-| **Plus d'importations** | D'autres sources, dont vos notebooks NotebookLM (voir l'étape 6) |
+| **Plus d'importations** | D'autres sources, dont vos notebooks Gemini Notebook (voir l'étape 6) |
 | **Créer une image** | Générer une image à partir de votre description |
 | **Créer de la musique** | Générer un court morceau de musique |
 | **Canvas** | « Codez, écrivez ou créez des diapositives » dans un espace à part (voir l'étape 9) |
@@ -186,16 +186,16 @@ Retirez toute donnée personnelle d'un document avant de le joindre.
 
 <div class="etape" markdown>
 
-### <span class="etape-num">6</span> Utiliser un notebook NotebookLM
+### <span class="etape-num">6</span> Utiliser un notebook Gemini Notebook
 
-Vos notebooks sont partagés entre Gemini et [NotebookLM](../recherche/notebooklm.md) : un notebook créé dans l'un apparaît dans l'autre, avec ses sources. Vous pouvez donc demander à Gemini de travailler à partir des documents d'un notebook.
+Vos notebooks sont partagés entre Gemini et [Gemini Notebook](../recherche/notebooklm.md) : un notebook créé dans l'un apparaît dans l'autre, avec ses sources. Vous pouvez donc demander à Gemini de travailler à partir des documents d'un notebook.
 
 1. Ouvrez la fenêtre **Ajouter un notebook** depuis le bouton **+**.
 2. La liste de vos notebooks s'affiche, avec pour chacun son nombre de sources et sa date de création. Cliquez sur le notebook voulu : une coche bleue apparaît et le bas de la fenêtre indique **1 sélectionné(s)**. Cliquez sur **Ajouter**.
 
     ![Fenêtre Ajouter un notebook](gemini-06-notebook.png)
 
-3. Le notebook s'affiche sous forme de vignette au-dessus de la zone de saisie. Écrivez votre demande, par exemple : « À partir de mon carnet NotebookLM sur le béton auto-cicatrisant, crée un quiz d'entraînement de 10 questions à choix multiples pour des élèves ingénieurs de 2e année. Mélange des questions de mémorisation, de compréhension et d'application. Pour chaque question, donne la bonne réponse, une courte explication et la partie du cours concernée. »
+3. Le notebook s'affiche sous forme de vignette au-dessus de la zone de saisie. Écrivez votre demande, par exemple : « À partir de mon carnet Gemini Notebook sur le béton auto-cicatrisant, crée un quiz d'entraînement de 10 questions à choix multiples pour des élèves ingénieurs de 2e année. Mélange des questions de mémorisation, de compréhension et d'application. Pour chaque question, donne la bonne réponse, une courte explication et la partie du cours concernée. »
 
     ![Notebook joint à la demande](gemini-06-demande.png)
 
@@ -359,7 +359,7 @@ Pour une demande que vous ne souhaitez pas conserver, utilisez une **discussion 
 - [Centre d'aide Gemini](https://support.google.com/gemini?hl=fr) : prise en main, fonctionnalités, confidentialité.
 - [Limites de la version gratuite et des abonnements](https://support.google.com/gemini/answer/16275805?hl=fr) : ce qui est inclus selon la formule.
 - [Gérer et supprimer votre activité](https://support.google.com/gemini/answer/13278892?hl=fr) : enregistrement des conversations, durée de conservation, chat temporaire.
-- [Organiser vos projets avec les notebooks](https://support.google.com/gemini/answer/16972047?hl=fr) : notebooks partagés entre Gemini et NotebookLM.
+- [Organiser vos projets avec les notebooks](https://support.google.com/gemini/answer/16972047?hl=fr) : notebooks partagés entre Gemini et Gemini Notebook.
 - [Centre de confidentialité des applications Gemini](https://support.google.com/gemini/answer/13594961?hl=fr) : utilisation de vos données.
 
 ## Points de vigilance

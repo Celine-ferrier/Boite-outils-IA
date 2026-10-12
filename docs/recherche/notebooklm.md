@@ -1,12 +1,14 @@
-# NotebookLM
+# Gemini Notebook (ex-NotebookLM)
 
 <span class="badge badge-hors-ue">Hors UE</span> <span class="badge badge-gratuit">Gratuit avec un compte Google</span>
 
-<p class="maj">Dernière vérification : septembre 2026</p>
+<p class="maj">Dernière vérification : octobre 2026</p>
 
-NotebookLM est un assistant de Google qui travaille **uniquement à partir des documents que vous lui fournissez**. Il répond à vos questions en citant le passage exact de vos sources, ce qui limite fortement les réponses inventées. C'est l'outil idéal pour exploiter un corpus : articles scientifiques, rapports, polycopiés, transcriptions de cours.
+**Gemini Notebook** est un assistant de Google qui travaille **uniquement à partir des documents que vous lui fournissez**. Il répond à vos questions en citant le passage exact de vos sources, ce qui limite fortement les réponses inventées. C'est l'outil idéal pour exploiter un corpus : articles scientifiques, rapports, polycopiés, transcriptions de cours.
 
-[Ouvrir NotebookLM](https://notebooklm.google.com){ .md-button .md-button--primary }
+Il s'appelait **NotebookLM** jusqu'en juillet 2026 : Google l'a renommé, mais l'outil, le compte et vos carnets restent les mêmes, et l'ancienne adresse fonctionne toujours.
+
+[Ouvrir Gemini Notebook](https://notebooklm.google.com){ .md-button .md-button--primary }
 
 ## À quoi ça sert dans le supérieur
 
@@ -114,9 +116,9 @@ Un compte Google suffit. La version gratuite permet de créer jusqu'à **100 car
 
 ### <span class="etape-num">1</span> Se connecter
 
-Rendez-vous sur [notebooklm.google.com](https://notebooklm.google.com) et connectez-vous avec un compte Google. La page d'accueil affiche vos carnets existants.
+Rendez-vous sur [notebooklm.google.com](https://notebooklm.google.com) : la page de présentation de Gemini Notebook s'affiche. Cliquez sur **Essayer Gemini Notebook**, puis connectez-vous avec un compte Google. La page d'accueil affiche ensuite vos carnets existants.
 
-![Page d'accueil de NotebookLM](images/notebooklm-01-accueil.png)
+![Page de présentation de Gemini Notebook : bouton Essayer Gemini Notebook](images/notebooklm-01-accueil.png)
 
 </div>
 
@@ -174,7 +176,7 @@ Pour adapter une génération à votre public, cliquez sur l'**icône crayon** �
 
 ### <span class="etape-num">7</span> Prendre des notes
 
-Constituez vos fiches de prise de notes ou vos mémos : cliquez sur **Enregistrer dans une note** sous une réponse utile, ou sur **Ajouter une note** dans le panneau **Studio** pour rédiger la vôtre. Vous pouvez ensuite réutiliser une note comme mémo de cours, la copier dans vos supports ou la **convertir en source** pour que NotebookLM s'en serve dans ses prochaines générations.
+Constituez vos fiches de prise de notes ou vos mémos : cliquez sur **Enregistrer dans une note** sous une réponse utile, ou sur **Ajouter une note** dans le panneau **Studio** pour rédiger la vôtre. Vous pouvez ensuite réutiliser une note comme mémo de cours, la copier dans vos supports ou la **convertir en source** pour que Gemini Notebook s'en serve dans ses prochaines générations.
 
 </div>
 
@@ -194,7 +196,7 @@ Pour travailler avec des collègues ou mettre le carnet à disposition d'étudia
     Les documents sont hébergés par Google. Ne déposez ni données personnelles d'étudiants, ni documents confidentiels : contrats de recherche, données de partenaires industriels, brevets en cours, sujets d'examen.
 
 !!! tip "Fiabilité"
-    NotebookLM s'appuie sur vos sources, mais il peut mal interpréter un passage, un tableau ou une formule. Vérifiez les citations avant de réutiliser un contenu, en particulier pour un sujet d'examen ou une synthèse bibliographique.
+    Gemini Notebook s'appuie sur vos sources, mais il peut mal interpréter un passage, un tableau ou une formule. Vérifiez les citations avant de réutiliser un contenu, en particulier pour un sujet d'examen ou une synthèse bibliographique.
 
 !!! info "Droits d'auteur"
     Déposer un article pour votre usage personnel est acceptable. En revanche, partager un carnet contenant des documents protégés (ouvrages, normes, articles sous abonnement) avec des étudiants peut poser problème. Privilégiez vos propres supports et les documents en accès ouvert (HAL, arXiv, rapports publics).
