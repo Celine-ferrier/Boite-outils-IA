@@ -16,10 +16,11 @@
 - **Rédiger le compte rendu d'une réunion en présentiel** : réunion d'équipe, conseil de département, point de projet.
 - **Garder une trace d'une visite de terrain** : visite d'entreprise, de chantier ou de laboratoire avec des étudiants.
 - **Gagner du temps** : le compte rendu est proposé dès la fin de l'enregistrement, il ne reste qu'à le relire.
+- **Transcrire un enregistrement déjà réalisé** (dictaphone, téléphone) en l'important dans l'espace de travail.
 
 ## Version gratuite
 
-L'application est **gratuite** (téléphone, ordinateur et navigateur), avec des **achats intégrés** : la version gratuite est limitée, et un abonnement payant (offre Pro) donne accès à davantage d'enregistrements et de fonctions. Les limites exactes de la version gratuite sont précisées dans l'application.
+Dicte.ai est **gratuit jusqu'à 2 heures de réunion par mois**, sur téléphone, ordinateur ou navigateur. Au-delà, un **abonnement payant** est nécessaire (19,99 € par mois ou 119 € par an) : il n'est pas utile pour un usage ponctuel. Après la création du compte, Dicte propose ces abonnements : il suffit de choisir la version gratuite (voir le pas à pas).
 
 ## Cas d'usage
 
@@ -73,19 +74,46 @@ Sur téléphone, l'installation se fait comme pour toute application, depuis l'A
 
 ### <span class="etape-num">3</span> Créer un compte
 
-Sur l'écran **Connectez-vous à votre compte**, cliquez sur **Créer un compte**, puis inscrivez-vous avec votre adresse e-mail de l'école.
+1. Sur l'écran **Connectez-vous à votre compte**, cliquez sur **Créer un compte**, puis inscrivez-vous avec votre adresse e-mail de l'école.
 
-![Écran de connexion de Dicte : lien Créer un compte](dicte-03-creer-compte.png)
+    ![Écran de connexion de Dicte : lien Créer un compte](dicte-03-creer-compte.png)
+
+2. Lisez les conditions d'utilisation, cochez **J'ai lu et j'accepte les conditions d'utilisation**, puis cliquez sur **Continuer**.
+
+    ![Case J'ai lu et j'accepte les conditions d'utilisation et bouton Continuer](dicte-03-conditions.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">4</span> Choisir la version gratuite
+
+Dicte vous propose ensuite un abonnement payant. Pour rester sur la version gratuite, cliquez sur **Je continue avec mes 2h gratuites / mois**, en bas de la page.
+
+![Offres d'abonnement et lien Je continue avec mes 2h gratuites / mois](dicte-04-gratuit.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">5</span> Ouvrir votre espace de travail
+
+1. La page **Mes espaces de travail** s'affiche. Cliquez sur **Espace de travail**, créé automatiquement : c'est là que seront rangées vos réunions.
+
+    ![Page Mes espaces de travail : carte Espace de travail](dicte-05-espaces.png)
+
+2. Pour transcrire un enregistrement déjà réalisé (dictaphone, téléphone), cliquez sur **Importer un fichier audio**. Pour enregistrer une réunion en direct, utilisez l'application sur téléphone ou sur ordinateur (étape suivante).
+
+    ![Espace de travail : bouton Importer un fichier audio](dicte-05-importer.png)
 
 </div>
 
 <!--
 Étapes restant à rédiger (captures à recevoir) :
- 4. Lancer un enregistrement
- 5. Arrêter l'enregistrement
- 6. Consulter la transcription
- 7. Consulter et modifier le compte rendu
- 8. Partager ou exporter le compte rendu
+ 6. Lancer un enregistrement (application téléphone ou ordinateur)
+ 7. Arrêter l'enregistrement
+ 8. Consulter la transcription et le compte rendu
+ 9. Partager ou exporter le compte rendu
 -->
 
 ## Ressources officielles
