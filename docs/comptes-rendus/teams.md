@@ -84,12 +84,12 @@ Pour une réunion planifiée, rejoignez-la comme d'habitude depuis le **Calendri
 ### <span class="etape-num">2</span> Démarrer la transcription
 
 1. Dans la barre d'outils de la réunion, cliquez sur **Autres**.
-2. Pointez **Enregistrer et transcrire**, puis cliquez sur **Démarrer la transcription**.
+2. Pointez **Enregistrer et transcrire**, puis cliquez sur **Démarrer la transcription** dans le sous-menu qui s'ouvre.
 3. Si Teams vous le demande, vérifiez la **langue parlée** pendant la réunion (par exemple **Français**), puis confirmez.
 
 Tous les participants sont prévenus par un message que la réunion est transcrite.
 
-![Barre d'outils de la réunion : bouton Autres](teams-02-autres.png)
+![Menu Autres ouvert : Enregistrer et transcrire](teams-02-autres.png)
 
 </div>
 
@@ -118,12 +118,35 @@ Le message **La transcription a pris fin** s'affiche. Vous pouvez la redémarrer
 
 </div>
 
-<!--
-Étapes restant à rédiger (captures à recevoir) :
- - menu Autres > Enregistrer et transcrire ouvert (étapes 2 et 4)
- 5. Retrouver la transcription après la réunion (planifiée / instantanée)
- 6. Télécharger la transcription
--->
+<div class="etape" markdown>
+
+### <span class="etape-num">5</span> Retrouver la transcription après la réunion
+
+1. Cliquez sur **Conversation**, dans la barre de gauche de Teams, puis sur la conversation qui porte le **nom de la réunion**. L'emplacement exact dépend de la façon dont la réunion a été lancée : voir [le tableau ci-dessous](#retrouver-une-transcription-apres-la-reunion).
+2. Un encart résume la réunion terminée. Cliquez sur **Afficher le récapitulatif** (ou sur l'onglet **Récapitulatif**, en haut).
+
+    Vous pouvez aussi cliquer sur **Transcript**, dans la partie **Contenu** de l'encart, pour lire directement la transcription.
+
+![Conversation de la réunion : onglet Récapitulatif, bouton Afficher le récapitulatif et fichier Transcript](teams-05-retrouver.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">6</span> Télécharger la transcription
+
+Dans la fenêtre du récapitulatif, la partie **Transcript** affiche toute la transcription.
+
+1. Cliquez sur **Télécharger**.
+2. Choisissez le format **Word (.docx)** : le fichier s'ouvre dans Word, avec le nom des intervenants et l'heure de chaque intervention.
+
+Si la transcription a été arrêtée puis relancée pendant la réunion, elle est découpée en plusieurs parties (**Partie 1**, **Partie 2**…) : téléchargez chacune d'elles.
+
+Le bouton **Supprimer** efface la transcription : pensez-y une fois le compte rendu rédigé.
+
+![Récapitulatif de la réunion : partie Transcript avec le bouton Télécharger, début de la transcription](teams-06-telecharger.png)
+
+</div>
 
 ## Retrouver une transcription après la réunion
 
