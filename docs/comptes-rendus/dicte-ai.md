@@ -2,14 +2,11 @@
 
 <span class="badge badge-ue">Entreprise UE</span> <span class="badge badge-gratuit">Version gratuite</span>
 
-<p class="maj">Dernière vérification : à compléter</p>
+<p class="maj">Dernière vérification : octobre 2026</p>
 
 **Dicte.ai** est un assistant de réunion français (société Livdeo, à Besançon) qui **enregistre une réunion en présentiel**, la **transcrit** et **génère directement un compte rendu**. Pratique pour une réunion autour d'une table, une visite de terrain ou une soutenance, quand il n'y a pas de visio. Il existe sur **téléphone** (iPhone et Android), sur **ordinateur** (Windows et Mac) et dans le **navigateur**. Selon l'éditeur, les données sont traitées sur des **serveurs dédiés à Paris**, avec une **anonymisation par défaut**.
 
 [Ouvrir Dicte.ai](https://dicte.ai){ .md-button .md-button--primary }
-
-!!! info "Fiche en cours de rédaction"
-    Les captures d'écran du tutoriel seront bientôt ajoutées.
 
 ## À quoi ça sert dans le supérieur
 
@@ -108,13 +105,44 @@ Dicte vous propose ensuite un abonnement payant. Pour rester sur la version grat
 
 </div>
 
-<!--
-Étapes restant à rédiger (captures à recevoir) :
- 6. Lancer un enregistrement (application téléphone ou ordinateur)
- 7. Arrêter l'enregistrement
- 8. Consulter la transcription et le compte rendu
- 9. Partager ou exporter le compte rendu
--->
+<div class="etape" markdown>
+
+### <span class="etape-num">6</span> Enregistrer la réunion
+
+1. Ouvrez l'application Dicte sur votre téléphone ou votre ordinateur, et connectez-vous avec votre compte.
+2. Annoncez aux participants que la réunion est enregistrée.
+3. Posez le téléphone (ou l'ordinateur) au centre de la table, puis lancez l'enregistrement avec le bouton du **micro**.
+4. À la fin de la réunion, arrêtez l'enregistrement. L'enregistrement est envoyé dans votre espace de travail pour être transcrit.
+
+Pensez à surveiller votre temps : la version gratuite est limitée à **2 heures par mois**.
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">7</span> Relire la transcription
+
+Ouvrez la réunion dans votre espace de travail (par exemple dans **Mes réunions**). La transcription distingue les différents intervenants. Relisez-la et corrigez les erreurs, en particulier les noms propres, les sigles et le vocabulaire technique.
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">8</span> Générer le compte rendu
+
+Depuis la réunion, demandez à Dicte de générer le compte rendu. Relisez-le attentivement : vérifiez que les décisions, les actions à mener et les échéances correspondent bien à ce qui a été dit, et complétez si besoin.
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">9</span> Partager ou exporter le compte rendu
+
+Une fois le compte rendu validé, utilisez les options de partage ou d'export de la réunion pour l'envoyer aux participants ou l'enregistrer sur votre ordinateur. Vous pouvez ensuite le reprendre dans Word pour le mettre en forme.
+
+Supprimez ensuite l'enregistrement s'il n'est plus utile.
+
+</div>
 
 ## Ressources officielles
 
