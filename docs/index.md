@@ -6,10 +6,7 @@ hide:
 
 # Boîte à outils IA pour les enseignants
 
-L'intelligence artificielle peut vous faire gagner du temps au quotidien, à condition de choisir le bon outil et de l'utiliser avec discernement :
-
-- **pour les enseignants** : préparer un cours, traduire un support pour les étudiants internationaux, retrouver des articles scientifiques ;
-- **pour les personnels administratifs** : rédiger le compte rendu d'une réunion de service, synthétiser un document administratif (note, règlement, cahier des charges), rédiger un courrier ou une procédure.
+Préparer un cours, synthétiser un document, rédiger un courrier ou le compte rendu d'une réunion, traduire un support, retrouver des articles scientifiques… Que vous enseigniez ou que vous travailliez dans un service, l'intelligence artificielle peut vous faire gagner du temps au quotidien, à condition de choisir le bon outil et de l'utiliser avec discernement.
 
 Cette boîte à outils rassemble des outils d'IA **utilisables gratuitement**, sélectionnés et testés pour l'enseignement supérieur. Chaque fiche vous accompagne pas à pas, avec des captures d'écran, des exemples tirés des disciplines de l'école et des consignes prêtes à copier.
 
@@ -77,7 +74,7 @@ Chaque fiche indique où vont vos données. Ce repère vous aide à choisir l'ou
 
 ## Une question, un problème ?
 
-Une fiche n'est plus à jour, un outil ne fonctionne pas comme indiqué, ou vous souhaitez être accompagné dans vos premiers usages, que vous soyez enseignant ou personnel administratif ? Contactez :
+Une fiche n'est plus à jour, un outil ne fonctionne pas comme indiqué, ou vous souhaitez être accompagné dans vos premiers usages ? Contactez :
 
 - **Céline Ferrier**, ingénieure pédagogique ;
 - **Nathan Arthur**.
