@@ -6,7 +6,10 @@ hide:
 
 # Boîte à outils IA pour les enseignants
 
-Gagner du temps sur la préparation d'un cours, traduire un support pour vos étudiants internationaux, retrouver des articles scientifiques, rédiger le compte rendu d'une réunion… L'intelligence artificielle peut vous y aider, à condition de choisir le bon outil et de l'utiliser avec discernement.
+L'intelligence artificielle peut vous faire gagner du temps au quotidien, à condition de choisir le bon outil et de l'utiliser avec discernement :
+
+- **pour les enseignants** : préparer un cours, traduire un support pour les étudiants internationaux, retrouver des articles scientifiques ;
+- **pour les personnels administratifs** : rédiger le compte rendu d'une réunion de service, synthétiser un document administratif (note, règlement, cahier des charges), rédiger un courrier ou une procédure.
 
 Cette boîte à outils rassemble des outils d'IA **utilisables gratuitement**, sélectionnés et testés pour l'enseignement supérieur. Chaque fiche vous accompagne pas à pas, avec des captures d'écran, des exemples tirés des disciplines de l'école et des consignes prêtes à copier.
 
@@ -22,7 +25,7 @@ Cette boîte à outils rassemble des outils d'IA **utilisables gratuitement**, s
 
     ---
 
-    Préparer un cours, reformuler une consigne, générer des exercices, obtenir un avis sur un sujet d'examen.
+    Préparer un cours, générer des exercices, synthétiser un document administratif, rédiger un courrier ou une procédure.
 
     [Voir les assistants](assistants/index.md)
 
@@ -74,7 +77,7 @@ Chaque fiche indique où vont vos données. Ce repère vous aide à choisir l'ou
 
 ## Une question, un problème ?
 
-Une fiche n'est plus à jour, un outil ne fonctionne pas comme indiqué, ou vous souhaitez être accompagné dans vos premiers usages ? Contactez :
+Une fiche n'est plus à jour, un outil ne fonctionne pas comme indiqué, ou vous souhaitez être accompagné dans vos premiers usages, que vous soyez enseignant ou personnel administratif ? Contactez :
 
 - **Céline Ferrier**, ingénieure pédagogique ;
 - **Nathan Arthur**.
