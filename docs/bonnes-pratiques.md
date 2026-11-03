@@ -7,7 +7,7 @@ Quelques règles simples pour utiliser l'IA sereinement dans votre enseignement.
 - Ne déposez jamais de données personnelles d'étudiants : noms, numéros, notes, copies nominatives.
 - Évitez les documents confidentiels : contrats de recherche, données industrielles de partenaires, sujets d'examen non encore passés.
 - Dans les versions gratuites, désactivez l'utilisation de vos conversations pour l'entraînement des modèles lorsque l'option existe.
-- Pour les documents internes, privilégiez ILaaS, hébergé dans l'enseignement supérieur.
+- Pour les documents de travail internes, privilégiez un outil européen, comme Mistral Vibe : il est soumis au RGPD.
 
 ## Vérifier ce que produit l'IA
 

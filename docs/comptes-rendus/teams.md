@@ -26,7 +26,7 @@ La transcription est **incluse** dans Teams avec votre compte enseignant (suite 
 
     **Exemple** : une réunion en visio de l'équipe pédagogique d'un module de génie des procédés.
 
-    Téléchargez la transcription, puis collez-la dans [ILaaS](../assistants/ilaas.md) ou [Mistral Vibe](../assistants/le-chat.md) avec cette consigne :
+    Téléchargez la transcription, puis collez-la dans [Mistral Vibe](../assistants/le-chat.md), assistant d'une entreprise européenne, avec cette consigne :
 
     ```
     Voici la transcription d'une réunion d'équipe pédagogique.
