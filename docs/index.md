@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-# Boîte à outils IA pour les enseignants
+# Boîte à outils IA
 
 Préparer un cours, synthétiser un document, rédiger un courrier ou le compte rendu d'une réunion, traduire un support, retrouver des articles scientifiques… Que vous enseigniez ou que vous travailliez dans un service, l'intelligence artificielle peut vous faire gagner du temps au quotidien, à condition de choisir le bon outil et de l'utiliser avec discernement.
 
@@ -74,7 +74,7 @@ Chaque fiche indique où vont vos données. Ce repère vous aide à choisir l'ou
 
 ## Une question, un problème ?
 
-Une fiche n'est plus à jour, un outil ne fonctionne pas comme indiqué, ou vous souhaitez être accompagné dans vos premiers usages ? Contactez :
+Une fiche n'est plus à jour, un outil ne fonctionne pas comme indiqué, ou vous souhaitez être accompagné dans vos premiers usages ? Contactez l'équipe des ingénieurs pédagogiques :
 
-- **Céline Ferrier**, ingénieure pédagogique ;
-- **Nathan Arthur**.
+- **Céline Ferrier**
+- **Nathan Arthur**
