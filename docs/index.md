@@ -77,4 +77,4 @@ Chaque fiche indique où vont vos données. Ce repère vous aide à choisir l'ou
 Une fiche n'est plus à jour, un outil ne fonctionne pas comme indiqué, ou vous souhaitez être accompagné dans vos premiers usages ? Contactez l'équipe des ingénieurs pédagogiques :
 
 - **Céline Ferrier** : [celine.ferrier@mines-ales.fr](mailto:celine.ferrier@mines-ales.fr)
-- **Nathan Arthur**
+- **Nathan Arthur** : [nathan.arthur@mines-ales.fr](mailto:nathan.arthur@mines-ales.fr)
