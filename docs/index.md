@@ -6,7 +6,15 @@ hide:
 
 # Boîte à outils IA pour les enseignants
 
-Des outils d'intelligence artificielle **utilisables gratuitement**, choisis pour l'enseignement supérieur, avec un tutoriel pour chacun. Partez de ce que vous voulez faire : chaque rubrique vous oriente vers l'outil adapté.
+Gagner du temps sur la préparation d'un cours, traduire un support pour vos étudiants internationaux, retrouver des articles scientifiques, rédiger le compte rendu d'une réunion… L'intelligence artificielle peut vous y aider, à condition de choisir le bon outil et de l'utiliser avec discernement.
+
+Cette boîte à outils rassemble des outils d'IA **utilisables gratuitement**, sélectionnés et testés pour l'enseignement supérieur. Chaque fiche vous accompagne pas à pas, avec des captures d'écran, des exemples tirés des disciplines de l'école et des consignes prêtes à copier.
+
+**Comment l'utiliser ?**
+
+1. **Partez de votre besoin** : choisissez ci-dessous la rubrique qui correspond à ce que vous voulez faire.
+2. **Choisissez l'outil** : le tableau de chaque rubrique compare les outils et indique où vont vos données.
+3. **Suivez le pas à pas** : chaque fiche se lit de haut en bas, une étape après l'autre. Cliquez sur une capture pour l'agrandir.
 
 <div class="grid cards" markdown>
 
@@ -63,3 +71,10 @@ Chaque fiche indique où vont vos données. Ce repère vous aide à choisir l'ou
 
 !!! warning "Règle d'or"
     Ne déposez jamais de données personnelles d'étudiants (noms, notes, copies nominatives) dans un outil d'IA, quel qu'il soit. Consultez la page [Bonnes pratiques](bonnes-pratiques.md).
+
+## Une question, un problème ?
+
+Une fiche n'est plus à jour, un outil ne fonctionne pas comme indiqué, ou vous souhaitez être accompagné dans vos premiers usages ? Contactez :
+
+- **Céline Ferrier**, ingénieure pédagogique ;
+- **Nathan Arthur**.
