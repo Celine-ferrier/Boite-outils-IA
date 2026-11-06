@@ -75,15 +75,40 @@ Wooclap est accessible **avec votre compte de l'école**, grâce à la licence s
 :material-magnify-plus-outline: Cliquez sur une capture pour l'agrandir.
 { .astuce-zoom }
 
+<div class="etape" markdown>
+
+### <span class="etape-num">1</span> Se connecter avec le compte de l'école
+
+1. Ouvrez [wooclap.com](https://www.wooclap.com/fr/), puis cliquez sur **Se connecter**, en haut à droite.
+
+    ![Site Wooclap : bouton Se connecter](wooclap-01-site.png)
+
+2. Sur l'écran **Authentification unique (SSO)**, saisissez votre adresse e-mail de l'école dans le champ **Email**, puis cliquez sur **Continuer avec l'authentification unique**.
+3. Connectez-vous avec vos identifiants habituels de l'école.
+
+N'utilisez pas **Se connecter sans SSO** : seul le compte de l'école donne accès à la licence et aux agents IA.
+
+![Écran Authentification unique (SSO) : champ Email et bouton Continuer avec l'authentification unique](wooclap-01-sso.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">2</span> Découvrir le tableau de bord
+
+La page d'accueil propose en haut des **modèles** d'événements, puis la liste **Mes événements**. Un bandeau indique que **les agents IA sont disponibles sur votre compte**. Pour préparer une séance, cliquez sur **Créer un événement**.
+
+![Tableau de bord : bandeau des agents IA et bouton Créer un événement](wooclap-02-tableau-de-bord.png)
+
+</div>
+
 <!--
-Étapes à rédiger à partir des captures (plan provisoire) :
- 1. Se connecter avec le compte de l'école (fédération d'identité)
- 2. Découvrir le tableau de bord
+Étapes restant à rédiger (captures à recevoir) :
  3. Créer un événement
  4. Générer des questions avec l'IA à partir d'un document
  5. Relire et modifier les questions générées
- 6. Rendre un schéma interactif
- 7. Lancer l'événement et faire participer les étudiants
+ 6. Rendre un schéma interactif (Légender une image)
+ 7. Lancer l'événement : vue participant (capture wooclap-07-participant.png prête)
  8. Classer et résumer les réponses avec l'IA
  9. Consulter les résultats après le cours
 -->
