@@ -134,17 +134,54 @@ Le bouton **Démarrer l'événement**, en haut à droite, servira à lancer la s
 
     ![Document déposé et choix des pages](wooclap-04-document.png)
 
-4. À **Quel type de contenu souhaitez-vous créer ?**, cochez un ou plusieurs types : **Questions à choix multiple**, **Sondage**, **Questions ouvertes**, **Textes à trous**, **Associations** ou **Brainstorming**.
+4. À **Quel type de contenu souhaitez-vous créer ?**, cochez un ou plusieurs types : **Questions à choix multiple**, **Sondage**, **Questions ouvertes**, **Textes à trous**, **Associations** ou **Brainstorming**. Pour certains types, précisez le nombre d'éléments, par exemple le **Nombre de réponses correctes** et le **Nombre de réponses fausses** d'un QCM.
 5. Dépliez **(facultatif) Instructions supplémentaires** pour préciser votre public et vos attentes (voir l'exemple dans les cas d'usage), puis cliquez sur **Générer le contenu**.
 
     ![Type de contenu, Instructions supplémentaires et Générer le contenu](wooclap-04-type-contenu.png)
 
 </div>
 
+<div class="etape" markdown>
+
+### <span class="etape-num">5</span> Relire et modifier les questions générées
+
+Les questions générées s'affichent les unes sous les autres. **Relisez chacune d'elles** avant de l'ajouter à votre événement :
+
+1. Cochez ou décochez les cases pour indiquer les **bonnes réponses**.
+2. Cliquez dans une proposition pour la corriger, ou sur la **corbeille** pour la supprimer.
+3. Ajoutez au besoin vos propres éléments avec **Ajouter une proposition manuellement** ou **Ajouter une question manuellement**.
+
+![Questions générées : case de bonne réponse, proposition modifiable et corbeille](wooclap-05-questions.png)
+
+!!! warning "Attention aux formules"
+    Les formules mathématiques peuvent s'afficher sous forme de code (par exemple `\(\rho=\dfrac{n\times M}{a^3}\)`) au lieu d'une formule lisible. Réécrivez-les en texte simple, par exemple « ρ = n × M / (N_A × a³) », avant d'ajouter les questions.
+
+Quand tout est relu, cliquez sur **Ajouter les questions à l'événement**, en bas de la page. **Générer plus de contenu sur la même section** propose d'autres questions, et **Exporter** les enregistre dans un fichier.
+
+![Fin de la liste : Ajouter une question manuellement, Générer plus de contenu et Ajouter les questions à l'événement](wooclap-05-ajouter.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">6</span> Rendre un schéma interactif
+
+Les étudiants retrouvent les légendes masquées d'un schéma technique.
+
+1. Dans l'événement, cliquez sur **Créer une question**, puis sur **Légender une image**, dans la rubrique **Évaluer la compréhension** (voir la capture de l'étape 4).
+2. Dans **Titre de la question**, écrivez la consigne, par exemple « Replacez chaque légende sur le schéma de la maille CFC ».
+3. Chargez votre schéma dans la partie **Image**.
+4. Si le schéma comporte déjà ses légendes, cliquez sur **Auto-légender cette image** : l'IA repère les légendes, place les repères numérotés et masque le texte. Sinon, cliquez sur l'image pour placer chaque repère, puis saisissez la réponse attendue dans **Étiquette 1**, **Étiquette 2**… (bouton **Nouvelle étiquette**).
+5. Vérifiez les repères et les étiquettes. **Flouter une zone de l'image** permet de masquer une partie restée visible.
+6. Dans le panneau de droite, laissez **Ignorer les petites erreurs** activé : les erreurs d'accents et de majuscules ne seront pas pénalisées.
+7. Cliquez sur **Sauvegarder**, ou sur **Afficher maintenant** pour poser la question tout de suite.
+
+![Question Légender une image : Auto-légender cette image, Nouvelle étiquette, Sauvegarder et Afficher maintenant](wooclap-06-legender.png)
+
+</div>
+
 <!--
 Étapes restant à rédiger (captures à recevoir) :
- 5. Relire et modifier les questions générées
- 6. Rendre un schéma interactif (Légender une image)
  7. Lancer l'événement : vue participant (capture prête dans le dossier de travail)
  8. Classer et résumer les réponses avec l'IA
  9. Consulter les résultats après le cours
