@@ -33,8 +33,6 @@ Wooclap est accessible **avec votre compte de l'école**, grâce à la licence s
 | **Idea Generator** | Proposer des réponses à une question de remue-méninges |
 | **Summarizer** | Structurer et résumer les contributions des participants |
 
-Chaque agent peut recevoir vos propres **instructions personnalisées**, pour mieux coller à votre cours.
-
 <!-- Intitulés français des agents à vérifier sur les captures -->
 
 ## Cas d'usage
@@ -84,11 +82,10 @@ Chaque agent peut recevoir vos propres **instructions personnalisées**, pour mi
  3. Créer un événement
  4. Générer des questions avec l'IA à partir d'un document
  5. Relire et modifier les questions générées
- 6. Ajouter des instructions personnalisées à un agent
- 7. Rendre un schéma interactif
- 8. Lancer l'événement et faire participer les étudiants
- 9. Classer et résumer les réponses avec l'IA
-10. Consulter les résultats après le cours
+ 6. Rendre un schéma interactif
+ 7. Lancer l'événement et faire participer les étudiants
+ 8. Classer et résumer les réponses avec l'IA
+ 9. Consulter les résultats après le cours
 -->
 
 ## Ressources officielles
