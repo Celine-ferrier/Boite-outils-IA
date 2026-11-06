@@ -202,12 +202,10 @@ Les étudiants répondent depuis leur téléphone ou leur ordinateur, sans compt
 
 <div class="etape" markdown>
 
-### <span class="etape-num">8</span> Consulter les résultats après le cours
+### <span class="etape-num">8</span> Retrouver les résultats
 
 1. Sur la page de l'événement, cliquez sur **Paramètres**, en haut à droite.
-2. Dans la rubrique **Résultats**, cliquez sur **Rapports** pour voir les réponses de chaque question.
-
-**Réinitialiser les réponses** efface toutes les réponses : utile pour réutiliser le même événement avec un autre groupe, après avoir consulté les rapports.
+2. Dans la rubrique **Résultats**, cliquez sur **Rapports** : les réponses de chaque question s'y trouvent.
 
 ![Paramètres de l'événement : rubrique Résultats et lien Rapports](wooclap-08-rapports.png)
 
