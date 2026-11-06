@@ -41,7 +41,7 @@ Wooclap est accessible **avec votre compte de l'école**, grâce à la licence s
 
     **Exemple** : un QCM de fin de séance sur un chapitre de résistance des matériaux.
 
-    Importez votre support de cours (PDF ou PowerPoint) dans le **Générateur de questions**, puis précisez :
+    Avec **Créer à l'aide de l'IA**, importez votre support de cours (PDF ou PowerPoint), puis indiquez dans **Instructions supplémentaires** :
 
     ```
     Génère 6 questions à choix multiples sur ce chapitre,
@@ -102,13 +102,50 @@ La page d'accueil propose en haut des **modèles** d'événements, puis la liste
 
 </div>
 
+<div class="etape" markdown>
+
+### <span class="etape-num">3</span> Créer un événement
+
+Un **événement** regroupe les questions d'une séance.
+
+1. Cliquez sur **Mon nouvel événement**, en haut à gauche, et remplacez-le par le titre de votre séance (par exemple « Architecture des solides parfaits »).
+2. Laissez l'onglet **Session en direct** sélectionné : les questions seront posées pendant le cours.
+3. Cliquez sur **Créer une question**.
+
+Le bouton **Démarrer l'événement**, en haut à droite, servira à lancer la séance (étape 7).
+
+![Événement vide : titre, Créer une question et Démarrer l'événement](wooclap-03-evenement.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">4</span> Générer des questions avec l'IA à partir d'un document
+
+1. Dans la liste des types de questions, cliquez sur **Créer à l'aide de l'IA**, dans la rubrique **En vedette**.
+
+    ![Types de questions : Créer à l'aide de l'IA et Légender une image](wooclap-04-types.png)
+
+2. À la question **Depuis quelle source souhaitez-vous générer des questions ?**, cliquez sur **Document**. Les autres sources possibles sont **Texte**, **Thématique**, **YouTube**, **Lien** et **Audio/vidéo**.
+
+    ![Choix de la source : Document](wooclap-04-source.png)
+
+3. Déposez votre support de cours (PDF ou PowerPoint) dans le cadre. Si besoin, limitez la génération à certaines pages avec **Affinez votre contenu en choisissant les pages pertinentes**. Pour un document scanné ou une photo, cochez **Mon PDF est un document scanné…**. Cliquez ensuite sur le bouton pour passer à l'étape suivante.
+
+    ![Document déposé et choix des pages](wooclap-04-document.png)
+
+4. À **Quel type de contenu souhaitez-vous créer ?**, cochez un ou plusieurs types : **Questions à choix multiple**, **Sondage**, **Questions ouvertes**, **Textes à trous**, **Associations** ou **Brainstorming**.
+5. Dépliez **(facultatif) Instructions supplémentaires** pour préciser votre public et vos attentes (voir l'exemple dans les cas d'usage), puis cliquez sur **Générer le contenu**.
+
+    ![Type de contenu, Instructions supplémentaires et Générer le contenu](wooclap-04-type-contenu.png)
+
+</div>
+
 <!--
 Étapes restant à rédiger (captures à recevoir) :
- 3. Créer un événement
- 4. Générer des questions avec l'IA à partir d'un document
  5. Relire et modifier les questions générées
  6. Rendre un schéma interactif (Légender une image)
- 7. Lancer l'événement : vue participant (capture wooclap-07-participant.png prête)
+ 7. Lancer l'événement : vue participant (capture prête dans le dossier de travail)
  8. Classer et résumer les réponses avec l'IA
  9. Consulter les résultats après le cours
 -->
