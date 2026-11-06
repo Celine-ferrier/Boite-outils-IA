@@ -154,7 +154,7 @@ Les questions générées s'affichent les unes sous les autres. **Relisez chacun
 ![Questions générées : case de bonne réponse, proposition modifiable et corbeille](wooclap-05-questions.png)
 
 !!! warning "Attention aux formules"
-    Les formules mathématiques peuvent s'afficher sous forme de code (par exemple `\(\rho=\dfrac{n\times M}{a^3}\)`) au lieu d'une formule lisible. Réécrivez-les en texte simple, par exemple « ρ = n × M / (N_A × a³) », avant d'ajouter les questions.
+    Pendant la relecture, les formules mathématiques s'affichent sous forme de code (par exemple `\(\rho=\dfrac{n\times M}{a^3}\)`). Une fois les questions ajoutées à l'événement, la plupart deviennent des formules lisibles, mais pas toutes. Vérifiez chaque question dans la liste de l'événement (étape 7) et réécrivez en texte simple celles qui restent sous forme de code, par exemple « ρ = n × M / (N_A × a³) ».
 
 Quand tout est relu, cliquez sur **Ajouter les questions à l'événement**, en bas de la page. **Générer plus de contenu sur la même section** propose d'autres questions, et **Exporter** les enregistre dans un fichier.
 
@@ -172,7 +172,10 @@ Les étudiants retrouvent les légendes masquées d'un schéma technique.
 2. Dans **Titre de la question**, écrivez la consigne, par exemple « Replacez chaque légende sur le schéma de la maille CFC ».
 3. Chargez votre schéma dans la partie **Image**.
 4. Si le schéma comporte déjà ses légendes, cliquez sur **Auto-légender cette image** : l'IA repère les légendes, place les repères numérotés et masque le texte. Sinon, cliquez sur l'image pour placer chaque repère, puis saisissez la réponse attendue dans **Étiquette 1**, **Étiquette 2**… (bouton **Nouvelle étiquette**).
-5. Vérifiez les repères et les étiquettes. **Flouter une zone de l'image** permet de masquer une partie restée visible.
+5. Vérifiez les repères et les étiquettes : l'IA peut se tromper. Dans l'exemple ci-dessous, elle a fusionné le titre du schéma et la légende « Arête du cube » dans l'étiquette 1 : il faut corriger l'étiquette et déplacer le repère. **Flouter une zone de l'image** permet de masquer une partie restée visible.
+
+    ![Résultat de l'auto-légendage : repères numérotés, légendes masquées et étiquettes à vérifier](wooclap-06-resultat.png)
+
 6. Dans le panneau de droite, laissez **Ignorer les petites erreurs** activé : les erreurs d'accents et de majuscules ne seront pas pénalisées.
 7. Cliquez sur **Sauvegarder**, ou sur **Afficher maintenant** pour poser la question tout de suite.
 
@@ -180,11 +183,40 @@ Les étudiants retrouvent les légendes masquées d'un schéma technique.
 
 </div>
 
+<div class="etape" markdown>
+
+### <span class="etape-num">7</span> Lancer l'événement pendant le cours
+
+1. La page de l'événement liste toutes vos questions. Vérifiez-les et corrigez-les si besoin avec **Modifier**.
+2. Pendant le cours, cliquez sur **Démarrer l'événement**, en haut à droite, pour projeter l'événement.
+3. Commencez par la ligne **Rejoindre cet événement Wooclap** (bouton **Afficher**) : elle affiche le code et le QR code que les étudiants utilisent pour se connecter.
+4. Affichez ensuite les questions une à une avec leur bouton **Afficher**.
+
+![Page de l'événement : Rejoindre cet événement Wooclap, Modifier, Afficher et Démarrer l'événement](wooclap-07-evenement.png)
+
+Les étudiants répondent depuis leur téléphone ou leur ordinateur, sans compte, en saisissant le code sur [wooclap.com](https://www.wooclap.com/fr/). Pour la question **Légender une image**, ils tapent le nom de chaque repère numéroté, puis cliquent sur **Valider** :
+
+![Vue étudiant : schéma avec repères numérotés et champ de saisie de la légende](wooclap-07-participant.png)
+
+</div>
+
+<div class="etape" markdown>
+
+### <span class="etape-num">8</span> Consulter les résultats après le cours
+
+1. Sur la page de l'événement, cliquez sur **Paramètres**, en haut à droite.
+2. Dans la rubrique **Résultats**, cliquez sur **Rapports** pour voir les réponses de chaque question.
+
+**Réinitialiser les réponses** efface toutes les réponses : utile pour réutiliser le même événement avec un autre groupe, après avoir consulté les rapports.
+
+![Paramètres de l'événement : rubrique Résultats et lien Rapports](wooclap-08-rapports.png)
+
+</div>
+
 <!--
-Étapes restant à rédiger (captures à recevoir) :
- 7. Lancer l'événement : vue participant (capture prête dans le dossier de travail)
- 8. Classer et résumer les réponses avec l'IA
- 9. Consulter les résultats après le cours
+Captures encore utiles :
+ - écran projeté après Démarrer l'événement (code et QR code)
+ - classement et synthèse des réponses par l'IA (question ouverte)
 -->
 
 ## Ressources officielles
