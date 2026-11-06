@@ -2,14 +2,11 @@
 
 <span class="badge badge-ue">Entreprise UE</span> <span class="badge badge-gratuit">Licence de l'école</span>
 
-<p class="maj">Dernière vérification : à compléter</p>
+<p class="maj">Dernière vérification : novembre 2026</p>
 
 **Wooclap** est une plateforme de questions interactives : pendant votre cours, les étudiants répondent depuis leur téléphone ou leur ordinateur, et les résultats s'affichent en direct. L'école dispose d'une licence, et vous vous connectez avec votre compte de l'école. Depuis peu, cette licence donne aussi accès aux **agents IA de Wooclap**, des assistants intégrés qui vous aident à créer des questions, à rendre un schéma interactif ou à analyser les réponses de vos étudiants.
 
 [Ouvrir Wooclap](https://www.wooclap.com){ .md-button .md-button--primary }
-
-!!! info "Fiche en cours de rédaction"
-    Le tutoriel complet sera bientôt disponible.
 
 ## À quoi ça sert dans le supérieur
 
@@ -27,13 +24,13 @@ Wooclap est accessible **avec votre compte de l'école**, grâce à la licence s
 
 | Agent | À quoi il sert |
 |---|---|
-| **Générateur de questions** | Créer des questions en quelques secondes à partir d'un document (PDF, PowerPoint), d'un lien, d'un texte collé ou d'un fichier audio ou vidéo |
-| **Image Labeler** | Transformer un schéma ou une carte en activité interactive, en plaçant automatiquement les repères et en masquant les légendes |
+| **Créer à l'aide de l'IA** (étapes 4 et 5) | Créer des questions en quelques secondes à partir d'un document (PDF, PowerPoint), d'un lien, d'un texte collé ou d'un fichier audio ou vidéo |
+| **Auto-légender cette image** (étape 6) | Transformer un schéma ou une carte en activité interactive, en plaçant automatiquement les repères et en masquant les légendes |
 | **Answer Organizer** | Classer automatiquement les réponses des participants par thèmes |
 | **Idea Generator** | Proposer des réponses à une question de remue-méninges |
 | **Summarizer** | Structurer et résumer les contributions des participants |
 
-<!-- Intitulés français des agents à vérifier sur les captures -->
+Les trois derniers agents s'utilisent pendant la séance, sur les réponses à une question ouverte ou à un remue-méninges. Ils ne sont pas détaillés dans le pas à pas : repérez les boutons de l'IA sur l'écran des résultats de la question.
 
 ## Cas d'usage
 
@@ -211,11 +208,6 @@ Les étudiants répondent depuis leur téléphone ou leur ordinateur, sans compt
 
 </div>
 
-<!--
-Captures encore utiles :
- - écran projeté après Démarrer l'événement (code et QR code)
- - classement et synthèse des réponses par l'IA (question ouverte)
--->
 
 ## Ressources officielles
 
